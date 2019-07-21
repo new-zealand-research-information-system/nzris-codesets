@@ -1,0 +1,61 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Tertiary Education Commission Output Type",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			100,
+			110,
+			120,
+			130,
+			140,
+			150,
+			160,
+			170,
+			180,
+			190,
+			200,
+			210,
+			220,
+			230,
+			240
+		],
+		"Description" : [
+			"Authored Book",
+			"Chapter in Book",
+			"Conference Contribution - Other",
+			"Conference Contribution - Published",
+			"Creative Work",
+			"Discussion / Working Paper",
+			"Edited Volume",
+			"Intellectual Property",
+			"Journal Article",
+			"Oral Presentation",
+			"Other Form of Assessable Output",
+			"Report",
+			"Scholarly Edition / Literary Translation",
+			"Software",
+			"Thesis"
+		],
+		"Definition" : [
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null,
+			null
+		]
+	}
+}

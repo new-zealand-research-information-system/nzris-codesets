@@ -1,0 +1,31 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Status",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"01",
+			"02",
+			"03",
+			"04",
+			"05"
+		],
+		"Description" : [
+			"Active",
+			"On Hold",
+			"Completed",
+			"Partially Completed",
+			"Cancelled"
+		],
+		"Definition" : [
+			"The award or project is proceeding",
+			"The award or project is inactive for a specific time-bound reason (e.g. lead researcher not available)",
+			"The award or project has been completed in full and has been closed",
+			"The award or project has been partially completed and has been closed",
+			"The award or project has been closed prior to any work being done"
+		]
+	}
+}

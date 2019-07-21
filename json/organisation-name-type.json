@@ -1,0 +1,34 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Organisation Name Type",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"01",
+			"02",
+			"03",
+			"04",
+			"05",
+			"06"
+		],
+		"Description" : [
+			"Legal Name",
+			"Known As",
+			"Maori Name",
+			"Short Name",
+			"Trading As",
+			"Country or Region of Origin Name"
+		],
+		"Definition" : [
+			"A legal name for the organisation",
+			"A name commonly used for the organisation",
+			"A name for the organisation in te reo Maori",
+			"An abbreviated name for the organisation, to be used in reporting",
+			"A name used by the organisation in the day to day execution of their business",
+			"A name used by the organisation in their country of origin"
+		]
+	}
+}

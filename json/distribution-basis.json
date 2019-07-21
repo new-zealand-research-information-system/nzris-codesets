@@ -1,0 +1,31 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Distribution Basis",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"01",
+			"02",
+			"03",
+			"04",
+			"05"
+		],
+		"Description" : [
+			"Open Access",
+			"Milestone",
+			"Completion",
+			"Actual Costs",
+			"Other"
+		],
+		"Definition" : [
+			"Disbursement is made on request",
+			"Disbursements are made when agreed milestones are achieved",
+			"Disbursement is made when the project is completed",
+			"Disbursement is made upon receipt of confirmation of actual costs realised (up to the limit of the award)",
+			"Another method is used"
+		]
+	}
+}

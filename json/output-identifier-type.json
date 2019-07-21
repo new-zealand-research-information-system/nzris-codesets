@@ -1,0 +1,40 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Output Identifier Type",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			100,
+			200,
+			300,
+			400,
+			500,
+			600,
+			700,
+			999
+		],
+		"Description" : [
+			"O_ISBN10",
+			"O_ISBN13",
+			"O_DOI",
+			"O_URL",
+			"O_ISSN",
+			"O_EISSN",
+			"O_PII",
+			"Output identifier not available"
+		],
+		"Definition" : [
+			"A unique numeric commercial book identifier, issued prior to 2007",
+			"A unique numeric commercial book identifier, issued from 2007 onwards",
+			"A unique alphanumeric string assigned to identify content and provide a persistent link to its location on the internet",
+			"An address to the location of the output on the internet",
+			"A serial number used to uniquely identify a serial print publication",
+			"A serial number used to uniquely identify a serial electronic publication",
+			"A unique identifier used by some scientific journals to identify documents",
+			"Output identifier not available"
+		]
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Resource Measure - Non-Currency",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			10,
+			21,
+			22,
+			99
+		],
+		"Description" : [
+			"% of FTE",
+			"Total Time (Years)",
+			"Total Time (Weeks)",
+			"Other"
+		],
+		"Definition" : [
+			"The proportion of an annual full time equivalent person",
+			"The number of years for which the resource will be available",
+			"The number of weeks  for which the resource will be available",
+			"An unspecified unit for which a code set value is not available"
+		]
+	}
+}

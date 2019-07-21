@@ -1,0 +1,25 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Access Type",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"O",
+			"C",
+			"N"
+		],
+		"Description" : [
+			"Open Data",
+			"Constrained",
+			"Not Applicable"
+		],
+		"Definition" : [
+			"An open data form of output is available",
+			"Access to the output is constrained (e.g. only available through a journal subscription)",
+			"The output is of a form in which describing data access is not applicable"
+		]
+	}
+}

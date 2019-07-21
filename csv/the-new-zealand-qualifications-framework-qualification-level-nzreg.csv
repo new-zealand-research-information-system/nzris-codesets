@@ -1,0 +1,13 @@
+Code,Description,Definition
+00,No Qualification,
+01,Level 1 Certificate,
+02,Level 2 Certificate,
+03,Level 3 Certificate,
+04,Level 4 Certificate,
+05,Level 5 Diploma/Certificate,
+06,"Level 6 Graduate Certificate, Level 6 Diploma/Certificate",
+07,"Bachelor Degree, Level 7 Graduate Diploma/Certificate, Level 7 Diploma/ Certificate",
+08,"Postgraduate Diploma/Certificate, Bachelor Honours",
+09,Masters Degree,
+10,Doctorate Degree,
+23,Overseas Secondary School Qualification,

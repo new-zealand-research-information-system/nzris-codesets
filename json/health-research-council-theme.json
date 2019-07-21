@@ -1,0 +1,28 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Health Research Council Theme",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"HWNZ",
+			"IOACC",
+			"NZHD",
+			"RHM"
+		],
+		"Description" : [
+			"Health and Wellbeing in New Zealand",
+			"Improving Outcomes for Acute and Chronic Conditions in New Zealand",
+			"New Zealand Health Delivery",
+			"Rangahau Hauora Maori"
+		],
+		"Definition" : [
+			"Keeping populations healthy and independent throughout life",
+			"Improving outcomes for people with illness or injury",
+			"Improving health and disability service delivery outcomes over the short-to-medium term",
+			"Supporting Maori health research that upholds rangatiratanga and uses and advances Maori knowledge, resources and people"
+		]
+	}
+}

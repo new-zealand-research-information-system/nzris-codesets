@@ -1,0 +1,28 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Application Phase",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"S1",
+			"M1",
+			"M2",
+			"O1"
+		],
+		"Description" : [
+			"Single Stage Application",
+			"Initial Application",
+			"Detailed Application",
+			"Other Application Type"
+		],
+		"Definition" : [
+			"A full application for a single stage competitive, negotiated, or on demand round",
+			"An initial expression of interest in a multi-stage competitive round",
+			"An detailed application subsequent to an accepted expression of interest in a multi-stage competitive round",
+			"A form of application not otherwise specified in this code set"
+		]
+	}
+}

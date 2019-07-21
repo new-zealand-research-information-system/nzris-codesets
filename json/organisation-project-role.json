@@ -1,0 +1,43 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Organisation Project Role",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"01",
+			"02",
+			"03",
+			"04",
+			"05",
+			"06",
+			"07",
+			"08",
+			"99"
+		],
+		"Description" : [
+			"Administrator",
+			"Research Office",
+			"Lead Organisation",
+			"Sub-recipient",
+			"Contracted Service Provider",
+			"End User Collaborator",
+			"Host",
+			"Project Admin",
+			"Other"
+		],
+		"Definition" : [
+			"The organisation administering allocation of resources",
+			"The organisation providing research office services for the project",
+			"Lead organisation identified in project documentation",
+			"Organisation participating in research and innovation, receiving funding and/or resourcing from the lead organisation",
+			"Organisation or entity contracted to provide a particular service to lead or sub-recipient, but not an active participant in the research and innovation project",
+			"An organisation involved in the project which may also benefit from project outputs.",
+			"Organisation providing a work environment (physical and/or virtual) for part or all of the project",
+			"The organisation with responsibility for administration of the project",
+			"Other, not elsewhere specified"
+		]
+	}
+}

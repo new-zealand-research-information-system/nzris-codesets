@@ -1,0 +1,28 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Vision Matauranga Theme",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"I",
+			"T",
+			"H",
+			"M"
+		],
+		"Description" : [
+			"Indigenous Innovation",
+			"Taiao",
+			"Hauora / Oranga",
+			"Mātauranga"
+		],
+		"Definition" : [
+			"Contributing to Economic Growth through Distinctive R&D",
+			"Achieving environmental sustainability through Iwi and Hapu relationships with land and sea",
+			"Improving Health and Social Wellbeing",
+			"Exploring indigenous knowledge and RS&T"
+		]
+	}
+}

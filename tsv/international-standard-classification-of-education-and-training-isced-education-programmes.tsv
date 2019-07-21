@@ -1,0 +1,22 @@
+Code	Description	Parent_Code	Parent_Description	Definition
+01	Never attended an education programme	0	Less than primary education	
+02	Some early childhood education	0	Less than primary education	
+03	Some primary education (without level completion)	0	Less than primary education	
+10	Primary education	1	Primary education	
+24	Lower secondary general education	2	Lower secondary education	
+25	Lower secondary vocational education	2	Lower secondary education	
+34	Upper secondary general education	3	Upper secondary education	
+35	Upper secondary vocational education	3	Upper secondary education	
+44	Post-secondary non-tertiary general education	4	Post-secondary non-tertiary education	
+45	Post-secondary non-tertiary vocational education	4	Post-secondary non-tertiary education	
+54	Short-cycle tertiary general education	5	Short-cycle tertiary education	
+55	Short-cycle tertiary vocational education	5	Short-cycle tertiary education	
+64	Bachelor's or equivalent level, academic	6	Bachelor's or equivalent level	
+65	Bachelor's or equivalent level, professional	6	Bachelor's or equivalent level	
+66	Bachelor's or equivalent level, orientation unspecified	6	Bachelor's or equivalent level	
+74	Master's or equivalent level, academic	7	Master's or equivalent level	
+75	Master's or equivalent level, professional	7	Master's or equivalent level	
+76	Master's or equivalent level, orientation unspecified	7	Master's or equivalent level	
+84	Doctoral or equivalent level, academic	8	Doctoral or equivalent level	
+85	Doctoral or equivalent level, professional	8	Doctoral or equivalent level	
+86	Doctoral or equivalent level, orientation unspecified	8	Doctoral or equivalent level	

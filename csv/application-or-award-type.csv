@@ -1,0 +1,5 @@
+Code,Description,Definition
+I,Individual,A single individual is submitting the application and will receive the award
+O,Organisation,A single organisation is submitting the application and will receive any award
+M,Multi-Organisation,A group of organisations are submitting the application and will share any award
+A,Asset Pool,An asset pool will receive the awarded resources (devolved resources)

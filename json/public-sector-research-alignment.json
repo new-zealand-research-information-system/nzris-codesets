@@ -1,0 +1,31 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Public Sector Research Alignment",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"01",
+			"02",
+			"03",
+			"04",
+			"05"
+		],
+		"Description" : [
+			"CoRE Theme",
+			"NSC Theme",
+			"Health Research Theme",
+			"MPI Theme",
+			"Vision Mātauranga Theme"
+		],
+		"Definition" : [
+			"MBIE Centre of Research Excellence Theme",
+			"MBIE National Science Challenge Theme",
+			"Health Research Council Health Research Theme",
+			"MPI Primary Industry Research Theme",
+			"MBIE Vision Mātauranga Research Theme"
+		]
+	}
+}

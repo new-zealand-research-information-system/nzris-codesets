@@ -1,0 +1,43 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Distribution Period Type",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"CA",
+			"IA",
+			"DA",
+			"RE",
+			"DE",
+			"AP",
+			"DS",
+			"ED",
+			"OT"
+		],
+		"Description" : [
+			"Call for Applications",
+			"Initial Application",
+			"Detailed Application",
+			"Review",
+			"Decision",
+			"Award Publication",
+			"Distribution",
+			"Extended Distribution",
+			"Other"
+		],
+		"Definition" : [
+			"The timeframe within which the call for applications is made",
+			"The timeframe within which an initial application for resources must be made",
+			"The timeframe within which a detailed application for resources must be made",
+			"The timeframe within which application reviews will be completed",
+			"The timeframe within which award decisions are made",
+			"The timeframe within which awards granted are notified",
+			"The timeframe within which the resources granted will be distributed",
+			"The timeframe within which any potential extensions to awards will be distributed",
+			"A timeframe for another important activity in the distribution of resources not specified in this code set"
+		]
+	}
+}

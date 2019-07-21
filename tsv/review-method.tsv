@@ -1,0 +1,5 @@
+Code	Description	Definition
+01	Individual Review	A single reviewer will assess the application and make a recommendation
+02	Group Review	Multiple reviewers will assess the application and make a recommendations, which will be moderated to achieve a group recommendation
+03	Validate Against Criteria	The application will be assessed against fixed criteria for allocation of resources
+99	Other	A review method not otherwise specified in this code set

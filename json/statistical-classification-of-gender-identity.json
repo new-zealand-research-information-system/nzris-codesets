@@ -1,0 +1,25 @@
+{
+	"name" : "Statistical classification of gender identity",
+	"version" : "2.0.0",
+	"released" : "17 July 2015",
+	"updated" : "17 May 2017",
+	"maintainer" : "Stats NZ",
+	"url" : "http://aria.stats.govt.nz/aria/#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/LfWjOFK1NqtZCv5i",
+	"data" : {
+		"Code" : [
+			"1",
+			"2",
+			"3"
+		],
+		"Description" : [
+			"Male",
+			"Female",
+			"Gender diverse"
+		],
+		"Definition" : [
+			"",
+			"",
+			""
+		]
+	}
+}

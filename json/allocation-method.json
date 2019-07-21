@@ -1,0 +1,31 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Allocation Method",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"C",
+			"N",
+			"O",
+			"I",
+			"E"
+		],
+		"Description" : [
+			"Contestable",
+			"Negotiated",
+			"On-demand",
+			"Formula-based institutional funding",
+			"Endowment"
+		],
+		"Definition" : [
+			"Awards are granted following a call for proposals that is subject to competition",
+			"Funder and provider(s) negotiate a set of expected deliverables. Not subject to competition.",
+			"Funding is awarded if provider or proposal meets a specified set of criteria. Not subject to competition.",
+			"Funding awarded to an institution on the basis of a formula. Not subject to competition.",
+			"A financial asset, in the form of a donation made to a non-profit group, institution or individual consisting of investment funds or other property that may or may not have a stated purpose at the bequest of the donor. Not subject to competition."
+		]
+	}
+}

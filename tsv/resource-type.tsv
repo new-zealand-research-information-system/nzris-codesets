@@ -1,0 +1,6 @@
+Code	Description	Definition
+D1	NZ Public Sector Financial Resource	Investment from government sources to assist in the delivery of a project that is supported by a primary award (based on European Commission Regulation (EU) No 1301/2013)
+D2	Other Financial Resource	Investment from non-government sources to assist in the delivery of a project that is supported by a primary award (based on European Commission Regulation (EU) No 1301/2013)
+I1	Infrastructure Resource	Non-FTE support contributed as access to infrastructure for the specific purposes of conducting the project
+I2	FTE Resource	FTE resources contributed as direct expenditure, but made available free of charge, to projects by a third party for the specific purpose of conducting the project that are not reimbursed by the funder award (based on Annex D Horizon 2020 - Work Programme 20162-17 p. 12 and Regulation (EU) No 1290/2013 of the European Parliament and of the Council of 11 December 2013)
+I3	Other Resource	Non-FTE support contributed as direct expenditure, but made available free of charge, to projects by a third party for the specific purpose of conducting the project that are not reimbursed by the funder award (based on US Office of Management and Budget Federal Acquisition Regulations FAR Part 31.2)

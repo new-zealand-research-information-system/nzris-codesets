@@ -1,0 +1,6 @@
+Code	Description	Definition
+01	Active	The award or project is proceeding
+02	On Hold	The award or project is inactive for a specific time-bound reason (e.g. lead researcher not available)
+03	Completed	The award or project has been completed in full and has been closed
+04	Partially Completed	The award or project has been partially completed and has been closed
+05	Cancelled	The award or project has been closed prior to any work being done

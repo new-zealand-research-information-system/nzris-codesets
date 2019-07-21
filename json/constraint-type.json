@@ -1,0 +1,49 @@
+{
+	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Constraint Type",
+	"version" : "2.0",
+	"released" : "15 April 2019",
+	"updated" : "15 April 2019",
+	"maintainer" : "Ministry of Business, Innovation and Employment",
+	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
+	"data" : {
+		"Code" : [
+			"01",
+			"02",
+			"03",
+			"04",
+			"05",
+			"06",
+			"07",
+			"08",
+			"09",
+			"10",
+			"99"
+		],
+		"Description" : [
+			"Match Funding",
+			"Real Costs Only",
+			"Research Only",
+			"No Capital Purchases",
+			"Salary Only",
+			"No Salary for Non-NZ Based Investigators",
+			"Infrastructure Only",
+			"Restricted infrastructure use",
+			"Non RS&I Only",
+			"Flexible",
+			"Other"
+		],
+		"Definition" : [
+			"Funding must be matched by award(s) from another source",
+			"Only payable for costs directly incurred",
+			"Cannot be used for administrative purposes",
+			"Cannot be used for capital investment",
+			"Can only be used for salaries",
+			"Can only be used for salaries for NZ based staff",
+			"Can only be used for infrastructure purchase or maintenance",
+			"Only a limited proportion (<5%) can be used for infrastructure purchase or maintenance",
+			"Cannot be used for RS&I activity",
+			"May be used for RS&I activity, or for non RS&I activity",
+			null
+		]
+	}
+}
