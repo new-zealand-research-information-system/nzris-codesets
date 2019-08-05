@@ -1,7 +1,0 @@
-Code,Description,Definition
-01,Full Award,Recommend Allocation of all requested resources
-02,Partial Award,Recommend Allocation of some requested resources
-03,Request Detailed Application,Recommend a detailed application be submitted
-04,Request Additional Information,Request additional information to inform another review
-05,Decline,Recommend no resources be allocated
-99,Other,A decision not otherwise specified in this code set

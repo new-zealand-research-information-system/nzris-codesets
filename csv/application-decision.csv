@@ -1,8 +1,0 @@
-Code,Description,Definition
-01,Full Award,The asset poll allocated all requested resources allocated
-02,Partial Award,The asset pool allocated some of the requested resources
-03,Decline,The asset pool declined to allocate resources
-04,Not eligible,The application did not meet eligibility criteria and could not be allocated resources
-05,Withdrawn,The applicant withdrew the application for resources prior to completion of the allocation process
-06,Not progressing,The applicant has not supplied sufficient information to progress with the application
-99,Other Decision,A decision not otherwise specified in this code set
