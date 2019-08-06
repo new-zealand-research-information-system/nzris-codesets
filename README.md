@@ -94,36 +94,35 @@ The New Zealand Qualifications Framework Qualification Level (NZREG)            
 
 ## List of internally-sourced codesets
 
-Name                                     
------------------------------------------
-                              Access Type
-                        Allocation Method
-                     Application Decision
-                Application or Award Type
-                        Application Phase
-                        Benefiting Region
-     Centres of Research Excellence Theme
-                          Constraint Type
-                       Distribution Basis
-                 Distribution Period Type
-            Health Research Council Theme
-         National Science Challenge Theme
-             Organisation Identifier Type
-                   Organisation Name Type
-                Organisation Project Role
-                        Organisation Type
-                   Output Identifier Type
-                      Person Career Stage
-                   Person Identifier Type
-                 Personnel (Project) Role
-                             Project Type
-                       Protection Pattern
-         Public Sector Research Alignment
-          Resource Measure - Non-Currency
-                            Resource Type
-                            Review Method
-                           Review Outcome
-                                   Status
+
+Access Type
+Allocation Method
+Application Decision
+Application or Award Type
+Application Phase
+Benefiting Region
+Centres of Research Excellence Theme
+Constraint Type
+Distribution Basis
+Distribution Period Type
+Health Research Council Theme
+National Science Challenge Theme
+Organisation Identifier Type
+Organisation Name Type
+Organisation Project Role
+Organisation Type
+Output Identifier Type
+Person Career Stage
+Person Identifier Type
+Personnel (Project) Role
+Project Type
+Protection Pattern
+Public Sector Research Alignment
+Resource Measure - Non-Currency
+Resource Type
+Review Method
+Review Outcome
+Status
 Tertiary Education Commission Output Type
-                  Vision Matauranga Theme
-         Public Sector Financial Resource
+Vision Matauranga Theme
+Public Sector Financial Resource
