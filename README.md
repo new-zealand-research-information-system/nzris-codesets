@@ -1,11 +1,14 @@
 # New Zealand Research Information System Codesets
 
-* Version: 0.3 Beta
+* Version: 0.3.1
 * Generated: 2019-07-05
 
 The New Zealand Research Information System (NZRIS) uses a number of codesets.
-This zip file contains a collection of codesets, in comma-separated value (CSV)
+This zip file contains a collection of codesets, in Excel, Comma Separated Values (CSV)
 format, Tab Seperated Values (TSV) format, and JavaScript Object Notation (JSON).
+
+If you intend to use the codesets with Excel, we recommend that you use the Excel (xlsx) files, as some other formats such as CSV are altered on opening.
+
 
 ## What is a codeset?
 
@@ -45,6 +48,9 @@ however many commonly used programs such as Microsoft Excel many not have the
 ability to detect these characters and will convert them to another encoding.
 See ["How to import CSV file that uses UTF-8 encoding"](https://excel.officetuts.net/en/examples/how-to-import-csv-file-that-uses-utf-8-encoding)
 for a description of how to import files with UTF-8 encoding into Excel.
+
+It is also worth noting that Excel will also remove all leading zeros in codesets which may cause difficulties at the submission stage.
+
 
 ## Note that some codeset names may differ from their reference in the data specifications
 
