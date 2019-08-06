@@ -94,23 +94,24 @@ The New Zealand Qualifications Framework Qualification Level (NZREG)            
 
 ## List of internally-sourced codesets
 
-
-Access Type
-Allocation Method
-Application Decision
-Application or Award Type
-Application Phase
-Benefiting Region
-Centres of Research Excellence Theme
-Constraint Type
-Distribution Basis
-Distribution Period Type
-Health Research Council Theme
-National Science Challenge Theme
-Organisation Identifier Type
-Organisation Name Type
-Organisation Project Role
-Organisation Type
+|Name|
+|------|
+|Access Type|
+|Allocation Method|
+|Application Decision|
+|Application or Award Type|
+|Application Phase|
+|Benefiting Region|
+|Centres of Research Excellence Theme|
+|Constraint Type|
+|Distribution Basis|
+|Distribution Period Type|
+|Health Research Council Theme|
+|National Science Challenge Theme|
+|Organisation Identifier Type|
+|Organisation Name Type|
+|Organisation Project Role|
+|Organisation Type|
 Output Identifier Type
 Person Career Stage
 Person Identifier Type
