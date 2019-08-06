@@ -1,0 +1,5 @@
+Code,Description,Definition
+S1,Single Stage Application,"A full application for a single stage competitive, negotiated, or on demand round"
+M1,Initial Application,An initial expression of interest in a multi-stage competitive round
+M2,Detailed Application,An detailed application subsequent to an accepted expression of interest in a multi-stage competitive round
+O1,Other Application Type,A form of application not otherwise specified in this code set

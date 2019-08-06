@@ -1,0 +1,11 @@
+Code,Description,Protection.Pattern
+01,Application Protection,Mandatory
+02,Application Review,Mandatory
+03,Commercial Financial,Optional
+04,Topic Identifiable,Optional
+05,Personal Identifiable,Default
+06,Personal Demographic,Default
+07,Personal Professional,Optional
+08,No Protection Needed,Optional
+09,Work In Progress Protection,Optional
+10,Unknown protection,Optional
