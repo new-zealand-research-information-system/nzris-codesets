@@ -17,7 +17,7 @@
 		"Description" : [
 			"Legal Name",
 			"Known As",
-			"Maori Name",
+			"Māori Name",
 			"Short Name",
 			"Trading As",
 			"Country or Region of Origin Name"
@@ -25,7 +25,7 @@
 		"Definition" : [
 			"A legal name for the organisation",
 			"A name commonly used for the organisation",
-			"A name for the organisation in te reo Maori",
+			"A name for the organisation in te reo Māori",
 			"An abbreviated name for the organisation, to be used in reporting",
 			"A name used by the organisation in the day to day execution of their business",
 			"A name used by the organisation in their country of origin"
