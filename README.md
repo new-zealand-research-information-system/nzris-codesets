@@ -58,7 +58,7 @@ recorded as they are found at source, and abreviations have been expanded. Here
 is a current summary of the differences:
 
 |Reference in Data Specifications|Codeset Name                                                                                            |
---------------------------------+--------------------------------------------------------------------------------------------------------
+|--------------------------------+--------------------------------------------------------------------------------------------------------|
 |HRC Theme                       |Health Research Council Theme                                                                           |
 |NSC Theme                       |National Science Challenge Theme                                                                        |
 |CoRE Theme                      |Centres of Research Excellence Theme                                                                    |
@@ -75,7 +75,7 @@ is a current summary of the differences:
 ## List of externally-sourced codesets
 
 |Name                                                                                                    |Version  |Released         |Updated         |Maintainer                                                               |
---------------------------------------------------------------------------------------------------------+---------+-----------------+----------------+-------------------------------------------------------------------------
+|--------------------------------------------------------------------------------------------------------+---------+-----------------+----------------+-------------------------------------------------------------------------|
 |Australian and New Zealand Standard Industrial Classification                                           |1.0.0    |28 February 2007 |8 September 2008|Stats NZ                                                                 |
 |Australian and New Zealand Standard Research Classification (ANZSRC) Fields of Research                 |1.0.0    |31 March 2008    |7 November 2016 |Stats NZ and the Australian Bureau of Statistics                         |
 |Australian and New Zealand Standard Research Classification (ANZSRC) Socio-Economic Objective           |1.0.0    |31 March 2008    |22 February 2017|Stats NZ and the Australian Bureau of Statistics                         |
@@ -94,7 +94,7 @@ is a current summary of the differences:
 ## List of internally-sourced codesets
 
 |Name                                     |
------------------------------------------
+|-----------------------------------------|
 |                              Access Type|
 |                        Allocation Method|
 |                     Application Decision|
