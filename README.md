@@ -57,72 +57,72 @@ In order to retain accurate descriptions of codesets, codeset names have been
 recorded as they are found at source, and abreviations have been expanded. Here
 is a current summary of the differences:
 
-|Reference in Data Specifications|Codeset Name                                                                                            |
-|--------------------------------+--------------------------------------------------------------------------------------------------------|
-|HRC Theme                       |Health Research Council Theme                                                                           |
-|NSC Theme                       |National Science Challenge Theme                                                                        |
-|CoRE Theme                      |Centres of Research Excellence Theme                                                                    |
-|TEC Output Type                 |Tertiary Education Commission Output Type                                                               |
-|Gender Identity Classification  |Statistical Classification of gender identity                                                           |
-|Iwi Classification              |Iwi and iwi-related groups statistical classification                                                   |
-|Ethnicity Classification        |Ethnicity New Zealand Standard Classification                                                           |
-|NZREG (v1.0)                    |The New Zealand Qualifications Framework Qualification Level (NZREG)                                    |
-|ISCED-P                         |International Standard Classification of Education and Training (ISCED) Education Programmes            |
-|NZSCEDFIELD                     |New Zealand Standard Classification of Education (NZSCED) Field of Study                                |
-|ISCED-F                         |International Standard Classification of Education and Training (ISCED) Fields of Education and Training|
+| Reference in Data Specifications|Codeset Name                                                                                             |
+| --------------------------------+-------------------------------------------------------------------------------------------------------- |
+| HRC Theme                       |Health Research Council Theme                                                                            |
+| NSC Theme                       |National Science Challenge Theme                                                                         |
+| CoRE Theme                      |Centres of Research Excellence Theme                                                                     |
+| TEC Output Type                 |Tertiary Education Commission Output Type                                                                |
+| Gender Identity Classification  |Statistical Classification of gender identity                                                            |
+| Iwi Classification              |Iwi and iwi-related groups statistical classification                                                    |
+| Ethnicity Classification        |Ethnicity New Zealand Standard Classification                                                            |
+| NZREG (v1.0)                    |The New Zealand Qualifications Framework Qualification Level (NZREG)                                     |
+| ISCED-P                         |International Standard Classification of Education and Training (ISCED) Education Programmes             |
+| NZSCEDFIELD                     |New Zealand Standard Classification of Education (NZSCED) Field of Study                                 |
+| ISCED-F                         |International Standard Classification of Education and Training (ISCED) Fields of Education and Training |
 
 
 ## List of externally-sourced codesets
 
-|Name                                                                                                    |Version  |Released         |Updated         |Maintainer                                                               |
-|--------------------------------------------------------------------------------------------------------+---------+-----------------+----------------+-------------------------------------------------------------------------|
-|Australian and New Zealand Standard Industrial Classification                                           |1.0.0    |28 February 2007 |8 September 2008|Stats NZ                                                                 |
-|Australian and New Zealand Standard Research Classification (ANZSRC) Fields of Research                 |1.0.0    |31 March 2008    |7 November 2016 |Stats NZ and the Australian Bureau of Statistics                         |
-|Australian and New Zealand Standard Research Classification (ANZSRC) Socio-Economic Objective           |1.0.0    |31 March 2008    |22 February 2017|Stats NZ and the Australian Bureau of Statistics                         |
-|Australian and New Zealand Standard Research Classification (ANZSRC) Type of Activity                   |1.0.0    |31 March 2008    |11 April 2008   |Stats NZ and the Australian Bureau of Statistics                         |
-|Ethnicity New Zealand Standard Classification                                                           |2.0.0    |1 September 2017 |6 March 2018    |Stats NZ                                                                 |
-|Statistical classification of gender identity                                                           |2.0.0    |17 July 2015     |17 May 2017     |Stats NZ                                                                 |
-|International Standard Classification of Education and Training (ISCED) Fields of Education and Training|2013     |29 November 2014 |29 November 2014|United Nations Educational, Scientific and Cultural Organization (UNESCO)|
-|International Standard Classification of Education and Training (ISCED) Education Programmes            |2011     |1 December 2012  |1 December 2012 |United Nations Educational, Scientific and Cultural Organization (UNESCO)|
-|Currency Codes (ISO 4217)                                                                               |4217:2015|1 August 2015    |1 August 2015   |Swiss Association for Standardization                                    |
-|Language codes (ISO 639-2)                                                                              |639-2    |21 December 2017 |21 December 2017|US Library of Congress                                                   |
-|Iwi and iwi-related groups statistical classification                                                   |1.0.0    |29 September 2017|12 April 2019   |Stats NZ                                                                 |
-|The New Zealand Qualifications Framework Qualification Level (NZREG)                                    |1.0.0    |26 May 2003      |2 June 2017     |Stats NZ                                                                 |
-|New Zealand Standard Classification of Education (NZSCED) Field of Study                                |2.0.0    |29 September 2009|11 May 2008     |Ministry of Education                                                    |
-|ORCiD Supported Work Types                                                                              |2.0      |                 |                |Open Researcher and Contributor ID                                       |
+| Name                                                                                                    |Version  |Released         |Updated         |Maintainer                                                                |
+| --------------------------------------------------------------------------------------------------------+---------+-----------------+----------------+------------------------------------------------------------------------- |
+| Australian and New Zealand Standard Industrial Classification                                           |1.0.0    |28 February 2007 |8 September 2008|Stats NZ                                                                  |
+| Australian and New Zealand Standard Research Classification (ANZSRC) Fields of Research                 |1.0.0    |31 March 2008    |7 November 2016 |Stats NZ and the Australian Bureau of Statistics                          |
+| Australian and New Zealand Standard Research Classification (ANZSRC) Socio-Economic Objective           |1.0.0    |31 March 2008    |22 February 2017|Stats NZ and the Australian Bureau of Statistics                          |
+| Australian and New Zealand Standard Research Classification (ANZSRC) Type of Activity                   |1.0.0    |31 March 2008    |11 April 2008   |Stats NZ and the Australian Bureau of Statistics                          |
+| Ethnicity New Zealand Standard Classification                                                           |2.0.0    |1 September 2017 |6 March 2018    |Stats NZ                                                                  |
+| Statistical classification of gender identity                                                           |2.0.0    |17 July 2015     |17 May 2017     |Stats NZ                                                                  |
+| International Standard Classification of Education and Training (ISCED) Fields of Education and Training|2013     |29 November 2014 |29 November 2014|United Nations Educational, Scientific and Cultural Organization (UNESCO) |
+| International Standard Classification of Education and Training (ISCED) Education Programmes            |2011     |1 December 2012  |1 December 2012 |United Nations Educational, Scientific and Cultural Organization (UNESCO) |
+| Currency Codes (ISO 4217)                                                                               |4217:2015|1 August 2015    |1 August 2015   |Swiss Association for Standardization                                     |
+| Language codes (ISO 639-2)                                                                              |639-2    |21 December 2017 |21 December 2017|US Library of Congress                                                    |
+| Iwi and iwi-related groups statistical classification                                                   |1.0.0    |29 September 2017|12 April 2019   |Stats NZ                                                                  |
+| The New Zealand Qualifications Framework Qualification Level (NZREG)                                    |1.0.0    |26 May 2003      |2 June 2017     |Stats NZ                                                                  |
+| New Zealand Standard Classification of Education (NZSCED) Field of Study                                |2.0.0    |29 September 2009|11 May 2008     |Ministry of Education                                                     |
+| ORCiD Supported Work Types                                                                              |2.0      |                 |                |Open Researcher and Contributor ID                                        |
 
 ## List of internally-sourced codesets
 
-|Name                                     |
-|-----------------------------------------|
-|                              Access Type|
-|                        Allocation Method|
-|                     Application Decision|
-|                Application or Award Type|
-|                        Application Phase|
-|                        Benefiting Region|
-|     Centres of Research Excellence Theme|
-|                          Constraint Type|
-|                       Distribution Basis|
-|                 Distribution Period Type|
-|            Health Research Council Theme|
-|         National Science Challenge Theme|
-|             Organisation Identifier Type|
-|                   Organisation Name Type|
-|                Organisation Project Role|
-|                        Organisation Type|
-|                   Output Identifier Type|
-|                      Person Career Stage|
-|                   Person Identifier Type|
-|                 Personnel (Project) Role|
-|                             Project Type|
-|                       Protection Pattern|
-|         Public Sector Research Alignment|
-|          Resource Measure - Non-Currency|
-|                            Resource Type|
-|                            Review Method|
-|                           Review Outcome|
-|                                   Status|
-|Tertiary Education Commission Output Type|
-|                  Vision Matauranga Theme|
-|         Public Sector Financial Resource|
+| Name                                      |
+| ----------------------------------------- |
+|                               Access Type |
+|                         Allocation Method |
+|                      Application Decision |
+|                 Application or Award Type |
+|                         Application Phase |
+|                         Benefiting Region |
+|      Centres of Research Excellence Theme |
+|                           Constraint Type |
+|                        Distribution Basis |
+|                  Distribution Period Type |
+|             Health Research Council Theme |
+|          National Science Challenge Theme |
+|              Organisation Identifier Type |
+|                    Organisation Name Type |
+|                 Organisation Project Role |
+|                         Organisation Type |
+|                    Output Identifier Type |
+|                       Person Career Stage |
+|                    Person Identifier Type |
+|                  Personnel (Project) Role |
+|                              Project Type |
+|                        Protection Pattern |
+|          Public Sector Research Alignment |
+|           Resource Measure - Non-Currency |
+|                             Resource Type |
+|                             Review Method |
+|                            Review Outcome |
+|                                    Status |
+| Tertiary Education Commission Output Type |
+|                   Vision Matauranga Theme |
+|          Public Sector Financial Resource |
