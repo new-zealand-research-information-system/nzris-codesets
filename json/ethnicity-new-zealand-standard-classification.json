@@ -186,7 +186,13 @@
 			"61116",
 			"61117",
 			"61118",
-			"61199"
+			"61199",
+			"94444",
+			"95555",
+			"96666",
+			"97777",
+			"98888",
+			"99999"
 		],
 		"Description" : [
 			"European nfd",
@@ -368,7 +374,13 @@
 			"Seychellois",
 			"Other South African",
 			"New Zealander",
-			"Other Ethnicity nec"
+			"Other Ethnicity nec",
+			"Don't Know",
+			"Refused to Answer",
+			"Repeated Value",
+			"Response Unidentifiable",
+			"Response Outside Scope",
+			"Not Stated"
 		],
 		"Level_Three_Code" : [
 			"100",
@@ -550,7 +562,13 @@
 			"611",
 			"611",
 			"611",
-			"611"
+			"611",
+			"944",
+			"955",
+			"966",
+			"977",
+			"988",
+			"999"
 		],
 		"Level_Three_Description" : [
 			"European nfd",
@@ -732,7 +750,13 @@
 			"Other Ethnicity",
 			"Other Ethnicity",
 			"Other Ethnicity",
-			"Other Ethnicity"
+			"Other Ethnicity",
+			"Don't Know",
+			"Refused to Answer",
+			"Repeated Value",
+			"Response Unidentifiable",
+			"Response Outside Scope",
+			"Not Stated"
 		],
 		"Level_Two_Code" : [
 			"10",
@@ -914,7 +938,13 @@
 			"61",
 			"61",
 			"61",
-			"61"
+			"61",
+			"94",
+			"95",
+			"96",
+			"97",
+			"98",
+			"99"
 		],
 		"Level_Two_Description" : [
 			"European nfd",
@@ -1096,7 +1126,13 @@
 			"Other Ethnicity",
 			"Other Ethnicity",
 			"Other Ethnicity",
-			"Other Ethnicity"
+			"Other Ethnicity",
+			"Don't Know",
+			"Refused to Answer",
+			"Repeated Value",
+			"Response Unidentifiable",
+			"Response Outside Scope",
+			"Not Stated"
 		],
 		"Level_One_Code" : [
 			"1",
@@ -1278,7 +1314,13 @@
 			"6",
 			"6",
 			"6",
-			"6"
+			"6",
+			"9",
+			"9",
+			"9",
+			"9",
+			"9",
+			"9"
 		],
 		"Level_One_Description" : [
 			"European",
@@ -1460,9 +1502,21 @@
 			"Other Ethnicity",
 			"Other Ethnicity",
 			"Other Ethnicity",
-			"Other Ethnicity"
+			"Other Ethnicity",
+			"Residual Categories",
+			"Residual Categories",
+			"Residual Categories",
+			"Residual Categories",
+			"Residual Categories",
+			"Residual Categories"
 		],
 		"Definition" : [
+			"",
+			"",
+			"",
+			"",
+			"",
+			"",
 			"",
 			"",
 			"",

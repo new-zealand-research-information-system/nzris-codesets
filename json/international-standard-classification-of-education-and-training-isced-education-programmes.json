@@ -27,7 +27,8 @@
 			"76",
 			"84",
 			"85",
-			"86"
+			"86",
+			"99"
 		],
 		"Description" : [
 			"Never attended an education programme",
@@ -50,7 +51,8 @@
 			"Master's or equivalent level, orientation unspecified",
 			"Doctoral or equivalent level, academic",
 			"Doctoral or equivalent level, professional",
-			"Doctoral or equivalent level, orientation unspecified"
+			"Doctoral or equivalent level, orientation unspecified",
+			"Not elsewhere classified"
 		],
 		"Parent_Code" : [
 			"0",
@@ -73,7 +75,8 @@
 			"7",
 			"8",
 			"8",
-			"8"
+			"8",
+			"9"
 		],
 		"Parent_Description" : [
 			"Less than primary education",
@@ -96,9 +99,11 @@
 			"Master's or equivalent level",
 			"Doctoral or equivalent level",
 			"Doctoral or equivalent level",
-			"Doctoral or equivalent level"
+			"Doctoral or equivalent level",
+			"Not elsewhere classified"
 		],
 		"Definition" : [
+			"",
 			"",
 			"",
 			"",

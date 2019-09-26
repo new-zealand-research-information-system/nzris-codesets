@@ -468,7 +468,12 @@
 			"120505",
 			"120599",
 			"129900",
-			"129999"
+			"129999",
+			"444444",
+			"555555",
+			"777777",
+			"888888",
+			"999999"
 		],
 		"Description" : [
 			"No Qualification",
@@ -932,7 +937,12 @@
 			"Work Practices Programmes",
 			"Employment Skills Programmes not elsewhere classified",
 			"Other Mixed Field Programmes not further defined",
-			"Mixed Field Programmes not elsewhere classified"
+			"Mixed Field Programmes not elsewhere classified",
+			"Don't Know",
+			"Refused to Answer",
+			"Response Unidentifiable",
+			"Response Outside Scope",
+			"Not Stated"
 		],
 		"Four_Digit_Code" : [
 			"0000",
@@ -1396,7 +1406,12 @@
 			"1205",
 			"1205",
 			"1299",
-			"1299"
+			"1299",
+			"4444",
+			"5555",
+			"7777",
+			"8888",
+			"9999"
 		],
 		"Four_Digit_Description" : [
 			"No Qualification",
@@ -1860,7 +1875,12 @@
 			"Employment Skills Programmes",
 			"Employment Skills Programmes",
 			"Other Mixed Field Programmes",
-			"Other Mixed Field Programmes"
+			"Other Mixed Field Programmes",
+			"Don't Know",
+			"Refused to Answer",
+			"Response Unidentifiable",
+			"Response Outside Scope",
+			"Not Stated"
 		],
 		"Two_Digit_Code" : [
 			"00",
@@ -2324,7 +2344,12 @@
 			"12",
 			"12",
 			"12",
-			"12"
+			"12",
+			"44",
+			"55",
+			"77",
+			"88",
+			"99"
 		],
 		"Two_Digit_Description" : [
 			"No Qualification",
@@ -2788,7 +2813,12 @@
 			"Mixed Field Programmes",
 			"Mixed Field Programmes",
 			"Mixed Field Programmes",
-			"Mixed Field Programmes"
+			"Mixed Field Programmes",
+			"Don't Know",
+			"Refused to Answer",
+			"Response Unidentifiable",
+			"Response Outside Scope",
+			"Not Stated"
 		],
 		"Definition" : [
 			"No Qualification/No Qualification/No Qualification",
@@ -3252,7 +3282,12 @@
 			"Mixed Field Programmes/Employment Skills Programmes/Work Practices Programmes",
 			"Mixed Field Programmes/Employment Skills Programmes/Employment Skills Programmes not elsewhere classified",
 			"Mixed Field Programmes/Other Mixed Field Programmes/Other Mixed Field Programmes not further defined",
-			"Mixed Field Programmes/Other Mixed Field Programmes/Mixed Field Programmes not elsewhere classified"
+			"Mixed Field Programmes/Other Mixed Field Programmes/Mixed Field Programmes not elsewhere classified",
+			"Don't Know/Don't Know/Don't Know",
+			"Refused to Answer/Refused to Answer/Refused to Answer",
+			"Response Unidentifiable/Response Unidentifiable/Response Unidentifiable",
+			"Response Outside Scope/Response Outside Scope/Response Outside Scope",
+			"Not Stated/Not Stated/Not Stated"
 		]
 	}
 }
