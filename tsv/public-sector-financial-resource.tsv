@@ -1,63 +1,66 @@
 AppropriationID	Appropriation	AppropriationPeriod	Vote	Scope	EstimateType	StartYear	EndYear
-9626	Climate Change Research	A	Agriculture and Forestry	NA	E	2010	2011
-9559	Primary Growth Partnership	A	Agriculture and Forestry	NA	E	2010	2011
-8916	Centres of Research Excellence	A	Education	NA	E	2010	2011
-9174	Performance Based Research Fund	A	Education	NA	E	2010	2011
-9332	Electricity Efficiency	A	Energy	NA	E	2010	2011
-98	International Energy Agency Contribution	A	Energy	NA	E	2010	2011
-8811	Advanced Network Capability Building	A	Research, Science and Technology	NA	E	2010	2011
-8843	Australian Synchrotron	A	Research, Science and Technology	NA	E	2010	2011
-9645	Biological Industries Research	A	Research, Science and Technology	NA	E	2010	2011
-9032	Carter Observatory Grant	A	Research, Science and Technology	NA	E	2010	2011
-753	Convention Du Metre	A	Research, Science and Technology	NA	E	2010	2011
-9193	CRI Capability Fund	A	Research, Science and Technology	NA	E	2010	2011
-9646	Energy and Minerals Research	A	Research, Science and Technology	NA	E	2010	2011
-6082	Engaging New Zealanders with Science and Technology	A	Research, Science and Technology	NA	E	2010	2011
-6089	Environmental Research	A	Research, Science and Technology	NA	E	2010	2011
-9647	Fellowships for Excellence	A	Research, Science and Technology	NA	E	2010	2011
-9441	Genomics Research Infrastructure	A	Research, Science and Technology	NA	E	2010	2011
-8942	Global Technology Partnership	A	Research, Science and Technology	NA	E	2010	2011
-9648	Hazards and Infrastructure Research	A	Research, Science and Technology	NA	E	2010	2011
-9649	Health and Society Research	A	Research, Science and Technology	NA	E	2010	2011
-9650	High Value Manufacturing and Services Research	A	Research, Science and Technology	NA	E	2010	2011
-9652	International Relationships	A	Research, Science and Technology	NA	E	2010	2011
-748	Marsden Fund	A	Research, Science and Technology	NA	E	2010	2011
-745	National Measurement Standards	A	Research, Science and Technology	NA	E	2010	2011
-9059	Research and Development Facilitation and Promotion Service	A	Research, Science and Technology	NA	E	2010	2011
-8890	Research and Education Advanced Network New Zealand	A	Research, Science and Technology	NA	E	2010	2011
-6083	Research Contract Management	A	Research, Science and Technology	NA	E	2010	2011
-9401	Royal Society of New Zealand	A	Research, Science and Technology	NA	E	2010	2011
-9653	Science Collections and Infrastructure	A	Research, Science and Technology	NA	E	2010	2011
-9651	Vision Matauranga Capability Fund	A	Research, Science and Technology	NA	E	2010	2011
-9534	National Land Transport Programme - Sector Training and Research	A	Transport	NA	E	2010	2011
-9626	Climate Change Research	A	Agriculture and Forestry	NA	E	2011	2012
-9559	Primary Growth Partnership	A	Agriculture and Forestry	NA	E	2011	2012
-9332	Electricity Efficiency	A	Energy	NA	E	2011	2012
-98	International Energy Agency Contribution	A	Energy	NA	E	2011	2012
-8811	Advanced Network Capability Building	A	Science and Innovation	NA	E	2011	2012
-9645	Biological Industries Research	A	Science and Innovation	NA	E	2011	2012
-753	Convention Du Metre	A	Science and Innovation	NA	E	2011	2012
-10221	Crown Research Institute Core Funding	A	Science and Innovation	NA	E	2011	2012
-9646	Energy and Minerals Research	A	Science and Innovation	NA	E	2011	2012
-6082	Engaging New Zealanders with Science and Technology	A	Science and Innovation	NA	E	2011	2012
-6089	Environmental Research	A	Science and Innovation	NA	E	2011	2012
-9647	Fellowships for Excellence	A	Science and Innovation	NA	E	2011	2012
-9441	Genomics Research Infrastructure	A	Science and Innovation	NA	E	2011	2012
-9648	Hazards and Infrastructure Research	A	Science and Innovation	NA	E	2011	2012
-9649	Health and Society Research	A	Science and Innovation	NA	E	2011	2012
-9650	High Value Manufacturing and Services Research	A	Science and Innovation	NA	E	2011	2012
-9652	International Relationships	A	Science and Innovation	NA	E	2011	2012
-748	Marsden Fund	A	Science and Innovation	NA	E	2011	2012
-10136	National eScience Infrastructure	A	Science and Innovation	NA	E	2011	2012
-745	National Measurement Standards	A	Science and Innovation	NA	E	2011	2012
-6083	Research Contract Management	A	Science and Innovation	NA	E	2011	2012
-9401	Royal Society of New Zealand	A	Science and Innovation	NA	E	2011	2012
-9653	Science Collections and Infrastructure	A	Science and Innovation	NA	E	2011	2012
-9651	Vision Matauranga Capability Fund	A	Science and Innovation	NA	E	2011	2012
-10105	Centres of Research Excellence	A	Tertiary Education	NA	E	2011	2012
-10111	Performance-Based Research Fund	A	Tertiary Education	NA	E	2011	2012
+9626	Climate Change Research	A	Agriculture and Forestry	Scope not currently available	E	2010	2011
+9559	Primary Growth Partnership	A	Agriculture and Forestry	Scope not currently available	E	2010	2011
+6114	Sustainable Farming Fund	A	Agriculture and Forestry	Scope not currently available	E	2010	2011
+8916	Centres of Research Excellence	A	Education	Scope not currently available	E	2010	2011
+9174	Performance Based Research Fund	A	Education	Scope not currently available	E	2010	2011
+9332	Electricity Efficiency	A	Energy	Scope not currently available	E	2010	2011
+98	International Energy Agency Contribution	A	Energy	Scope not currently available	E	2010	2011
+8811	Advanced Network Capability Building	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+8843	Australian Synchrotron	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9645	Biological Industries Research	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9032	Carter Observatory Grant	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+753	Convention Du Metre	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9193	CRI Capability Fund	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9646	Energy and Minerals Research	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+6082	Engaging New Zealanders with Science and Technology	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+6089	Environmental Research	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9647	Fellowships for Excellence	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9441	Genomics Research Infrastructure	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+8942	Global Technology Partnership	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9648	Hazards and Infrastructure Research	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9649	Health and Society Research	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9650	High Value Manufacturing and Services Research	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9652	International Relationships	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+748	Marsden Fund	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+745	National Measurement Standards	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9059	Research and Development Facilitation and Promotion Service	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+8890	Research and Education Advanced Network New Zealand	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+6083	Research Contract Management	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9401	Royal Society of New Zealand	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9653	Science Collections and Infrastructure	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9651	Vision Matauranga Capability Fund	A	Research, Science and Technology	Scope not currently available	E	2010	2011
+9534	National Land Transport Programme - Sector Training and Research	A	Transport	Scope not currently available	E	2010	2011
+9626	Climate Change Research	A	Agriculture and Forestry	Scope not currently available	E	2011	2012
+9559	Primary Growth Partnership	A	Agriculture and Forestry	Scope not currently available	E	2011	2012
+6114	Sustainable Farming Fund	A	Agriculture and Forestry	Scope not currently available	E	2011	2012
+9332	Electricity Efficiency	A	Energy	Scope not currently available	E	2011	2012
+98	International Energy Agency Contribution	A	Energy	Scope not currently available	E	2011	2012
+8811	Advanced Network Capability Building	A	Science and Innovation	Scope not currently available	E	2011	2012
+9645	Biological Industries Research	A	Science and Innovation	Scope not currently available	E	2011	2012
+753	Convention Du Metre	A	Science and Innovation	Scope not currently available	E	2011	2012
+10221	Crown Research Institute Core Funding	A	Science and Innovation	Scope not currently available	E	2011	2012
+9646	Energy and Minerals Research	A	Science and Innovation	Scope not currently available	E	2011	2012
+6082	Engaging New Zealanders with Science and Technology	A	Science and Innovation	Scope not currently available	E	2011	2012
+6089	Environmental Research	A	Science and Innovation	Scope not currently available	E	2011	2012
+9647	Fellowships for Excellence	A	Science and Innovation	Scope not currently available	E	2011	2012
+9441	Genomics Research Infrastructure	A	Science and Innovation	Scope not currently available	E	2011	2012
+9648	Hazards and Infrastructure Research	A	Science and Innovation	Scope not currently available	E	2011	2012
+9649	Health and Society Research	A	Science and Innovation	Scope not currently available	E	2011	2012
+9650	High Value Manufacturing and Services Research	A	Science and Innovation	Scope not currently available	E	2011	2012
+9652	International Relationships	A	Science and Innovation	Scope not currently available	E	2011	2012
+748	Marsden Fund	A	Science and Innovation	Scope not currently available	E	2011	2012
+10136	National eScience Infrastructure	A	Science and Innovation	Scope not currently available	E	2011	2012
+745	National Measurement Standards	A	Science and Innovation	Scope not currently available	E	2011	2012
+6083	Research Contract Management	A	Science and Innovation	Scope not currently available	E	2011	2012
+9401	Royal Society of New Zealand	A	Science and Innovation	Scope not currently available	E	2011	2012
+9653	Science Collections and Infrastructure	A	Science and Innovation	Scope not currently available	E	2011	2012
+9651	Vision Matauranga Capability Fund	A	Science and Innovation	Scope not currently available	E	2011	2012
+10105	Centres of Research Excellence	A	Tertiary Education	Scope not currently available	E	2011	2012
+10111	Performance-Based Research Fund	A	Tertiary Education	Scope not currently available	E	2011	2012
 9332	Electricity Efficiency	A	Energy	This output class is limited to:   - conducting electricity efficiency research, and   - development and administration of programmes that provide incentives for cost-effective energy efficiency and conservation, aimed at changing market behaviours.	E	2012	2013
 98	International Energy Agency Contribution	A	Energy	Payment of contributions towards the cost of energy-related research undertaken by the International Energy Agency.	E	2012	2013
+10579	Sustainable Farming Fund	A	Primary Industries	This appropriation is limited to community driven programmes aimed at improving economic and environmental performance.	E	2012	2013
 10660	Advanced Technology Institute	A	Science and Innovation	This appropriation is limited to capital expenditure to support the establishment and development of an advanced technology institute.	E	2012	2013
 8843	Australian Synchrotron	A	Science and Innovation	This appropriation is limited to a grant being New Zealand Government's contribution to the operation of a synchrotron located in Victoria, Australia.	E	2012	2013
 9645	Biological Industries Research	A	Science and Innovation	This appropriation is limited to research and research applications to support productivity growth and sustainability of New Zealand’s primary industries, and the development of premium food and industrial biological products and technologies responsive to global consumer preferences.	E	2012	2013
@@ -85,6 +88,7 @@ AppropriationID	Appropriation	AppropriationPeriod	Vote	Scope	EstimateType	StartY
 10609	Crash Analysis	A	Transport	This appropriation is limited to operating the Crash Analysis System and performing associated crash analysis and research activities.	E	2012	2013
 9332	Electricity Efficiency	A	Energy	This output class is limited to:   - conducting electricity efficiency research, and   - development and administration of programmes that provide incentives for cost-effective energy efficiency and conservation, aimed at changing market behaviours.	E	2013	2014
 98	International Energy Agency Contribution	A	Energy	Payment of contributions towards the cost of energy-related research undertaken by the International Energy Agency.	E	2013	2014
+10579	Sustainable Farming Fund	A	Primary Industries	This appropriation is limited to community driven programmes aimed at improving economic and environmental performance.	E	2013	2014
 9192	Advanced Network Capacity	A	Science and Innovation	This appropriation is limited to a grant to contribute to the operation of the Kiwi Advanced Research and Education Network ensuring advanced network capacity that will underpin New Zealand research.	E	2013	2014
 10660	Advanced Technology Institute	A	Science and Innovation	This appropriation is limited to capital expenditure to support the establishment and development of an advanced technology institute.	E	2013	2014
 8843	Australian Synchrotron	A	Science and Innovation	This appropriation is limited to a grant being New Zealand Government's contribution to the operation of a synchrotron located in Victoria, Australia.	E	2013	2014
@@ -118,6 +122,7 @@ AppropriationID	Appropriation	AppropriationPeriod	Vote	Scope	EstimateType	StartY
 10111	Performance-Based Research Fund	A	Tertiary Education	This appropriation is limited to funding research and research-based teaching on the basis of measured research quality in tertiary education organisations.	E	2013	2014
 10609	Crash Analysis	A	Transport	This appropriation is limited to operating the Crash Analysis System and performing associated crash analysis and research activities.	E	2013	2014
 98	International Energy Agency Contribution	A	Energy	Payment of contributions towards the cost of energy-related research undertaken by the International Energy Agency.	E	2014	2015
+10579	Sustainable Farming Fund	A	Primary Industries	This appropriation is limited to community driven programmes aimed at improving economic and environmental performance.	E	2014	2015
 9192	Advanced Network Capacity	A	Science and Innovation	This appropriation is limited to a grant to contribute to the operation of the Kiwi Advanced Research and Education Network ensuring advanced network capacity that will underpin New Zealand research.	E	2014	2015
 10660	Advanced Technology Institute	A	Science and Innovation	This appropriation is limited to capital expenditure to support the establishment and development of an advanced technology institute.	E	2014	2015
 8843	Australian Synchrotron	A	Science and Innovation	This appropriation is limited to a grant being New Zealand Government's contribution to the operation of a synchrotron located in Victoria, Australia.	E	2014	2015
@@ -182,6 +187,9 @@ AppropriationID	Appropriation	AppropriationPeriod	Vote	Scope	EstimateType	StartY
 11438	Square Kilometre Array	A	Business, Science and Innovation	This appropriation is limited to supporting New Zealand's engagement on the Square Kilometre Array project in collaboration with Australia.	E	2015	2016
 9651	Vision Matauranga Capability Fund	A	Business, Science and Innovation	This appropriation is limited to the development of skilled people and organisations undertaking research that supports the four themes of Vision Matauranga; indigenous innovation, environmental sustainability, health and social well being, and exploring indigenous knowledge.	E	2015	2016
 10564	Climate Change Research	A	Primary Industries and Food Safety	This appropriation is limited to obtaining science, research, technology, capacity and capability in climate change related to the primary land-based sectors.	E	2015	2016
+11620	Grants and Programmes: Adverse Climatic Events	A	Primary Industries and Food Safety	This category is limited to providing recovery assistance to the primary sector in the aftermath of adverse climatic events and assistance to rural support trusts.	E	2015	2016
+11621	Grants and Programmes: Hill Country Erosion Fund	A	Primary Industries and Food Safety	This category is limited to projects that protect erosion-prone hill country.	E	2015	2016
+11622	Grants and Programmes: Sustainable Farming Fund	A	Primary Industries and Food Safety	This category is limited to community driven programmes aimed at improving economic and environmental performance in farming.	E	2015	2016
 10581	Primary Growth Partnership	M	Primary Industries and Food Safety	This appropriation is limited to primary, food and forestry sector investment in education and skills development, research and development, product development, commercialisation, market development and technology transfer, in partnership with relevant industry groups, including research related to greenhouse gases via the New Zealand Agricultural Greenhouse Gas Research Centre.	E	2015	2016
 10105	Centres of Research Excellence	A	Tertiary Education	This appropriation is limited to the purchase of cooperative and collaborative tertiary research in areas of research strength in the tertiary education sector through the contestable Centres of Research Excellence Fund.	E	2015	2016
 10111	Performance-Based Research Fund	A	Tertiary Education	This appropriation is limited to funding research and research-based teaching on the basis of measured research quality in tertiary education organisations.	E	2015	2016
@@ -206,6 +214,9 @@ AppropriationID	Appropriation	AppropriationPeriod	Vote	Scope	EstimateType	StartY
 11809	Talent and Science Promotion: Science in Society	A	Business, Science and Innovation	This category is limited to approaches that enhance and enable better engagement of New Zealanders with science and technology.	E	2016	2017
 11810	Talent and Science Promotion: Vision Matauranga Capability Fund	A	Business, Science and Innovation	This category is limited to the development of skilled people and organisations undertaking research that supports the four themes of Vision Matauranga; indigenous innovation, environmental sustainability, health and social well- being, and exploring indigenous knowledge.	E	2016	2017
 10564	Climate Change Research	A	Primary Industries and Food Safety	This appropriation is limited to obtaining science, research, technology, capacity and capability in climate change related to the primary land-based sectors.	E	2016	2017
+11620	Grants and Programmes: Adverse Climatic Events	A	Primary Industries and Food Safety	This category is limited to providing recovery assistance to the primary sector in the aftermath of adverse climatic events and assistance to rural support trusts.	E	2016	2017
+11621	Grants and Programmes: Hill Country Erosion Fund	A	Primary Industries and Food Safety	This category is limited to projects that protect erosion-prone hill country.	E	2016	2017
+11622	Grants and Programmes: Sustainable Farming Fund	A	Primary Industries and Food Safety	This category is limited to community driven programmes aimed at improving economic and environmental performance in farming.	E	2016	2017
 10581	Primary Growth Partnership	M	Primary Industries and Food Safety	This appropriation is limited to primary, food and forestry sector investment in education and skills development, research and development, product development, commercialisation, market development and technology transfer, in partnership with relevant industry groups, including research related to greenhouse gases via the New Zealand Agricultural Greenhouse Gas Research Centre.	E	2016	2017
 10105	Centres of Research Excellence	A	Tertiary Education	This appropriation is limited to the purchase of cooperative and collaborative tertiary research in areas of research strength in the tertiary education sector through the contestable Centres of Research Excellence Fund.	E	2016	2017
 10609	Crash Analysis	A	Transport	This appropriation is limited to operating the Crash Analysis System and performing associated crash analysis and research activities.	E	2016	2017
@@ -228,12 +239,19 @@ AppropriationID	Appropriation	AppropriationPeriod	Vote	Scope	EstimateType	StartY
 11809	Talent and Science Promotion: Science in Society	A	Business, Science and Innovation	This category is limited to approaches that enhance and enable better engagement of New Zealanders with science and technology.	E	2017	2018
 11810	Talent and Science Promotion: Vision Matauranga Capability Fund	A	Business, Science and Innovation	This category is limited to the development of skilled people and organisations undertaking research that supports the four themes of Vision Matauranga; indigenous innovation, environmental sustainability, health and social well- being, and exploring indigenous knowledge.	E	2017	2018
 10564	Climate Change Research	A	Primary Industries and Food Safety	This appropriation is limited to obtaining science, research, technology, capacity and capability in climate change related to the primary land-based sectors.	E	2017	2018
+11620	Grants and Programmes: Adverse Climatic Events	A	Primary Industries and Food Safety	This category is limited to providing recovery assistance to the primary sector in the aftermath of adverse climatic events and assistance to rural support trusts.	E	2017	2018
+11963	Grants and Programmes: Adverse Earthquake Events	A	Primary Industries and Food Safety	This category is limited to providing recovery support and assistance to the primary sector and rural support trusts in the aftermath of adverse earthquake events.	E	2017	2018
+11621	Grants and Programmes: Hill Country Erosion Fund	A	Primary Industries and Food Safety	This category is limited to projects that protect erosion-prone hill country.	E	2017	2018
+11622	Grants and Programmes: Sustainable Farming Fund	A	Primary Industries and Food Safety	This category is limited to community driven programmes aimed at improving economic and environmental performance in farming.	E	2017	2018
 12028	Primary Growth Partnership	M	Primary Industries and Food Safety	This appropriation is limited to primary, food and forestry sector investment in education and skills development, research and development, product development, commercialisation, market development and technology transfer, in partnership with relevant industry groups, including research related to greenhouse gases via the New Zealand Agricultural Greenhouse Gas Research Centre.	E	2017	2018
 10105	Centres of Research Excellence	A	Tertiary Education	This appropriation is limited to the purchase of cooperative and collaborative tertiary research in areas of research strength in the tertiary education sector through the contestable Centres of Research Excellence Fund.	E	2017	2018
 10609	Crash Analysis	A	Transport	This appropriation is limited to operating the Crash Analysis System and performing associated crash analysis and research activities.	E	2017	2018
 11912	Food Safety: Protecting Consumers: Food Safety Science and Research	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to the promotion, coordination and delivery of food safety science and research.	E	2018	2019
 11612	Food Safety: Protecting Consumers: Food Safety: Joint Food Standards Setting Treaty	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to the development of joint food standards, codes of practice, and guidance material for Australia and New Zealand by Food Standards Australia New Zealand in accordance with the Joint Food Standards Setting Treaty.	E	2018	2019
 12028	Primary Growth Partnership	M	Agriculture, Biosecurity, Fisheries and Food Safety	This appropriation is limited to primary, food and forestry sector investment in education and skills development, research and development, product development, commercialisation, market development and technology transfer, in partnership with relevant industry groups, including research related to greenhouse gases via the New Zealand Agricultural Greenhouse Gas Research Centre.	E	2018	2019
+12261	Programmes Supporting Sustainability: Adverse Climatic Events	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to providing recovery assistance to the primary sector in the aftermath of adverse climatic events and assistance to rural support trusts.	E	2018	2019
+12263	Programmes Supporting Sustainability: Climate Change Research	A	Agriculture, Biosecurity, Fisheries and Food Safety	This appropriation is limited to obtaining science, research, technology, capacity and capability in climate change related to the primary land-based sectors.	E	2018	2019
+12264	Programmes Supporting Sustainability: Sustainable Farming Fund	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to community driven programmes aimed at improving economic and environmental performance in farming.	E	2018	2019
 10660	Callaghan Innovation	A	Business, Science and Innovation	This appropriation is limited to capital expenditure to support the development of Callaghan Innovation’s strategic infrastructure.	E	2018	2019
 11827	Callaghan Innovation - Operations: Building Business Innovation	A	Business, Science and Innovation	This category is limited to activities that raise awareness about and increase business investment in Research and Development.	E	2018	2019
 11826	Callaghan Innovation - Operations: Business Research and Development Contract Management	A	Business, Science and Innovation	This category is limited to selection of businesses or individuals for either the provision of Research Science and Technology output, or the award of grants, and to negotiate, manage and monitor appropriate contracts with these businesses or individuals.	E	2018	2019
@@ -258,6 +276,9 @@ AppropriationID	Appropriation	AppropriationPeriod	Vote	Scope	EstimateType	StartY
 11912	Food Safety: Protecting Consumers: Food Safety Science and Research	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to the promotion, coordination and delivery of food safety science and research.	E	2019	2020
 11612	Food Safety: Protecting Consumers: Food Safety: Joint Food Standards Setting Treaty	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to the development of joint food standards, codes of practice, and guidance material for Australia and New Zealand by Food Standards Australia New Zealand in accordance with the Joint Food Standards Setting Treaty.	E	2019	2020
 12028	Primary Growth Partnership	M	Agriculture, Biosecurity, Fisheries and Food Safety	This appropriation is limited to primary, food and forestry sector investment in education and skills development, research and development, product development, commercialisation, market development and technology transfer, in partnership with relevant industry groups, including research related to greenhouse gases via the New Zealand Agricultural Greenhouse Gas Research Centre.	E	2019	2020
+12261	Programmes Supporting Sustainability: Adverse Climatic Events	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to providing recovery assistance to the primary sector in the aftermath of adverse climatic events and assistance to rural support trusts.	E	2019	2020
+12263	Programmes Supporting Sustainability: Climate Change Research	A	Agriculture, Biosecurity, Fisheries and Food Safety	This appropriation is limited to obtaining science, research, technology, capacity and capability in climate change related to the primary land-based sectors.	E	2019	2020
+12264	Programmes Supporting Sustainability: Sustainable Farming Fund	A	Agriculture, Biosecurity, Fisheries and Food Safety	This category is limited to community driven programmes aimed at improving economic and environmental performance in farming.	E	2019	2020
 12499	Antarctica Science Platform	M	Business, Science and Innovation	This appropriation is limited to support science capability needed to undertake longer-term programmes of mission-led research in Antarctica.	E	2019	2020
 10660	Callaghan Innovation	A	Business, Science and Innovation	This appropriation is limited to capital expenditure to support the development of Callaghan Innovation’s strategic infrastructure.	E	2019	2020
 11827	Callaghan Innovation - Operations: Building Business Innovation	A	Business, Science and Innovation	This category is limited to activities that raise awareness about and increase business investment in Research and Development.	E	2019	2020

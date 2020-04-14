@@ -1,57 +1,57 @@
 Code	Description	Definition
-0101	Obesity	NSC: A Better Start
-0102	Literacy	NSC: A Better Start
-0103	Big Data	NSC: A Better Start
-0104	Youth Mental Health	NSC: A Better Start
-0105	Māori Research	NSC: A Better Start
-0201	Enabling independence and autonomy	NSC: Ageing Well
-0202	Ensuring a meaningful life through social integration and engagement	NSC: Ageing Well
-0203	Recognising at a societal level the value of ongoing contributions of knowledge and experience of older people	NSC: Ageing Well
-0204	Reducing disability	NSC: Ageing Well
-0205	Developing age-friendly environments	NSC: Ageing Well
-0301	Transforming Homes, Towns and Cities	NSC: Building Better Homes, Towns and Cities
-0302	Next Generation Information for Better Outcomes	NSC: Building Better Homes, Towns and Cities
-0303	Supporting Success in Regional Settlements	NSC: Building Better Homes, Towns and Cities
-0304	Shaping Places Future Neighbourhoods	NSC: Building Better Homes, Towns and Cities
-0305	Evolving to Enhance Mauri	NSC: Building Better Homes, Towns and Cities
-0306	Transforming the Building Industry	NSC: Building Better Homes, Towns and Cities
-0401	Cancer	NSC: Healthier Lives
-0402	Cardiovascular disease	NSC: Healthier Lives
-0403	Diabetes	NSC: Healthier Lives
-0404	Obesity	NSC: Healthier Lives
-0501	Metabolic health	NSC: High Value Nutrition
-0502	Gastrointestinal health	NSC: High Value Nutrition
-0503	Immune health	NSC: High Value Nutrition
-0504	Weaning foods for health	NSC: High Value Nutrition
-0601	Real-time biological heritage assessment	NSC: New Zealand's Biological Heritage
-0602	Reducing risks and threats across landscapes	NSC: New Zealand's Biological Heritage
-0603	Enhancing and restoring resilient ecosystems	NSC: New Zealand's Biological Heritage
-0701	Greater value in global markets	NSC: Our Land and Water
-0702	Innovative, resilient land and water use	NSC: Our Land and Water
-0703	Collaborative capacity	NSC: Our Land and Water
-0704	Operating at the nexus	NSC: Our Land and Water
-0801	Rural	NSC: Resilience to Nature's Challenges
-0802	Urban	NSC: Resilience to Nature's Challenges
-0803	Edge	NSC: Resilience to Nature's Challenges
-0804	Mātauranga Māori	NSC: Resilience to Nature's Challenges
-0805	Governance	NSC: Resilience to Nature's Challenges
-0806	Infrastructure	NSC: Resilience to Nature's Challenges
-0807	Economics	NSC: Resilience to Nature's Challenges
-0808	Culture	NSC: Resilience to Nature's Challenges
-0809	Hazard	NSC: Resilience to Nature's Challenges
-0810	Trajectories	NSC: Resilience to Nature's Challenges
-0901	Vision Mātauranga	NSC: Science for Technological Innovation
-0902	Materials, Manufacturing and Design	NSC: Science for Technological Innovation
-0903	Sensors, Robotics and Automation	NSC: Science for Technological Innovation
-0904	IT Data Analytics and Modelling	NSC: Science for Technological Innovation
-1001	Our seas	NSC: Sustainable Seas
-1002	Valuable seas	NSC: Sustainable Seas
-1003	Tangaroa	NSC: Sustainable Seas
-1004	Dynamic seas	NSC: Sustainable Seas
-1005	Managed seas	NSC: Sustainable Seas
-1006	Vision Mātauranga	NSC: Sustainable Seas
-1101	Engagement	NSC: The Deep South
-1102	Vision Mātauranga	NSC: The Deep South
-1103	Impacts and implications	NSC: The Deep South
-1104	Earth system modelling and prediction	NSC: The Deep South
-1105	Processes and observations	NSC: The Deep South
+00101	Obesity	NSC: A Better Start
+00102	Literacy	NSC: A Better Start
+00103	Big Data	NSC: A Better Start
+00104	Youth Mental Health	NSC: A Better Start
+00105	Māori Research	NSC: A Better Start
+00201	Enabling independence and autonomy	NSC: Ageing Well
+00202	Ensuring a meaningful life through social integration and engagement	NSC: Ageing Well
+00203	Recognising at a societal level the value of ongoing contributions of knowledge and experience of older people	NSC: Ageing Well
+00204	Reducing disability	NSC: Ageing Well
+00205	Developing age-friendly environments	NSC: Ageing Well
+00301	Transforming Homes, Towns and Cities	NSC: Building Better Homes, Towns and Cities
+00302	Next Generation Information for Better Outcomes	NSC: Building Better Homes, Towns and Cities
+00303	Supporting Success in Regional Settlements	NSC: Building Better Homes, Towns and Cities
+00304	Shaping Places Future Neighbourhoods	NSC: Building Better Homes, Towns and Cities
+00305	Evolving to Enhance Mauri	NSC: Building Better Homes, Towns and Cities
+00306	Transforming the Building Industry	NSC: Building Better Homes, Towns and Cities
+00401	Cancer	NSC: Healthier Lives
+00402	Cardiovascular disease	NSC: Healthier Lives
+00403	Diabetes	NSC: Healthier Lives
+00404	Obesity	NSC: Healthier Lives
+00501	Metabolic health	NSC: High Value Nutrition
+00502	Gastrointestinal health	NSC: High Value Nutrition
+00503	Immune health	NSC: High Value Nutrition
+00504	Weaning foods for health	NSC: High Value Nutrition
+00601	Real-time biological heritage assessment	NSC: New Zealand's Biological Heritage
+00602	Reducing risks and threats across landscapes	NSC: New Zealand's Biological Heritage
+00603	Enhancing and restoring resilient ecosystems	NSC: New Zealand's Biological Heritage
+00701	Greater value in global markets	NSC: Our Land and Water
+00702	Innovative, resilient land and water use	NSC: Our Land and Water
+00703	Collaborative capacity	NSC: Our Land and Water
+00704	Operating at the nexus	NSC: Our Land and Water
+00801	Rural	NSC: Resilience to Nature's Challenges
+00802	Urban	NSC: Resilience to Nature's Challenges
+00803	Edge	NSC: Resilience to Nature's Challenges
+00804	Mātauranga Māori	NSC: Resilience to Nature's Challenges
+00805	Governance	NSC: Resilience to Nature's Challenges
+00806	Infrastructure	NSC: Resilience to Nature's Challenges
+00807	Economics	NSC: Resilience to Nature's Challenges
+00808	Culture	NSC: Resilience to Nature's Challenges
+00809	Hazard	NSC: Resilience to Nature's Challenges
+00810	Trajectories	NSC: Resilience to Nature's Challenges
+00901	Vision Mātauranga	NSC: Science for Technological Innovation
+00902	Materials, Manufacturing and Design	NSC: Science for Technological Innovation
+00903	Sensors, Robotics and Automation	NSC: Science for Technological Innovation
+00904	IT Data Analytics and Modelling	NSC: Science for Technological Innovation
+01001	Our seas	NSC: Sustainable Seas
+01002	Valuable seas	NSC: Sustainable Seas
+01003	Tangaroa	NSC: Sustainable Seas
+01004	Dynamic seas	NSC: Sustainable Seas
+01005	Managed seas	NSC: Sustainable Seas
+01006	Vision Mātauranga	NSC: Sustainable Seas
+01101	Engagement	NSC: The Deep South
+01102	Vision Mātauranga	NSC: The Deep South
+01103	Impacts and implications	NSC: The Deep South
+01104	Earth system modelling and prediction	NSC: The Deep South
+01105	Processes and observations	NSC: The Deep South
