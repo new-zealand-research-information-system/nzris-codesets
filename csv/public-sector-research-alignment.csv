@@ -1,6 +1,6 @@
-Code,Description,Definition
-01,CoRE Theme,MBIE Centre of Research Excellence Theme
-02,NSC Theme,MBIE National Science Challenge Theme
-03,Health Research Theme,Health Research Council Health Research Theme
-04,MPI Theme,MPI Primary Industry Research Theme
-05,Vision Mātauranga Theme,MBIE Vision Mātauranga Research Theme
+Version,Code,Description,Definition
+1.0,01,CoRE Theme,Centre of Research Excellence Theme
+1.0,02,NSC Theme,National Science Challenge Theme
+1.0,03,Health Research Theme,Health Research Council Health Research Theme
+1.0,04,MPI Theme,MPI Primary Industry Research Theme
+1.0,05,Vision Mātauranga Theme,Vision Mātauranga Research Theme

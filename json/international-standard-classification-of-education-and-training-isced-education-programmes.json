@@ -1,130 +1,186 @@
 {
-	"name" : "International Standard Classification of Education and Training (ISCED) Education Programmes",
-	"version" : "2011",
-	"released" : "1 December 2012",
-	"updated" : "1 December 2012",
-	"maintainer" : "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
-	"url" : "http://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf",
-	"data" : {
-		"Code" : [
-			"01",
-			"02",
-			"03",
-			"10",
-			"24",
-			"25",
-			"34",
-			"35",
-			"44",
-			"45",
-			"54",
-			"55",
-			"64",
-			"65",
-			"66",
-			"74",
-			"75",
-			"76",
-			"84",
-			"85",
-			"86",
-			"99"
-		],
-		"Description" : [
-			"Never attended an education programme",
-			"Some early childhood education",
-			"Some primary education (without level completion)",
-			"Primary education",
-			"Lower secondary general education",
-			"Lower secondary vocational education",
-			"Upper secondary general education",
-			"Upper secondary vocational education",
-			"Post-secondary non-tertiary general education",
-			"Post-secondary non-tertiary vocational education",
-			"Short-cycle tertiary general education",
-			"Short-cycle tertiary vocational education",
-			"Bachelor's or equivalent level, academic",
-			"Bachelor's or equivalent level, professional",
-			"Bachelor's or equivalent level, orientation unspecified",
-			"Master's or equivalent level, academic",
-			"Master's or equivalent level, professional",
-			"Master's or equivalent level, orientation unspecified",
-			"Doctoral or equivalent level, academic",
-			"Doctoral or equivalent level, professional",
-			"Doctoral or equivalent level, orientation unspecified",
-			"Not elsewhere classified"
-		],
-		"Parent_Code" : [
-			"0",
-			"0",
-			"0",
-			"1",
-			"2",
-			"2",
-			"3",
-			"3",
-			"4",
-			"4",
-			"5",
-			"5",
-			"6",
-			"6",
-			"6",
-			"7",
-			"7",
-			"7",
-			"8",
-			"8",
-			"8",
-			"9"
-		],
-		"Parent_Description" : [
-			"Less than primary education",
-			"Less than primary education",
-			"Less than primary education",
-			"Primary education",
-			"Lower secondary education",
-			"Lower secondary education",
-			"Upper secondary education",
-			"Upper secondary education",
-			"Post-secondary non-tertiary education",
-			"Post-secondary non-tertiary education",
-			"Short-cycle tertiary education",
-			"Short-cycle tertiary education",
-			"Bachelor's or equivalent level",
-			"Bachelor's or equivalent level",
-			"Bachelor's or equivalent level",
-			"Master's or equivalent level",
-			"Master's or equivalent level",
-			"Master's or equivalent level",
-			"Doctoral or equivalent level",
-			"Doctoral or equivalent level",
-			"Doctoral or equivalent level",
-			"Not elsewhere classified"
-		],
-		"Definition" : [
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			"",
-			""
-		]
-	}
+  "Name": ["International Standard Classification of Education and Training (ISCED) Education Programmes"],
+  "Version": ["2011"],
+  "Released": ["1 December 2012"],
+  "Updated": ["1 December 2012"],
+  "Maintainer": ["United Nations Educational, Scientific and Cultural Organization (UNESCO)"],
+  "URL": ["http://uis.unesco.org/sites/default/files/documents/international-standard-classification-of-education-isced-2011-en.pdf"],
+  "data": [
+    {
+      "Version": "2011",
+      "Code": "01",
+      "Description": "Never attended an education programme",
+      "Parent_Code": "0",
+      "Parent_Description": "Less than primary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "02",
+      "Description": "Some early childhood education",
+      "Parent_Code": "0",
+      "Parent_Description": "Less than primary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "03",
+      "Description": "Some primary education (without level completion)",
+      "Parent_Code": "0",
+      "Parent_Description": "Less than primary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "10",
+      "Description": "Primary education",
+      "Parent_Code": "1",
+      "Parent_Description": "Primary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "24",
+      "Description": "Lower secondary general education",
+      "Parent_Code": "2",
+      "Parent_Description": "Lower secondary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "25",
+      "Description": "Lower secondary vocational education",
+      "Parent_Code": "2",
+      "Parent_Description": "Lower secondary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "34",
+      "Description": "Upper secondary general education",
+      "Parent_Code": "3",
+      "Parent_Description": "Upper secondary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "35",
+      "Description": "Upper secondary vocational education",
+      "Parent_Code": "3",
+      "Parent_Description": "Upper secondary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "44",
+      "Description": "Post-secondary non-tertiary general education",
+      "Parent_Code": "4",
+      "Parent_Description": "Post-secondary non-tertiary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "45",
+      "Description": "Post-secondary non-tertiary vocational education",
+      "Parent_Code": "4",
+      "Parent_Description": "Post-secondary non-tertiary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "54",
+      "Description": "Short-cycle tertiary general education",
+      "Parent_Code": "5",
+      "Parent_Description": "Short-cycle tertiary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "55",
+      "Description": "Short-cycle tertiary vocational education",
+      "Parent_Code": "5",
+      "Parent_Description": "Short-cycle tertiary education",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "64",
+      "Description": "Bachelor's or equivalent level, academic",
+      "Parent_Code": "6",
+      "Parent_Description": "Bachelor's or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "65",
+      "Description": "Bachelor's or equivalent level, professional",
+      "Parent_Code": "6",
+      "Parent_Description": "Bachelor's or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "66",
+      "Description": "Bachelor's or equivalent level, orientation unspecified",
+      "Parent_Code": "6",
+      "Parent_Description": "Bachelor's or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "74",
+      "Description": "Master's or equivalent level, academic",
+      "Parent_Code": "7",
+      "Parent_Description": "Master's or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "75",
+      "Description": "Master's or equivalent level, professional",
+      "Parent_Code": "7",
+      "Parent_Description": "Master's or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "76",
+      "Description": "Master's or equivalent level, orientation unspecified",
+      "Parent_Code": "7",
+      "Parent_Description": "Master's or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "84",
+      "Description": "Doctoral or equivalent level, academic",
+      "Parent_Code": "8",
+      "Parent_Description": "Doctoral or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "85",
+      "Description": "Doctoral or equivalent level, professional",
+      "Parent_Code": "8",
+      "Parent_Description": "Doctoral or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "86",
+      "Description": "Doctoral or equivalent level, orientation unspecified",
+      "Parent_Code": "8",
+      "Parent_Description": "Doctoral or equivalent level",
+      "Definition": ""
+    },
+    {
+      "Version": "2011",
+      "Code": "99",
+      "Description": "Not elsewhere classified",
+      "Parent_Code": "9",
+      "Parent_Description": "Not elsewhere classified",
+      "Definition": ""
+    }
+  ]
 }

@@ -1,6 +1,6 @@
-Code	Description	Definition
-01	Open Access	Disbursement is made on request
-02	Milestone	Disbursements are made when agreed milestones are achieved
-03	Completion	Disbursement is made when the project is completed
-04	Actual Costs	Disbursement is made upon receipt of confirmation of actual costs realised (up to the limit of the award)
-05	Other	Another method is used
+Version	Code	Description	Definition
+1.0	01	Open Access	Disbursement is made on request
+1.0	02	Milestone	Disbursements are made when agreed milestones are achieved
+1.0	03	Completion	Disbursement is made when the project is completed
+1.0	04	Actual Costs	Disbursement is made upon receipt of confirmation of actual costs realised (up to the limit of the award)
+1.0	05	Other	Another method is used

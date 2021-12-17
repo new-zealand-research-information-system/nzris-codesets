@@ -1,37 +1,52 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Application Decision",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"01",
-			"02",
-			"03",
-			"04",
-			"05",
-			"06",
-			"99"
-		],
-		"Description" : [
-			"Full Award",
-			"Partial Award",
-			"Decline",
-			"Not eligible",
-			"Withdrawn",
-			"Not progressing",
-			"Other Decision"
-		],
-		"Definition" : [
-			"The asset poll allocated all requested resources allocated",
-			"The asset pool allocated some of the requested resources",
-			"The asset pool declined to allocate resources",
-			"The application did not meet eligibility criteria and could not be allocated resources",
-			"The applicant withdrew the application for resources prior to completion of the allocation process",
-			"The applicant has not supplied sufficient information to progress with the application",
-			"A decision not otherwise specified in this code set"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Application Decision"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "01",
+      "Description": "Full Award",
+      "Definition": "The asset poll allocated all requested resources allocated"
+    },
+    {
+      "Version": "1.0",
+      "Code": "02",
+      "Description": "Partial Award",
+      "Definition": "The asset pool allocated some of the requested resources"
+    },
+    {
+      "Version": "1.0",
+      "Code": "03",
+      "Description": "Decline",
+      "Definition": "The asset pool declined to allocate resources"
+    },
+    {
+      "Version": "1.0",
+      "Code": "04",
+      "Description": "Not eligible",
+      "Definition": "The application did not meet eligibility criteria and could not be allocated resources"
+    },
+    {
+      "Version": "1.0",
+      "Code": "05",
+      "Description": "Withdrawn",
+      "Definition": "The applicant withdrew the application for resources prior to completion of the allocation process"
+    },
+    {
+      "Version": "1.0",
+      "Code": "06",
+      "Description": "Not progressing",
+      "Definition": "The applicant has not supplied sufficient information to progress with the application"
+    },
+    {
+      "Version": "1.0",
+      "Code": "99",
+      "Description": "Other Decision",
+      "Definition": "A decision not otherwise specified in this code set"
+    }
+  ]
 }

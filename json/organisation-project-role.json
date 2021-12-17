@@ -1,43 +1,64 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Organisation Project Role",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"01",
-			"02",
-			"03",
-			"04",
-			"05",
-			"06",
-			"07",
-			"08",
-			"99"
-		],
-		"Description" : [
-			"Administrator",
-			"Research Office",
-			"Lead Organisation",
-			"Sub-recipient",
-			"Contracted Service Provider",
-			"End User Collaborator",
-			"Host",
-			"Project Admin",
-			"Other"
-		],
-		"Definition" : [
-			"The organisation administering allocation of resources",
-			"The organisation providing research office services for the project",
-			"Lead organisation identified in project documentation",
-			"Organisation participating in research and innovation, receiving funding and/or resourcing from the lead organisation",
-			"Organisation or entity contracted to provide a particular service to lead or sub-recipient, but not an active participant in the research and innovation project",
-			"An organisation involved in the project which may also benefit from project outputs.",
-			"Organisation providing a work environment (physical and/or virtual) for part or all of the project",
-			"The organisation with responsibility for administration of the project",
-			"Other, not elsewhere specified"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Organisation Project Role"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "01",
+      "Description": "Administrator",
+      "Definition": "The organisation administering allocation of resources"
+    },
+    {
+      "Version": "1.0",
+      "Code": "02",
+      "Description": "Research Office",
+      "Definition": "The organisation providing research office services for the project"
+    },
+    {
+      "Version": "1.0",
+      "Code": "03",
+      "Description": "Lead Organisation",
+      "Definition": "Lead organisation identified in project documentation"
+    },
+    {
+      "Version": "1.0",
+      "Code": "04",
+      "Description": "Sub-recipient",
+      "Definition": "Organisation participating in research and innovation, receiving funding and/or resourcing from the lead organisation"
+    },
+    {
+      "Version": "1.0",
+      "Code": "05",
+      "Description": "Contracted Service Provider",
+      "Definition": "Organisation or entity contracted to provide a particular service to lead or sub-recipient, but not an active participant in the research and innovation project"
+    },
+    {
+      "Version": "1.0",
+      "Code": "06",
+      "Description": "End User Collaborator",
+      "Definition": "An organisation involved in the project which may also benefit from project outputs."
+    },
+    {
+      "Version": "1.0",
+      "Code": "07",
+      "Description": "Host",
+      "Definition": "Organisation providing a work environment (physical and/or virtual) for part or all of the project"
+    },
+    {
+      "Version": "1.0",
+      "Code": "08",
+      "Description": "Project Admin",
+      "Definition": "The organisation with responsibility for administration of the project"
+    },
+    {
+      "Version": "1.0",
+      "Code": "99",
+      "Description": "Other",
+      "Definition": "Other, not elsewhere specified"
+    }
+  ]
 }

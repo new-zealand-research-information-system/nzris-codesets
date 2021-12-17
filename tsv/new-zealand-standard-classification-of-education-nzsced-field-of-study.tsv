@@ -1,468 +1,468 @@
-Code	Description	Four_Digit_Code	Four_Digit_Description	Two_Digit_Code	Two_Digit_Description	Definition
-000000	No Qualification	0000	No Qualification	00	No Qualification	No Qualification/No Qualification/No Qualification
-010000	Natural and Physical Sciences not further defined	0100	Natural and Physical Sciences not further defined	01	Natural and Physical Sciences	Natural and Physical Sciences/Natural and Physical Sciences not further defined/Natural and Physical Sciences not further defined
-010100	Mathematical Sciences not further defined	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Mathematical Sciences not further defined
-010101	Mathematics	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Mathematics
-010103	Statistics	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Statistics
-010199	Mathematical Sciences not elsewhere classified	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Mathematical Sciences not elsewhere classified
-010300	Physics and Astronomy not further defined	0103	Physics and Astronomy	01	Natural and Physical Sciences	Natural and Physical Sciences/Physics and Astronomy/Physics and Astronomy not further defined
-010301	Physics	0103	Physics and Astronomy	01	Natural and Physical Sciences	Natural and Physical Sciences/Physics and Astronomy/Physics
-010303	Astronomy	0103	Physics and Astronomy	01	Natural and Physical Sciences	Natural and Physical Sciences/Physics and Astronomy/Astronomy
-010500	Chemical Sciences not further defined	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Chemical Sciences not further defined
-010501	Organic Chemistry	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Organic Chemistry
-010503	Inorganic Chemistry	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Inorganic Chemistry
-010599	Chemical Sciences not elsewhere classified	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Chemical Sciences not elsewhere classified
-010700	Earth Sciences not further defined	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Earth Sciences not further defined
-010701	Atmospheric Sciences	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Atmospheric Sciences
-010703	Geology	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Geology
-010705	Geophysics	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Geophysics
-010707	Geochemistry	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Geochemistry
-010709	Soil Science	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Soil Science
-010711	Hydrology	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Hydrology
-010713	Oceanography	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Oceanography
-010799	Earth Sciences not elsewhere classified	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Earth Sciences not elsewhere classified
-010900	Biological Sciences not further defined	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Biological Sciences not further defined
-010901	Biochemistry and Cell Biology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Biochemistry and Cell Biology
-010903	Botany	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Botany
-010905	Ecology and Evolution	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Ecology and Evolution
-010907	Marine Science	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Marine Science
-010909	Genetics	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Genetics
-010911	Microbiology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Microbiology
-010913	Human Biology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Human Biology
-010915	Zoology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Zoology
-010916	Neuroscience	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Neuroscience
-010999	Biological Sciences not elsewhere classified	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Biological Sciences not elsewhere classified
-019900	Other Natural and Physical Sciences not further defined	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Other Natural and Physical Sciences not further defined
-019901	Medical Science	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Medical Science
-019903	Forensic Science	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Forensic Science
-019905	Food Science and Biotechnology	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Food Science and Biotechnology
-019907	Pharmacology	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Pharmacology
-019909	Laboratory Technology	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Laboratory Technology
-019999	Natural and Physical Sciences not elsewhere classified	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Natural and Physical Sciences not elsewhere classified
-020000	Information Technology not further defined	0200	Information Technology not further defined	02	Information Technology	Information Technology/Information Technology not further defined/Information Technology not further defined
-020100	Computer Science not further defined	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computer Science not further defined
-020101	Formal Language Theory	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Formal Language Theory
-020103	Computer Applications and Programming	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computer Applications and Programming
-020105	Computational Theory	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computational Theory
-020107	Compiler Construction	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Compiler Construction
-020109	Algorithms	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Algorithms
-020111	Data Structures	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Data Structures
-020113	Networks and Communications	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Networks and Communications
-020115	Multimedia Computing Science	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Multimedia Computing Science
-020117	Operating Systems	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Operating Systems
-020119	Artificial Intelligence	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Artificial Intelligence
-020199	Computer Science not elsewhere classified	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computer Science not elsewhere classified
-020300	Information Systems not further defined	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Information Systems not further defined
-020301	Conceptual Modelling	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Conceptual Modelling
-020303	Database Management	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Database Management
-020305	Systems Analysis and Design	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Systems Analysis and Design
-020307	Decision Support Systems	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Decision Support Systems
-020399	Information Systems not elsewhere classified	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Information Systems not elsewhere classified
-029900	Other Information Technology not further defined	0299	Other Information Technology	02	Information Technology	Information Technology/Other Information Technology/Other Information Technology not further defined
-029901	Security Science	0299	Other Information Technology	02	Information Technology	Information Technology/Other Information Technology/Security Science
-029999	Information Technology not elsewhere classified	0299	Other Information Technology	02	Information Technology	Information Technology/Other Information Technology/Information Technology not elsewhere classified
-030000	Engineering and Related Technologies not further defined	0300	Engineering and Related Technologies not further defined	03	Engineering and Related Technologies	Engineering and Related Technologies/Engineering and Related Technologies not further defined/Engineering and Related Technologies not further defined
-030100	Manufacturing, Engineering and Technology not further defined	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing, Engineering and Technology not further defined
-030101	Manufacturing Engineering	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing Engineering
-030103	Printing	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Printing
-030105	Textile Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Textile Making
-030107	Garment Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Garment Making
-030108	Plastics Processing Technology	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Plastics Processing Technology
-030109	Footwear Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Footwear Making
-030111	Wood Machining and Turning	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Wood Machining and Turning
-030113	Cabinet Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Cabinet Making
-030115	Furniture Upholstery and Renovation	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Furniture Upholstery and Renovation
-030117	Furniture Polishing	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Furniture Polishing
-030199	Manufacturing Engineering and Technology not elsewhere classified.	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing Engineering and Technology not elsewhere classified.
-030300	Process and Resources Engineering not further defined	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Process and Resources Engineering not further defined
-030301	Chemical Engineering	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Chemical Engineering
-030303	Mining and Resources Engineering	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Mining and Resources Engineering
-030304	Wood Based Manufacturing	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Wood Based Manufacturing
-030305	Materials Engineering	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Materials Engineering
-030306	Ceramics, Industrial Glass and Rubber Manufacturing	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Ceramics, Industrial Glass and Rubber Manufacturing
-030307	Food (excluding Seafood) Processing Technology	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Food (excluding Seafood) Processing Technology
-030308	Seafood Processing	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Seafood Processing
-030399	Process and Resources Engineering not elsewhere classified	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Process and Resources Engineering not elsewhere classified
-030500	Automotive Engineering and Technology not further defined	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering and Technology not further defined
-030501	Automotive Engineering	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering
-030503	Vehicle Mechanics	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Vehicle Mechanics
-030505	Automotive Electrics and Electronics	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Electrics and Electronics
-030507	Automotive Vehicle  Refinishing	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Vehicle  Refinishing
-030509	Automotive Body Construction	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Body Construction
-030511	Panel Beating	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Panel Beating
-030513	Upholstery and Vehicle Trimming	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Upholstery and Vehicle Trimming
-030515	Automotive Vehicle Operations	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Vehicle Operations
-030599	Automotive Engineering and Technology not elsewhere classified	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering and Technology not elsewhere classified
-030700	Mechanical and Industrial Engineering and Technology not further defined	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical and Industrial Engineering and Technology not further defined
-030701	Mechanical Engineering	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical Engineering
-030703	Industrial Engineering	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Industrial Engineering
-030705	Toolmaking	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Toolmaking
-030707	Metal Fitting, Turning and Machining	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Metal Fitting, Turning and Machining
-030709	Sheetmetal Working	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Sheetmetal Working
-030711	Boiler-making and Welding	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Boiler-making and Welding
-030713	Metal Casting and Pattern Making	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Metal Casting and Pattern Making
-030715	Precision Metalworking	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Precision Metalworking
-030717	Plant and Machine Operations	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Plant and Machine Operations
-030799	Mechanical and Industrial Engineering & Technology not elsewhere classified	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical and Industrial Engineering & Technology not elsewhere classified
-030900	Civil Engineering not further defined	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Civil Engineering not further defined
-030901	Construction Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Construction Engineering
-030903	Structural Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Structural Engineering
-030905	Building Services Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Building Services Engineering
-030907	Water and Sanitary Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Water and Sanitary Engineering
-030909	Transport Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Transport Engineering
-030910	Road Construction	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Road Construction
-030911	Geotechnical Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Geotechnical Engineering
-030913	Ocean Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Ocean Engineering
-030999	Civil Engineering not elsewhere classified	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Civil Engineering not elsewhere classified
-031100	Geomatic Engineering not further defined	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Geomatic Engineering not further defined
-031101	Surveying	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Surveying
-031103	Mapping Science	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Mapping Science
-031199	Geomatic Engineering not elsewhere classified	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Geomatic Engineering not elsewhere classified
-031300	Electrical and Electronic Engineering and Technology not further defined	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical and Electronic Engineering and Technology not further defined
-031301	Electrical Engineering	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical Engineering
-031303	Electronic Engineering	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electronic Engineering
-031305	Computer Engineering	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Computer Engineering
-031307	Communications Technologies	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Communications Technologies
-031309	Communications Equipment Installation and Maintenance	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Communications Equipment Installation and Maintenance
-031311	Power Line Installation and Maintenance	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Power Line Installation and Maintenance
-031313	Electrical Fitting, Electrical Mechanics	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical Fitting, Electrical Mechanics
-031315	Refrigeration, Heating and Air Conditioning	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Refrigeration, Heating and Air Conditioning
-031317	Electronic Equipment Servicing	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electronic Equipment Servicing
-031399	Electrical and Electronic Engineering  and Technology not elsewhere classified	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical and Electronic Engineering  and Technology not elsewhere classified
-031500	Aerospace Engineering and Technology not further defined	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering and Technology not further defined
-031501	Aerospace Engineering	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering
-031503	Aircraft Maintenance Engineering	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aircraft Maintenance Engineering
-031505	Aircraft Operation	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aircraft Operation
-031507	Air Traffic Control	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Air Traffic Control
-031599	Aerospace Engineering and Technology not elsewhere classified	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering and Technology not elsewhere classified
-031700	Maritime Engineering and Technology not further defined	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering and Technology not further defined
-031701	Maritime Engineering	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering
-031703	Marine Construction	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Marine Construction
-031705	Marine Craft Operation	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Marine Craft Operation
-031799	Maritime Engineering and Technology not elsewhere classified	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering and Technology not elsewhere classified
-039900	Other Engineering and Related Technologies not further defined	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Other Engineering and Related Technologies not further defined
-039901	Environmental Engineering	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Environmental Engineering
-039902	Orthotics and Prosthetics	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Orthotics and Prosthetics
-039903	Biomedical Engineering	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Biomedical Engineering
-039905	Fire Technology and Rescue Services	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Fire Technology and Rescue Services
-039907	Rail Operations	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Rail Operations
-039909	Cleaning	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Cleaning
-039999	Engineering and Related Technologies  not elsewhere classified	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Engineering and Related Technologies  not elsewhere classified
-040000	Architecture and Building not further defined	0400	Architecture and Building not further defined	04	Architecture and Building	Architecture and Building/Architecture and Building not further defined/Architecture and Building not further defined
-040100	Architecture and Urban Environment not further defined	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Architecture and Urban Environment not further defined
-040101	Architecture	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Architecture
-040103	Urban Design and Regional Planning	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Urban Design and Regional Planning
-040105	Landscape Architecture	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Landscape Architecture
-040107	Interior and Environmental Design	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Interior and Environmental Design
-040199	Architecture and Urban Environment not elsewhere classified	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Architecture and Urban Environment not elsewhere classified
-040300	Building not further defined	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building not further defined
-040301	Building Science and Technology	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Science and Technology
-040303	Building Construction Management	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Construction Management
-040305	Building Surveying (Inspection)	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Surveying (Inspection)
-040307	Building Construction Economics (including Quantity Surveying)	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Construction Economics (including Quantity Surveying)
-040309	Bricklaying and Stonemasonry	0403	Building	04	Architecture and Building	Architecture and Building/Building/Bricklaying and Stonemasonry
-040311	Carpentry and Joinery	0403	Building	04	Architecture and Building	Architecture and Building/Building/Carpentry and Joinery
-040313	Ceiling, Wall and Floor Fixing	0403	Building	04	Architecture and Building	Architecture and Building/Building/Ceiling, Wall and Floor Fixing
-040315	Roof Fixing	0403	Building	04	Architecture and Building	Architecture and Building/Building/Roof Fixing
-040317	Plastering	0403	Building	04	Architecture and Building	Architecture and Building/Building/Plastering
-040319	Furnishing Installation	0403	Building	04	Architecture and Building	Architecture and Building/Building/Furnishing Installation
-040321	Floor Coverings	0403	Building	04	Architecture and Building	Architecture and Building/Building/Floor Coverings
-040323	Glazing	0403	Building	04	Architecture and Building	Architecture and Building/Building/Glazing
-040325	Painting, Decorating, Sign Writing and Other Finishes	0403	Building	04	Architecture and Building	Architecture and Building/Building/Painting, Decorating, Sign Writing and Other Finishes
-040327	Plumbing, Gasfitting and Drainlaying	0403	Building	04	Architecture and Building	Architecture and Building/Building/Plumbing, Gasfitting and Drainlaying
-040329	Scaffolding and Rigging	0403	Building	04	Architecture and Building	Architecture and Building/Building/Scaffolding and Rigging
-040399	Building not elsewhere classified	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building not elsewhere classified
-050000	Agriculture, Environmental and Related Studies not further defined	0500	Agriculture, Environmental and Related Studies not further defined	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture, Environmental and Related Studies not further defined/Agriculture, Environmental and Related Studies not further defined
-050100	Agriculture not further defined	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Agriculture not further defined
-050101	Agricultural Science	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Agricultural Science
-050103	Wool and Fibre Science	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Wool and Fibre Science
-050104	Beekeeping	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Beekeeping
-050105	Animal Husbandry	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Animal Husbandry
-050106	Crop Production	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Crop Production
-050108	Equine Trades	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Equine Trades
-050110	Wool and Fibre Harvesting	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Wool and Fibre Harvesting
-050112	General Land Skills	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/General Land Skills
-050199	Agriculture not elsewhere classified	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Agriculture not elsewhere classified
-050300	Horticulture and Viticulture not further defined	0503	Horticulture and Viticulture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Horticulture and Viticulture not further defined
-050301	Horticulture	0503	Horticulture and Viticulture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Horticulture
-050303	Viticulture	0503	Horticulture and Viticulture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Viticulture
-050500	Forestry Studies not further defined	0505	Forestry Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Forestry Studies/Forestry Studies not further defined
-050501	Forestry Studies	0505	Forestry Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Forestry Studies/Forestry Studies
-050502	Solid Wood Processing	0505	Forestry Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Forestry Studies/Solid Wood Processing
-050700	Fisheries Studies not further defined	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Fisheries Studies not further defined
-050701	Aquaculture	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Aquaculture
-050702	Seafood Harvesting (Fishing)	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Seafood Harvesting (Fishing)
-050799	Fisheries  Studies not elsewhere classified	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Fisheries  Studies not elsewhere classified
-050900	Environmental Studies not further defined	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Studies not further defined
-050901	Land, Parks and Wildlife Management	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Land, Parks and Wildlife Management
-050902	Environmental Sustainability	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Sustainability
-050999	Environmental Studies not elsewhere classified	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Studies not elsewhere classified
-059900	Other Agriculture, Environmental and Related Studies not further defined	0599	Other Agriculture, Environmental and Related Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies not further defined
-059901	Pest and Weed Control	0599	Other Agriculture, Environmental and Related Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Pest and Weed Control
-059999	Agriculture, Environmental and Related Studies not elsewhere classified	0599	Other Agriculture, Environmental and Related Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Agriculture, Environmental and Related Studies not elsewhere classified
-060000	Health not further defined	0600	Health not further defined	06	Health	Health/Health not further defined/Health not further defined
-060100	Medical Studies not further defined	0601	Medical Studies	06	Health	Health/Medical Studies/Medical Studies not further defined
-060101	General Medicine	0601	Medical Studies	06	Health	Health/Medical Studies/General Medicine
-060103	Surgery	0601	Medical Studies	06	Health	Health/Medical Studies/Surgery
-060105	Psychiatry	0601	Medical Studies	06	Health	Health/Medical Studies/Psychiatry
-060107	Obstetrics and Gynaecology	0601	Medical Studies	06	Health	Health/Medical Studies/Obstetrics and Gynaecology
-060109	Paediatrics	0601	Medical Studies	06	Health	Health/Medical Studies/Paediatrics
-060111	Anaesthesiology	0601	Medical Studies	06	Health	Health/Medical Studies/Anaesthesiology
-060113	Pathology	0601	Medical Studies	06	Health	Health/Medical Studies/Pathology
-060115	Radiology	0601	Medical Studies	06	Health	Health/Medical Studies/Radiology
-060117	Internal Medicine	0601	Medical Studies	06	Health	Health/Medical Studies/Internal Medicine
-060119	General Practice Medicine	0601	Medical Studies	06	Health	Health/Medical Studies/General Practice Medicine
-060199	Medical Studies not elsewhere classified	0601	Medical Studies	06	Health	Health/Medical Studies/Medical Studies not elsewhere classified
-060300	Nursing not further defined	0603	Nursing	06	Health	Health/Nursing/Nursing not further defined
-060301	Nursing	0603	Nursing	06	Health	Health/Nursing/Nursing
-060303	Midwifery	0603	Nursing	06	Health	Health/Nursing/Midwifery
-060308	Health Care Assistant	0603	Nursing	06	Health	Health/Nursing/Health Care Assistant
-060399	Nursing not elsewhere classified	0603	Nursing	06	Health	Health/Nursing/Nursing not elsewhere classified
-060500	Pharmacy not further defined	0605	Pharmacy	06	Health	Health/Pharmacy/Pharmacy not further defined
-060501	Pharmacy	0605	Pharmacy	06	Health	Health/Pharmacy/Pharmacy
-060700	Dental Studies not further defined	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Studies not further defined
-060701	Dentistry	0607	Dental Studies	06	Health	Health/Dental Studies/Dentistry
-060704	Dental Hygiene and Therapy	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Hygiene and Therapy
-060705	Dental Technology	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Technology
-060799	Dental Studies not elsewhere classified	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Studies not elsewhere classified
-060900	Optical Science not further defined	0609	Optical Science	06	Health	Health/Optical Science/Optical Science not further defined
-060901	Optometry	0609	Optical Science	06	Health	Health/Optical Science/Optometry
-060903	Optical Technology	0609	Optical Science	06	Health	Health/Optical Science/Optical Technology
-060999	Optical Science not elsewhere classified	0609	Optical Science	06	Health	Health/Optical Science/Optical Science not elsewhere classified
-061100	Veterinary Studies not further defined	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Studies not further defined
-061101	Veterinary Science	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Science
-061103	Veterinary Assisting	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Assisting
-061199	Veterinary Studies not elsewhere classified	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Studies not elsewhere classified
-061300	Public Health not further defined	0613	Public Health	06	Health	Health/Public Health/Public Health not further defined
-061301	Occupational Health and Safety	0613	Public Health	06	Health	Health/Public Health/Occupational Health and Safety
-061303	Environmental Health	0613	Public Health	06	Health	Health/Public Health/Environmental Health
-061304	Hauora (Māori Health)	0613	Public Health	06	Health	Health/Public Health/Hauora (Māori Health)
-061307	Health Education,  Promotion, Counselling	0613	Public Health	06	Health	Health/Public Health/Health Education,  Promotion, Counselling
-061309	Community Health	0613	Public Health	06	Health	Health/Public Health/Community Health
-061311	Epidemiology	0613	Public Health	06	Health	Health/Public Health/Epidemiology
-061399	Public Health not elsewhere classified	0613	Public Health	06	Health	Health/Public Health/Public Health not elsewhere classified
-061500	Radiography  not further defined	0615	Radiography	06	Health	Health/Radiography/Radiography  not further defined
-061501	Medical Imaging Technology (Radiography) and Radiation Therapy	0615	Radiography	06	Health	Health/Radiography/Medical Imaging Technology (Radiography) and Radiation Therapy
-061700	Rehabilitation Therapies not further defined	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Rehabilitation Therapies not further defined
-061701	Physiotherapy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Physiotherapy
-061703	Occupational Therapy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Occupational Therapy
-061705	Chiropractic and Osteopathy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Chiropractic and Osteopathy
-061707	Speech Pathology	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Speech Pathology
-061709	Audiology	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Audiology
-061711	Massage Therapy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Massage Therapy
-061713	Podiatry	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Podiatry
-061799	Rehabilitation Therapies not elsewhere classified	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Rehabilitation Therapies not elsewhere classified
-061900	Complementary Therapies not further defined	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Complementary Therapies not further defined
-061901	Naturopathy and Homeopathy	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Naturopathy and Homeopathy
-061903	Acupuncture	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Acupuncture
-061905	Traditional Chinese Medicine	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Traditional Chinese Medicine
-061999	Complementary Therapies not elsewhere classified	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Complementary Therapies not elsewhere classified
-069900	Other Health not further defined	0699	Other Health	06	Health	Health/Other Health/Other Health not further defined
-069901	Nutrition and Dietetics	0699	Other Health	06	Health	Health/Other Health/Nutrition and Dietetics
-069903	Human Movement and Sports Science	0699	Other Health	06	Health	Health/Other Health/Human Movement and Sports Science
-069905	Paramedical Studies	0699	Other Health	06	Health	Health/Other Health/Paramedical Studies
-069907	First Aid	0699	Other Health	06	Health	Health/Other Health/First Aid
-069999	Health not elsewhere classified	0699	Other Health	06	Health	Health/Other Health/Health not elsewhere classified
-070000	Education not further defined	0700	Education not further defined	07	Education	Education/Education not further defined/Education not further defined
-070100	Teacher Education not further defined	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education not further defined
-070101	Teacher Education: Early Childhood (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Early Childhood (Pre-Service)
-070103	Teacher Education: Primary (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Primary (Pre-Service)
-070105	Teacher Education: Secondary (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Secondary (Pre-Service)
-070106	Teacher Education:  Tertiary	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education:  Tertiary
-070108	Teacher Education: General (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: General (Pre-Service)
-070113	Teacher Education: Special Education	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Special Education
-070115	English Language Teaching(ESOL/EFL)	0701	Teacher Education	07	Education	Education/Teacher Education/English Language Teaching(ESOL/EFL)
-070116	Te Mātauranga Māori me te Whakangungu (Māori Education)	0701	Teacher Education	07	Education	Education/Teacher Education/Te Mātauranga Māori me te Whakangungu (Māori Education)
-070118	Bilingual Early Childhood Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Bilingual Early Childhood Teacher Training (Pre-Service)
-070120	Immersion Early Childhood Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Immersion Early Childhood Teacher Training (Pre-Service)
-070122	Bilingual Primary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Bilingual Primary Teacher Training (Pre-Service)
-070124	Immersion Primary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Immersion Primary Teacher Training (Pre-Service)
-070126	Bilingual Secondary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Bilingual Secondary Teacher Training (Pre-Service)
-070128	Immersion Secondary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Immersion Secondary Teacher Training (Pre-Service)
-070130	Teacher Professional Development	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Professional Development
-070199	Teacher Education not elsewhere classified	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education not elsewhere classified
-070300	Curriculum and Education Studies not further defined	0703	Curriculum and Education Studies	07	Education	Education/Curriculum and Education Studies/Curriculum and Education Studies not further defined
-070301	Curriculum Studies	0703	Curriculum and Education Studies	07	Education	Education/Curriculum and Education Studies/Curriculum Studies
-070303	Education Studies	0703	Curriculum and Education Studies	07	Education	Education/Curriculum and Education Studies/Education Studies
-079900	Other Education not further defined	0799	Other Education	07	Education	Education/Other Education/Other Education not further defined
-079999	Education not elsewhere classified	0799	Other Education	07	Education	Education/Other Education/Education not elsewhere classified
-080000	Management and Commerce not further defined	0800	Management and Commerce not further defined	08	Management and Commerce	Management and Commerce/Management and Commerce not further defined/Management and Commerce not further defined
-080100	Accountancy not further defined	0801	Accountancy	08	Management and Commerce	Management and Commerce/Accountancy/Accountancy not further defined
-080101	Accounting	0801	Accountancy	08	Management and Commerce	Management and Commerce/Accountancy/Accounting
-080199	Accountancy not elsewhere classified	0801	Accountancy	08	Management and Commerce	Management and Commerce/Accountancy/Accountancy not elsewhere classified
-080300	Business and Management not further defined	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Business and Management not further defined
-080301	Business Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Business Management
-080303	Human Resource Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Human Resource Management
-080305	Personal Management Training	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Personal Management Training
-080307	Organisation Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Organisation Management
-080309	Industrial Relations	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Industrial Relations
-080311	International Business	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/International Business
-080312	Education Administration	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Education Administration
-080313	Public and Health Care Administration	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Public and Health Care Administration
-080315	Project Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Project Management
-080317	Quality Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Quality Management
-080319	Hospitality Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Hospitality Management
-080320	Racing and Gaming Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Racing and Gaming Management
-080321	Farm Management and Agribusiness	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Farm Management and Agribusiness
-080323	Tourism Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Tourism Management
-080399	Business and Management not elsewhere classified	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Business and Management not elsewhere classified
-080500	Sales and Marketing not further defined	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Sales and Marketing not further defined
-080501	Sales	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Sales
-080503	Real Estate	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Real Estate
-080505	Marketing	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Marketing
-080507	Advertising	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Advertising
-080509	Public Relations	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Public Relations
-080599	Sales and Marketing not elsewhere classified	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Sales and Marketing not elsewhere classified
-080700	Tourism not further defined	0807	Tourism	08	Management and Commerce	Management and Commerce/Tourism/Tourism not further defined
-080701	Tourism Studies	0807	Tourism	08	Management and Commerce	Management and Commerce/Tourism/Tourism Studies
-080900	Office Administration not further defined	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/Office Administration not further defined
-080901	General Office Administration	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/General Office Administration
-080904	Text and Information Processing	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/Text and Information Processing
-080999	Office Administration not elsewhere classified	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/Office Administration not elsewhere classified
-081100	Banking, Finance and Related Fields not further defined	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Banking, Finance and Related Fields not further defined
-081101	Banking and Finance	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Banking and Finance
-081103	Insurance and Actuarial Studies	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Insurance and Actuarial Studies
-081105	Investment and Securities	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Investment and Securities
-081199	Banking, Finance and Related Fields not elsewhere classified	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Banking, Finance and Related Fields not elsewhere classified
-089900	Other Management and Commerce not further defined	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Other Management and Commerce not further defined
-089901	Purchasing, Warehousing and Distribution	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Purchasing, Warehousing and Distribution
-089903	Valuation	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Valuation
-089905	e-Commerce	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/e-Commerce
-089999	Management and Commerce not elsewhere classified	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Management and Commerce not elsewhere classified
-090000	Society and Culture not further defined	0900	Society and Culture not further defined	09	Society and Culture	Society and Culture/Society and Culture not further defined/Society and Culture not further defined
-090100	Political Science and Policy Studies not further defined	0901	Political Science and Policy Studies	09	Society and Culture	Society and Culture/Political Science and Policy Studies/Political Science and Policy Studies not further defined
-090101	Political Science	0901	Political Science and Policy Studies	09	Society and Culture	Society and Culture/Political Science and Policy Studies/Political Science
-090103	Policy Studies	0901	Political Science and Policy Studies	09	Society and Culture	Society and Culture/Political Science and Policy Studies/Policy Studies
-090300	Studies in Human Society not further defined	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Studies in Human Society not further defined
-090301	Sociology	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Sociology
-090303	Anthropology	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Anthropology
-090305	History	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/History
-090306	Art History	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Art History
-090307	Archaeology	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Archaeology
-090308	Classics	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Classics
-090309	Human Geography	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Human Geography
-090314	Tikanga - Māori Customs	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Tikanga - Māori Customs
-090316	Women's Studies	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Women's Studies
-090399	Studies in Human Society not elsewhere classified	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Studies in Human Society not elsewhere classified
-090500	Human Welfare Studies and Services not further defined	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Human Welfare Studies and Services not further defined
-090501	Social Work	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Social Work
-090502	Children's Services	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Children's Services
-090503	Nannying and Early Childhood Care	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Nannying and Early Childhood Care
-090505	Youth Work	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Youth Work
-090507	Support for the Older Person	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Support for the Older Person
-090509	Care for People with Disabilities	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Care for People with Disabilities
-090511	Community Client Care	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Community Client Care
-090513	Counselling	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Counselling
-090515	Welfare Studies	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Welfare Studies
-090599	Human Welfare Studies and Services not elsewhere classified	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Human Welfare Studies and Services not elsewhere classified
-090700	Behavioural Science not further defined	0907	Behavioural Science	09	Society and Culture	Society and Culture/Behavioural Science/Behavioural Science not further defined
-090701	Psychology	0907	Behavioural Science	09	Society and Culture	Society and Culture/Behavioural Science/Psychology
-090799	Behavioural Science not elsewhere classified	0907	Behavioural Science	09	Society and Culture	Society and Culture/Behavioural Science/Behavioural Science not elsewhere classified
-090900	Law not further defined	0909	Law	09	Society and Culture	Society and Culture/Law/Law not further defined
-090901	Business and Commercial Law	0909	Law	09	Society and Culture	Society and Culture/Law/Business and Commercial Law
-090903	Constitutional Law	0909	Law	09	Society and Culture	Society and Culture/Law/Constitutional Law
-090905	Criminal Law	0909	Law	09	Society and Culture	Society and Culture/Law/Criminal Law
-090907	Family Law	0909	Law	09	Society and Culture	Society and Culture/Law/Family Law
-090909	International Law	0909	Law	09	Society and Culture	Society and Culture/Law/International Law
-090911	Taxation Law	0909	Law	09	Society and Culture	Society and Culture/Law/Taxation Law
-090913	Legal Practice	0909	Law	09	Society and Culture	Society and Culture/Law/Legal Practice
-090999	Law not elsewhere classified	0909	Law	09	Society and Culture	Society and Culture/Law/Law not elsewhere classified
-091100	Justice and Law Enforcement not further defined	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Justice and Law Enforcement not further defined
-091101	Justice Administration	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Justice Administration
-091103	Legal Studies	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Legal Studies
-091105	Police Studies	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Police Studies
-091199	Justice and Law Enforcement not elsewhere classified	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Justice and Law Enforcement not elsewhere classified
-091300	Librarianship, Information Management and Curatorial Studies not further defined	0913	Librarianship, Information Management and Curatorial Studies	09	Society and Culture	Society and Culture/Librarianship, Information Management and Curatorial Studies/Librarianship, Information Management and Curatorial Studies not further defined
-091301	Librarianship and Information Management	0913	Librarianship, Information Management and Curatorial Studies	09	Society and Culture	Society and Culture/Librarianship, Information Management and Curatorial Studies/Librarianship and Information Management
-091303	Curatorial Studies	0913	Librarianship, Information Management and Curatorial Studies	09	Society and Culture	Society and Culture/Librarianship, Information Management and Curatorial Studies/Curatorial Studies
-091500	Language and Literature not further defined	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Language and Literature not further defined
-091501	English Language	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/English Language
-091502	Te Reo Māori	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Te Reo Māori
-091504	Foreign Languages	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Foreign Languages
-091506	English for Speakers of Other Languages	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/English for Speakers of Other Languages
-091519	Translating and Interpreting	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Translating and Interpreting
-091521	Linguistics	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Linguistics
-091523	Literature	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Literature
-091599	Language and Literature not elsewhere classified	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Language and Literature not elsewhere classified
-091700	Philosophy and Religious Studies not further defined	0917	Philosophy and Religious Studies	09	Society and Culture	Society and Culture/Philosophy and Religious Studies/Philosophy and Religious Studies not further defined
-091701	Philosophy	0917	Philosophy and Religious Studies	09	Society and Culture	Society and Culture/Philosophy and Religious Studies/Philosophy
-091703	Religious Studies	0917	Philosophy and Religious Studies	09	Society and Culture	Society and Culture/Philosophy and Religious Studies/Religious Studies
-091900	Economics and Econometrics not further defined	0919	Economics and Econometrics	09	Society and Culture	Society and Culture/Economics and Econometrics/Economics and Econometrics not further defined
-091901	Economics	0919	Economics and Econometrics	09	Society and Culture	Society and Culture/Economics and Econometrics/Economics
-091903	Econometrics	0919	Economics and Econometrics	09	Society and Culture	Society and Culture/Economics and Econometrics/Econometrics
-092100	Sport and Recreation not further defined	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sport and Recreation not further defined
-092101	Sport and Recreation Activities	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sport and Recreation Activities
-092103	Sports Coaching, Playing, Officiating and Instructing	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sports Coaching, Playing, Officiating and Instructing
-092199	Sport and Recreation not elsewhere classified	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sport and Recreation not elsewhere classified
-099900	Other Society and Culture not further defined	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Other Society and Culture not further defined
-099901	Community, Whanau, Family and Consumer Studies	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Community, Whanau, Family and Consumer Studies
-099902	Cultural Studies	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Cultural Studies
-099903	Criminology	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Criminology
-099905	Security Services	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Security Services
-099999	Society and Culture not elsewhere classified	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Society and Culture not elsewhere classified
-100000	Creative Arts not further defined	1000	Creative Arts not further defined	10	Creative Arts	Creative Arts/Creative Arts not further defined/Creative Arts not further defined
-100100	Performing Arts not further defined	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Performing Arts not further defined
-100101	Music	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Music
-100103	Drama and Theatre Studies	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Drama and Theatre Studies
-100105	Dance	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Dance
-100106	Ngā Mahi a Rēhia (Māori Performing Arts)	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Ngā Mahi a Rēhia (Māori Performing Arts)
-100199	Performing Arts not elsewhere classified	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Performing Arts not elsewhere classified
-100300	Visual Arts and Crafts not further defined	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Visual Arts and Crafts not further defined
-100301	Fine Arts	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Fine Arts
-100303	Photography	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Photography
-100305	Crafts	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Crafts
-100306	Mana Whakairo (Māori Carving)	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Mana Whakairo (Māori Carving)
-100307	Jewellery Making	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Jewellery Making
-100309	Floristry	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Floristry
-100399	Visual Arts and Crafts not elsewhere classified	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Visual Arts and Crafts not elsewhere classified
-100500	Graphic and Design Studies not further defined	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Graphic and Design Studies not further defined
-100501	Graphic Arts and Design Studies	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Graphic Arts and Design Studies
-100503	Textile Design	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Textile Design
-100505	Fashion Design	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Fashion Design
-100506	Ngā Mahi a te Whare Pora (Māori Weaving)	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Ngā Mahi a te Whare Pora (Māori Weaving)
-100599	Graphic and Design Studies not elsewhere classified	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Graphic and Design Studies not elsewhere classified
-100700	Communication and Media Studies not further defined	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Communication and Media Studies not further defined
-100701	Audio Visual Studies	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Audio Visual Studies
-100703	Journalism, Communication and Media Studies	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Journalism, Communication and Media Studies
-100705	Written Communication	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Written Communication
-100707	Verbal Communication	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Verbal Communication
-100709	Multimedia studies	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Multimedia studies
-100799	Communication and Media Studies not elsewhere classified	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Communication and Media Studies not elsewhere classified
-109900	Other Creative Arts not further defined	1099	Other Creative Arts	10	Creative Arts	Creative Arts/Other Creative Arts/Other Creative Arts not further defined
-109999	Creative Arts not elsewhere classified	1099	Other Creative Arts	10	Creative Arts	Creative Arts/Other Creative Arts/Creative Arts not elsewhere classified
-110000	Food, Hospitality and Personal Services not further defined	1100	Food, Hospitality and Personal Services not further defined	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food, Hospitality and Personal Services not further defined/Food, Hospitality and Personal Services not further defined
-110100	Food and Hospitality not further defined	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food and Hospitality not further defined
-110101	Hospitality	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Hospitality
-110103	Food and Beverage Service	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food and Beverage Service
-110105	Butchery	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Butchery
-110107	Baking and Pastry Making	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Baking and Pastry Making
-110109	Cookery	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Cookery
-110111	Food Hygiene	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food Hygiene
-110199	Food and Hospitality not elsewhere classified	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food and Hospitality not elsewhere classified
-110300	Personal Services not further defined	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Personal Services not further defined
-110301	Beauty Therapy	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Beauty Therapy
-110303	Hairdressing	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Hairdressing
-110399	Personal Services not elsewhere classified	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Personal Services not elsewhere classified
-120000	Mixed Field Programmes not further defined	1200	Mixed Field Programmes not further defined	12	Mixed Field Programmes	Mixed Field Programmes/Mixed Field Programmes not further defined/Mixed Field Programmes not further defined
-120100	General Education Programmes not further defined	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/General Education Programmes not further defined
-120101	General Primary and Secondary Education	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/General Primary and Secondary Education
-120103	Literacy and Numeracy Programmes	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/Literacy and Numeracy Programmes
-120105	Learning Skills Programmes	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/Learning Skills Programmes
-120199	General Education Programmes not elsewhere classified	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/General Education Programmes not elsewhere classified
-120300	Social Skills Programmes not further defined	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Social Skills Programmes not further defined
-120301	Social and Interpersonal Skills Programmes	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Social and Interpersonal Skills Programmes
-120303	Life Skills	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Life Skills
-120304	Family/Whānau Education	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Family/Whānau Education
-120399	Social Skills Programmes not elsewhere classified	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Social Skills Programmes not elsewhere classified
-120500	Employment Skills Programmes not further defined	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Employment Skills Programmes not further defined
-120501	Career Development Programmes	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Career Development Programmes
-120503	Job Search Skills Programmes	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Job Search Skills Programmes
-120505	Work Practices Programmes	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Work Practices Programmes
-120599	Employment Skills Programmes not elsewhere classified	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Employment Skills Programmes not elsewhere classified
-129900	Other Mixed Field Programmes not further defined	1299	Other Mixed Field Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Other Mixed Field Programmes/Other Mixed Field Programmes not further defined
-129999	Mixed Field Programmes not elsewhere classified	1299	Other Mixed Field Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Other Mixed Field Programmes/Mixed Field Programmes not elsewhere classified
-444444	Don't Know	4444	Don't Know	44	Don't Know	Don't Know/Don't Know/Don't Know
-555555	Refused to Answer	5555	Refused to Answer	55	Refused to Answer	Refused to Answer/Refused to Answer/Refused to Answer
-777777	Response Unidentifiable	7777	Response Unidentifiable	77	Response Unidentifiable	Response Unidentifiable/Response Unidentifiable/Response Unidentifiable
-888888	Response Outside Scope	8888	Response Outside Scope	88	Response Outside Scope	Response Outside Scope/Response Outside Scope/Response Outside Scope
-999999	Not Stated	9999	Not Stated	99	Not Stated	Not Stated/Not Stated/Not Stated
+Version	Code	Description	Four_Digit_Code	Four_Digit_Description	Two_Digit_Code	Two_Digit_Description	Definition
+2.0.0	000000	No Qualification	0000	No Qualification	00	No Qualification	No Qualification/No Qualification/No Qualification
+2.0.0	010000	Natural and Physical Sciences not further defined	0100	Natural and Physical Sciences not further defined	01	Natural and Physical Sciences	Natural and Physical Sciences/Natural and Physical Sciences not further defined/Natural and Physical Sciences not further defined
+2.0.0	010100	Mathematical Sciences not further defined	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Mathematical Sciences not further defined
+2.0.0	010101	Mathematics	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Mathematics
+2.0.0	010103	Statistics	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Statistics
+2.0.0	010199	Mathematical Sciences not elsewhere classified	0101	Mathematical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Mathematical Sciences/Mathematical Sciences not elsewhere classified
+2.0.0	010300	Physics and Astronomy not further defined	0103	Physics and Astronomy	01	Natural and Physical Sciences	Natural and Physical Sciences/Physics and Astronomy/Physics and Astronomy not further defined
+2.0.0	010301	Physics	0103	Physics and Astronomy	01	Natural and Physical Sciences	Natural and Physical Sciences/Physics and Astronomy/Physics
+2.0.0	010303	Astronomy	0103	Physics and Astronomy	01	Natural and Physical Sciences	Natural and Physical Sciences/Physics and Astronomy/Astronomy
+2.0.0	010500	Chemical Sciences not further defined	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Chemical Sciences not further defined
+2.0.0	010501	Organic Chemistry	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Organic Chemistry
+2.0.0	010503	Inorganic Chemistry	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Inorganic Chemistry
+2.0.0	010599	Chemical Sciences not elsewhere classified	0105	Chemical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Chemical Sciences/Chemical Sciences not elsewhere classified
+2.0.0	010700	Earth Sciences not further defined	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Earth Sciences not further defined
+2.0.0	010701	Atmospheric Sciences	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Atmospheric Sciences
+2.0.0	010703	Geology	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Geology
+2.0.0	010705	Geophysics	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Geophysics
+2.0.0	010707	Geochemistry	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Geochemistry
+2.0.0	010709	Soil Science	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Soil Science
+2.0.0	010711	Hydrology	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Hydrology
+2.0.0	010713	Oceanography	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Oceanography
+2.0.0	010799	Earth Sciences not elsewhere classified	0107	Earth Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Earth Sciences/Earth Sciences not elsewhere classified
+2.0.0	010900	Biological Sciences not further defined	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Biological Sciences not further defined
+2.0.0	010901	Biochemistry and Cell Biology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Biochemistry and Cell Biology
+2.0.0	010903	Botany	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Botany
+2.0.0	010905	Ecology and Evolution	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Ecology and Evolution
+2.0.0	010907	Marine Science	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Marine Science
+2.0.0	010909	Genetics	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Genetics
+2.0.0	010911	Microbiology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Microbiology
+2.0.0	010913	Human Biology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Human Biology
+2.0.0	010915	Zoology	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Zoology
+2.0.0	010916	Neuroscience	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Neuroscience
+2.0.0	010999	Biological Sciences not elsewhere classified	0109	Biological Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Biological Sciences/Biological Sciences not elsewhere classified
+2.0.0	019900	Other Natural and Physical Sciences not further defined	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Other Natural and Physical Sciences not further defined
+2.0.0	019901	Medical Science	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Medical Science
+2.0.0	019903	Forensic Science	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Forensic Science
+2.0.0	019905	Food Science and Biotechnology	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Food Science and Biotechnology
+2.0.0	019907	Pharmacology	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Pharmacology
+2.0.0	019909	Laboratory Technology	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Laboratory Technology
+2.0.0	019999	Natural and Physical Sciences not elsewhere classified	0199	Other Natural and Physical Sciences	01	Natural and Physical Sciences	Natural and Physical Sciences/Other Natural and Physical Sciences/Natural and Physical Sciences not elsewhere classified
+2.0.0	020000	Information Technology not further defined	0200	Information Technology not further defined	02	Information Technology	Information Technology/Information Technology not further defined/Information Technology not further defined
+2.0.0	020100	Computer Science not further defined	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computer Science not further defined
+2.0.0	020101	Formal Language Theory	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Formal Language Theory
+2.0.0	020103	Computer Applications and Programming	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computer Applications and Programming
+2.0.0	020105	Computational Theory	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computational Theory
+2.0.0	020107	Compiler Construction	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Compiler Construction
+2.0.0	020109	Algorithms	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Algorithms
+2.0.0	020111	Data Structures	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Data Structures
+2.0.0	020113	Networks and Communications	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Networks and Communications
+2.0.0	020115	Multimedia Computing Science	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Multimedia Computing Science
+2.0.0	020117	Operating Systems	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Operating Systems
+2.0.0	020119	Artificial Intelligence	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Artificial Intelligence
+2.0.0	020199	Computer Science not elsewhere classified	0201	Computer Science	02	Information Technology	Information Technology/Computer Science/Computer Science not elsewhere classified
+2.0.0	020300	Information Systems not further defined	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Information Systems not further defined
+2.0.0	020301	Conceptual Modelling	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Conceptual Modelling
+2.0.0	020303	Database Management	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Database Management
+2.0.0	020305	Systems Analysis and Design	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Systems Analysis and Design
+2.0.0	020307	Decision Support Systems	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Decision Support Systems
+2.0.0	020399	Information Systems not elsewhere classified	0203	Information Systems	02	Information Technology	Information Technology/Information Systems/Information Systems not elsewhere classified
+2.0.0	029900	Other Information Technology not further defined	0299	Other Information Technology	02	Information Technology	Information Technology/Other Information Technology/Other Information Technology not further defined
+2.0.0	029901	Security Science	0299	Other Information Technology	02	Information Technology	Information Technology/Other Information Technology/Security Science
+2.0.0	029999	Information Technology not elsewhere classified	0299	Other Information Technology	02	Information Technology	Information Technology/Other Information Technology/Information Technology not elsewhere classified
+2.0.0	030000	Engineering and Related Technologies not further defined	0300	Engineering and Related Technologies not further defined	03	Engineering and Related Technologies	Engineering and Related Technologies/Engineering and Related Technologies not further defined/Engineering and Related Technologies not further defined
+2.0.0	030100	Manufacturing, Engineering and Technology not further defined	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing, Engineering and Technology not further defined
+2.0.0	030101	Manufacturing Engineering	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing Engineering
+2.0.0	030103	Printing	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Printing
+2.0.0	030105	Textile Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Textile Making
+2.0.0	030107	Garment Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Garment Making
+2.0.0	030108	Plastics Processing Technology	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Plastics Processing Technology
+2.0.0	030109	Footwear Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Footwear Making
+2.0.0	030111	Wood Machining and Turning	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Wood Machining and Turning
+2.0.0	030113	Cabinet Making	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Cabinet Making
+2.0.0	030115	Furniture Upholstery and Renovation	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Furniture Upholstery and Renovation
+2.0.0	030117	Furniture Polishing	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Furniture Polishing
+2.0.0	030199	Manufacturing Engineering and Technology not elsewhere classified.	0301	Manufacturing, Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing Engineering and Technology not elsewhere classified.
+2.0.0	030300	Process and Resources Engineering not further defined	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Process and Resources Engineering not further defined
+2.0.0	030301	Chemical Engineering	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Chemical Engineering
+2.0.0	030303	Mining and Resources Engineering	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Mining and Resources Engineering
+2.0.0	030304	Wood Based Manufacturing	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Wood Based Manufacturing
+2.0.0	030305	Materials Engineering	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Materials Engineering
+2.0.0	030306	Ceramics, Industrial Glass and Rubber Manufacturing	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Ceramics, Industrial Glass and Rubber Manufacturing
+2.0.0	030307	Food (excluding Seafood) Processing Technology	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Food (excluding Seafood) Processing Technology
+2.0.0	030308	Seafood Processing	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Seafood Processing
+2.0.0	030399	Process and Resources Engineering not elsewhere classified	0303	Process and Resources Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Process and Resources Engineering/Process and Resources Engineering not elsewhere classified
+2.0.0	030500	Automotive Engineering and Technology not further defined	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering and Technology not further defined
+2.0.0	030501	Automotive Engineering	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering
+2.0.0	030503	Vehicle Mechanics	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Vehicle Mechanics
+2.0.0	030505	Automotive Electrics and Electronics	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Electrics and Electronics
+2.0.0	030507	Automotive Vehicle  Refinishing	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Vehicle  Refinishing
+2.0.0	030509	Automotive Body Construction	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Body Construction
+2.0.0	030511	Panel Beating	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Panel Beating
+2.0.0	030513	Upholstery and Vehicle Trimming	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Upholstery and Vehicle Trimming
+2.0.0	030515	Automotive Vehicle Operations	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Vehicle Operations
+2.0.0	030599	Automotive Engineering and Technology not elsewhere classified	0305	Automotive Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering and Technology not elsewhere classified
+2.0.0	030700	Mechanical and Industrial Engineering and Technology not further defined	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical and Industrial Engineering and Technology not further defined
+2.0.0	030701	Mechanical Engineering	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical Engineering
+2.0.0	030703	Industrial Engineering	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Industrial Engineering
+2.0.0	030705	Toolmaking	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Toolmaking
+2.0.0	030707	Metal Fitting, Turning and Machining	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Metal Fitting, Turning and Machining
+2.0.0	030709	Sheetmetal Working	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Sheetmetal Working
+2.0.0	030711	Boiler-making and Welding	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Boiler-making and Welding
+2.0.0	030713	Metal Casting and Pattern Making	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Metal Casting and Pattern Making
+2.0.0	030715	Precision Metalworking	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Precision Metalworking
+2.0.0	030717	Plant and Machine Operations	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Plant and Machine Operations
+2.0.0	030799	Mechanical and Industrial Engineering & Technology not elsewhere classified	0307	Mechanical and Industrial Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical and Industrial Engineering & Technology not elsewhere classified
+2.0.0	030900	Civil Engineering not further defined	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Civil Engineering not further defined
+2.0.0	030901	Construction Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Construction Engineering
+2.0.0	030903	Structural Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Structural Engineering
+2.0.0	030905	Building Services Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Building Services Engineering
+2.0.0	030907	Water and Sanitary Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Water and Sanitary Engineering
+2.0.0	030909	Transport Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Transport Engineering
+2.0.0	030910	Road Construction	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Road Construction
+2.0.0	030911	Geotechnical Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Geotechnical Engineering
+2.0.0	030913	Ocean Engineering	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Ocean Engineering
+2.0.0	030999	Civil Engineering not elsewhere classified	0309	Civil Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Civil Engineering/Civil Engineering not elsewhere classified
+2.0.0	031100	Geomatic Engineering not further defined	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Geomatic Engineering not further defined
+2.0.0	031101	Surveying	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Surveying
+2.0.0	031103	Mapping Science	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Mapping Science
+2.0.0	031199	Geomatic Engineering not elsewhere classified	0311	Geomatic Engineering	03	Engineering and Related Technologies	Engineering and Related Technologies/Geomatic Engineering/Geomatic Engineering not elsewhere classified
+2.0.0	031300	Electrical and Electronic Engineering and Technology not further defined	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical and Electronic Engineering and Technology not further defined
+2.0.0	031301	Electrical Engineering	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical Engineering
+2.0.0	031303	Electronic Engineering	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electronic Engineering
+2.0.0	031305	Computer Engineering	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Computer Engineering
+2.0.0	031307	Communications Technologies	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Communications Technologies
+2.0.0	031309	Communications Equipment Installation and Maintenance	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Communications Equipment Installation and Maintenance
+2.0.0	031311	Power Line Installation and Maintenance	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Power Line Installation and Maintenance
+2.0.0	031313	Electrical Fitting, Electrical Mechanics	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical Fitting, Electrical Mechanics
+2.0.0	031315	Refrigeration, Heating and Air Conditioning	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Refrigeration, Heating and Air Conditioning
+2.0.0	031317	Electronic Equipment Servicing	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electronic Equipment Servicing
+2.0.0	031399	Electrical and Electronic Engineering  and Technology not elsewhere classified	0313	Electrical and Electronic Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical and Electronic Engineering  and Technology not elsewhere classified
+2.0.0	031500	Aerospace Engineering and Technology not further defined	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering and Technology not further defined
+2.0.0	031501	Aerospace Engineering	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering
+2.0.0	031503	Aircraft Maintenance Engineering	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aircraft Maintenance Engineering
+2.0.0	031505	Aircraft Operation	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aircraft Operation
+2.0.0	031507	Air Traffic Control	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Air Traffic Control
+2.0.0	031599	Aerospace Engineering and Technology not elsewhere classified	0315	Aerospace Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering and Technology not elsewhere classified
+2.0.0	031700	Maritime Engineering and Technology not further defined	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering and Technology not further defined
+2.0.0	031701	Maritime Engineering	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering
+2.0.0	031703	Marine Construction	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Marine Construction
+2.0.0	031705	Marine Craft Operation	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Marine Craft Operation
+2.0.0	031799	Maritime Engineering and Technology not elsewhere classified	0317	Maritime Engineering and Technology	03	Engineering and Related Technologies	Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering and Technology not elsewhere classified
+2.0.0	039900	Other Engineering and Related Technologies not further defined	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Other Engineering and Related Technologies not further defined
+2.0.0	039901	Environmental Engineering	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Environmental Engineering
+2.0.0	039902	Orthotics and Prosthetics	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Orthotics and Prosthetics
+2.0.0	039903	Biomedical Engineering	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Biomedical Engineering
+2.0.0	039905	Fire Technology and Rescue Services	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Fire Technology and Rescue Services
+2.0.0	039907	Rail Operations	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Rail Operations
+2.0.0	039909	Cleaning	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Cleaning
+2.0.0	039999	Engineering and Related Technologies  not elsewhere classified	0399	Other Engineering and Related Technologies	03	Engineering and Related Technologies	Engineering and Related Technologies/Other Engineering and Related Technologies/Engineering and Related Technologies  not elsewhere classified
+2.0.0	040000	Architecture and Building not further defined	0400	Architecture and Building not further defined	04	Architecture and Building	Architecture and Building/Architecture and Building not further defined/Architecture and Building not further defined
+2.0.0	040100	Architecture and Urban Environment not further defined	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Architecture and Urban Environment not further defined
+2.0.0	040101	Architecture	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Architecture
+2.0.0	040103	Urban Design and Regional Planning	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Urban Design and Regional Planning
+2.0.0	040105	Landscape Architecture	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Landscape Architecture
+2.0.0	040107	Interior and Environmental Design	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Interior and Environmental Design
+2.0.0	040199	Architecture and Urban Environment not elsewhere classified	0401	Architecture and Urban Environment	04	Architecture and Building	Architecture and Building/Architecture and Urban Environment/Architecture and Urban Environment not elsewhere classified
+2.0.0	040300	Building not further defined	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building not further defined
+2.0.0	040301	Building Science and Technology	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Science and Technology
+2.0.0	040303	Building Construction Management	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Construction Management
+2.0.0	040305	Building Surveying (Inspection)	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Surveying (Inspection)
+2.0.0	040307	Building Construction Economics (including Quantity Surveying)	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building Construction Economics (including Quantity Surveying)
+2.0.0	040309	Bricklaying and Stonemasonry	0403	Building	04	Architecture and Building	Architecture and Building/Building/Bricklaying and Stonemasonry
+2.0.0	040311	Carpentry and Joinery	0403	Building	04	Architecture and Building	Architecture and Building/Building/Carpentry and Joinery
+2.0.0	040313	Ceiling, Wall and Floor Fixing	0403	Building	04	Architecture and Building	Architecture and Building/Building/Ceiling, Wall and Floor Fixing
+2.0.0	040315	Roof Fixing	0403	Building	04	Architecture and Building	Architecture and Building/Building/Roof Fixing
+2.0.0	040317	Plastering	0403	Building	04	Architecture and Building	Architecture and Building/Building/Plastering
+2.0.0	040319	Furnishing Installation	0403	Building	04	Architecture and Building	Architecture and Building/Building/Furnishing Installation
+2.0.0	040321	Floor Coverings	0403	Building	04	Architecture and Building	Architecture and Building/Building/Floor Coverings
+2.0.0	040323	Glazing	0403	Building	04	Architecture and Building	Architecture and Building/Building/Glazing
+2.0.0	040325	Painting, Decorating, Sign Writing and Other Finishes	0403	Building	04	Architecture and Building	Architecture and Building/Building/Painting, Decorating, Sign Writing and Other Finishes
+2.0.0	040327	Plumbing, Gasfitting and Drainlaying	0403	Building	04	Architecture and Building	Architecture and Building/Building/Plumbing, Gasfitting and Drainlaying
+2.0.0	040329	Scaffolding and Rigging	0403	Building	04	Architecture and Building	Architecture and Building/Building/Scaffolding and Rigging
+2.0.0	040399	Building not elsewhere classified	0403	Building	04	Architecture and Building	Architecture and Building/Building/Building not elsewhere classified
+2.0.0	050000	Agriculture, Environmental and Related Studies not further defined	0500	Agriculture, Environmental and Related Studies not further defined	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture, Environmental and Related Studies not further defined/Agriculture, Environmental and Related Studies not further defined
+2.0.0	050100	Agriculture not further defined	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Agriculture not further defined
+2.0.0	050101	Agricultural Science	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Agricultural Science
+2.0.0	050103	Wool and Fibre Science	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Wool and Fibre Science
+2.0.0	050104	Beekeeping	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Beekeeping
+2.0.0	050105	Animal Husbandry	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Animal Husbandry
+2.0.0	050106	Crop Production	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Crop Production
+2.0.0	050108	Equine Trades	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Equine Trades
+2.0.0	050110	Wool and Fibre Harvesting	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Wool and Fibre Harvesting
+2.0.0	050112	General Land Skills	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/General Land Skills
+2.0.0	050199	Agriculture not elsewhere classified	0501	Agriculture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Agriculture/Agriculture not elsewhere classified
+2.0.0	050300	Horticulture and Viticulture not further defined	0503	Horticulture and Viticulture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Horticulture and Viticulture not further defined
+2.0.0	050301	Horticulture	0503	Horticulture and Viticulture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Horticulture
+2.0.0	050303	Viticulture	0503	Horticulture and Viticulture	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Viticulture
+2.0.0	050500	Forestry Studies not further defined	0505	Forestry Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Forestry Studies/Forestry Studies not further defined
+2.0.0	050501	Forestry Studies	0505	Forestry Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Forestry Studies/Forestry Studies
+2.0.0	050502	Solid Wood Processing	0505	Forestry Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Forestry Studies/Solid Wood Processing
+2.0.0	050700	Fisheries Studies not further defined	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Fisheries Studies not further defined
+2.0.0	050701	Aquaculture	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Aquaculture
+2.0.0	050702	Seafood Harvesting (Fishing)	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Seafood Harvesting (Fishing)
+2.0.0	050799	Fisheries  Studies not elsewhere classified	0507	Fisheries Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Fisheries Studies/Fisheries  Studies not elsewhere classified
+2.0.0	050900	Environmental Studies not further defined	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Studies not further defined
+2.0.0	050901	Land, Parks and Wildlife Management	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Land, Parks and Wildlife Management
+2.0.0	050902	Environmental Sustainability	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Sustainability
+2.0.0	050999	Environmental Studies not elsewhere classified	0509	Environmental Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Studies not elsewhere classified
+2.0.0	059900	Other Agriculture, Environmental and Related Studies not further defined	0599	Other Agriculture, Environmental and Related Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies not further defined
+2.0.0	059901	Pest and Weed Control	0599	Other Agriculture, Environmental and Related Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Pest and Weed Control
+2.0.0	059999	Agriculture, Environmental and Related Studies not elsewhere classified	0599	Other Agriculture, Environmental and Related Studies	05	Agriculture, Environmental and Related Studies	Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Agriculture, Environmental and Related Studies not elsewhere classified
+2.0.0	060000	Health not further defined	0600	Health not further defined	06	Health	Health/Health not further defined/Health not further defined
+2.0.0	060100	Medical Studies not further defined	0601	Medical Studies	06	Health	Health/Medical Studies/Medical Studies not further defined
+2.0.0	060101	General Medicine	0601	Medical Studies	06	Health	Health/Medical Studies/General Medicine
+2.0.0	060103	Surgery	0601	Medical Studies	06	Health	Health/Medical Studies/Surgery
+2.0.0	060105	Psychiatry	0601	Medical Studies	06	Health	Health/Medical Studies/Psychiatry
+2.0.0	060107	Obstetrics and Gynaecology	0601	Medical Studies	06	Health	Health/Medical Studies/Obstetrics and Gynaecology
+2.0.0	060109	Paediatrics	0601	Medical Studies	06	Health	Health/Medical Studies/Paediatrics
+2.0.0	060111	Anaesthesiology	0601	Medical Studies	06	Health	Health/Medical Studies/Anaesthesiology
+2.0.0	060113	Pathology	0601	Medical Studies	06	Health	Health/Medical Studies/Pathology
+2.0.0	060115	Radiology	0601	Medical Studies	06	Health	Health/Medical Studies/Radiology
+2.0.0	060117	Internal Medicine	0601	Medical Studies	06	Health	Health/Medical Studies/Internal Medicine
+2.0.0	060119	General Practice Medicine	0601	Medical Studies	06	Health	Health/Medical Studies/General Practice Medicine
+2.0.0	060199	Medical Studies not elsewhere classified	0601	Medical Studies	06	Health	Health/Medical Studies/Medical Studies not elsewhere classified
+2.0.0	060300	Nursing not further defined	0603	Nursing	06	Health	Health/Nursing/Nursing not further defined
+2.0.0	060301	Nursing	0603	Nursing	06	Health	Health/Nursing/Nursing
+2.0.0	060303	Midwifery	0603	Nursing	06	Health	Health/Nursing/Midwifery
+2.0.0	060308	Health Care Assistant	0603	Nursing	06	Health	Health/Nursing/Health Care Assistant
+2.0.0	060399	Nursing not elsewhere classified	0603	Nursing	06	Health	Health/Nursing/Nursing not elsewhere classified
+2.0.0	060500	Pharmacy not further defined	0605	Pharmacy	06	Health	Health/Pharmacy/Pharmacy not further defined
+2.0.0	060501	Pharmacy	0605	Pharmacy	06	Health	Health/Pharmacy/Pharmacy
+2.0.0	060700	Dental Studies not further defined	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Studies not further defined
+2.0.0	060701	Dentistry	0607	Dental Studies	06	Health	Health/Dental Studies/Dentistry
+2.0.0	060704	Dental Hygiene and Therapy	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Hygiene and Therapy
+2.0.0	060705	Dental Technology	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Technology
+2.0.0	060799	Dental Studies not elsewhere classified	0607	Dental Studies	06	Health	Health/Dental Studies/Dental Studies not elsewhere classified
+2.0.0	060900	Optical Science not further defined	0609	Optical Science	06	Health	Health/Optical Science/Optical Science not further defined
+2.0.0	060901	Optometry	0609	Optical Science	06	Health	Health/Optical Science/Optometry
+2.0.0	060903	Optical Technology	0609	Optical Science	06	Health	Health/Optical Science/Optical Technology
+2.0.0	060999	Optical Science not elsewhere classified	0609	Optical Science	06	Health	Health/Optical Science/Optical Science not elsewhere classified
+2.0.0	061100	Veterinary Studies not further defined	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Studies not further defined
+2.0.0	061101	Veterinary Science	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Science
+2.0.0	061103	Veterinary Assisting	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Assisting
+2.0.0	061199	Veterinary Studies not elsewhere classified	0611	Veterinary Studies	06	Health	Health/Veterinary Studies/Veterinary Studies not elsewhere classified
+2.0.0	061300	Public Health not further defined	0613	Public Health	06	Health	Health/Public Health/Public Health not further defined
+2.0.0	061301	Occupational Health and Safety	0613	Public Health	06	Health	Health/Public Health/Occupational Health and Safety
+2.0.0	061303	Environmental Health	0613	Public Health	06	Health	Health/Public Health/Environmental Health
+2.0.0	061304	Hauora (Māori Health)	0613	Public Health	06	Health	Health/Public Health/Hauora (Māori Health)
+2.0.0	061307	Health Education,  Promotion, Counselling	0613	Public Health	06	Health	Health/Public Health/Health Education,  Promotion, Counselling
+2.0.0	061309	Community Health	0613	Public Health	06	Health	Health/Public Health/Community Health
+2.0.0	061311	Epidemiology	0613	Public Health	06	Health	Health/Public Health/Epidemiology
+2.0.0	061399	Public Health not elsewhere classified	0613	Public Health	06	Health	Health/Public Health/Public Health not elsewhere classified
+2.0.0	061500	Radiography  not further defined	0615	Radiography	06	Health	Health/Radiography/Radiography  not further defined
+2.0.0	061501	Medical Imaging Technology (Radiography) and Radiation Therapy	0615	Radiography	06	Health	Health/Radiography/Medical Imaging Technology (Radiography) and Radiation Therapy
+2.0.0	061700	Rehabilitation Therapies not further defined	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Rehabilitation Therapies not further defined
+2.0.0	061701	Physiotherapy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Physiotherapy
+2.0.0	061703	Occupational Therapy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Occupational Therapy
+2.0.0	061705	Chiropractic and Osteopathy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Chiropractic and Osteopathy
+2.0.0	061707	Speech Pathology	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Speech Pathology
+2.0.0	061709	Audiology	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Audiology
+2.0.0	061711	Massage Therapy	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Massage Therapy
+2.0.0	061713	Podiatry	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Podiatry
+2.0.0	061799	Rehabilitation Therapies not elsewhere classified	0617	Rehabilitation Therapies	06	Health	Health/Rehabilitation Therapies/Rehabilitation Therapies not elsewhere classified
+2.0.0	061900	Complementary Therapies not further defined	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Complementary Therapies not further defined
+2.0.0	061901	Naturopathy and Homeopathy	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Naturopathy and Homeopathy
+2.0.0	061903	Acupuncture	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Acupuncture
+2.0.0	061905	Traditional Chinese Medicine	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Traditional Chinese Medicine
+2.0.0	061999	Complementary Therapies not elsewhere classified	0619	Complementary Therapies	06	Health	Health/Complementary Therapies/Complementary Therapies not elsewhere classified
+2.0.0	069900	Other Health not further defined	0699	Other Health	06	Health	Health/Other Health/Other Health not further defined
+2.0.0	069901	Nutrition and Dietetics	0699	Other Health	06	Health	Health/Other Health/Nutrition and Dietetics
+2.0.0	069903	Human Movement and Sports Science	0699	Other Health	06	Health	Health/Other Health/Human Movement and Sports Science
+2.0.0	069905	Paramedical Studies	0699	Other Health	06	Health	Health/Other Health/Paramedical Studies
+2.0.0	069907	First Aid	0699	Other Health	06	Health	Health/Other Health/First Aid
+2.0.0	069999	Health not elsewhere classified	0699	Other Health	06	Health	Health/Other Health/Health not elsewhere classified
+2.0.0	070000	Education not further defined	0700	Education not further defined	07	Education	Education/Education not further defined/Education not further defined
+2.0.0	070100	Teacher Education not further defined	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education not further defined
+2.0.0	070101	Teacher Education: Early Childhood (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Early Childhood (Pre-Service)
+2.0.0	070103	Teacher Education: Primary (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Primary (Pre-Service)
+2.0.0	070105	Teacher Education: Secondary (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Secondary (Pre-Service)
+2.0.0	070106	Teacher Education:  Tertiary	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education:  Tertiary
+2.0.0	070108	Teacher Education: General (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: General (Pre-Service)
+2.0.0	070113	Teacher Education: Special Education	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education: Special Education
+2.0.0	070115	English Language Teaching(ESOL/EFL)	0701	Teacher Education	07	Education	Education/Teacher Education/English Language Teaching(ESOL/EFL)
+2.0.0	070116	Te Mātauranga Māori me te Whakangungu (Māori Education)	0701	Teacher Education	07	Education	Education/Teacher Education/Te Mātauranga Māori me te Whakangungu (Māori Education)
+2.0.0	070118	Bilingual Early Childhood Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Bilingual Early Childhood Teacher Training (Pre-Service)
+2.0.0	070120	Immersion Early Childhood Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Immersion Early Childhood Teacher Training (Pre-Service)
+2.0.0	070122	Bilingual Primary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Bilingual Primary Teacher Training (Pre-Service)
+2.0.0	070124	Immersion Primary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Immersion Primary Teacher Training (Pre-Service)
+2.0.0	070126	Bilingual Secondary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Bilingual Secondary Teacher Training (Pre-Service)
+2.0.0	070128	Immersion Secondary Teacher Training (Pre-Service)	0701	Teacher Education	07	Education	Education/Teacher Education/Immersion Secondary Teacher Training (Pre-Service)
+2.0.0	070130	Teacher Professional Development	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Professional Development
+2.0.0	070199	Teacher Education not elsewhere classified	0701	Teacher Education	07	Education	Education/Teacher Education/Teacher Education not elsewhere classified
+2.0.0	070300	Curriculum and Education Studies not further defined	0703	Curriculum and Education Studies	07	Education	Education/Curriculum and Education Studies/Curriculum and Education Studies not further defined
+2.0.0	070301	Curriculum Studies	0703	Curriculum and Education Studies	07	Education	Education/Curriculum and Education Studies/Curriculum Studies
+2.0.0	070303	Education Studies	0703	Curriculum and Education Studies	07	Education	Education/Curriculum and Education Studies/Education Studies
+2.0.0	079900	Other Education not further defined	0799	Other Education	07	Education	Education/Other Education/Other Education not further defined
+2.0.0	079999	Education not elsewhere classified	0799	Other Education	07	Education	Education/Other Education/Education not elsewhere classified
+2.0.0	080000	Management and Commerce not further defined	0800	Management and Commerce not further defined	08	Management and Commerce	Management and Commerce/Management and Commerce not further defined/Management and Commerce not further defined
+2.0.0	080100	Accountancy not further defined	0801	Accountancy	08	Management and Commerce	Management and Commerce/Accountancy/Accountancy not further defined
+2.0.0	080101	Accounting	0801	Accountancy	08	Management and Commerce	Management and Commerce/Accountancy/Accounting
+2.0.0	080199	Accountancy not elsewhere classified	0801	Accountancy	08	Management and Commerce	Management and Commerce/Accountancy/Accountancy not elsewhere classified
+2.0.0	080300	Business and Management not further defined	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Business and Management not further defined
+2.0.0	080301	Business Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Business Management
+2.0.0	080303	Human Resource Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Human Resource Management
+2.0.0	080305	Personal Management Training	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Personal Management Training
+2.0.0	080307	Organisation Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Organisation Management
+2.0.0	080309	Industrial Relations	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Industrial Relations
+2.0.0	080311	International Business	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/International Business
+2.0.0	080312	Education Administration	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Education Administration
+2.0.0	080313	Public and Health Care Administration	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Public and Health Care Administration
+2.0.0	080315	Project Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Project Management
+2.0.0	080317	Quality Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Quality Management
+2.0.0	080319	Hospitality Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Hospitality Management
+2.0.0	080320	Racing and Gaming Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Racing and Gaming Management
+2.0.0	080321	Farm Management and Agribusiness	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Farm Management and Agribusiness
+2.0.0	080323	Tourism Management	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Tourism Management
+2.0.0	080399	Business and Management not elsewhere classified	0803	Business and Management	08	Management and Commerce	Management and Commerce/Business and Management/Business and Management not elsewhere classified
+2.0.0	080500	Sales and Marketing not further defined	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Sales and Marketing not further defined
+2.0.0	080501	Sales	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Sales
+2.0.0	080503	Real Estate	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Real Estate
+2.0.0	080505	Marketing	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Marketing
+2.0.0	080507	Advertising	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Advertising
+2.0.0	080509	Public Relations	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Public Relations
+2.0.0	080599	Sales and Marketing not elsewhere classified	0805	Sales and Marketing	08	Management and Commerce	Management and Commerce/Sales and Marketing/Sales and Marketing not elsewhere classified
+2.0.0	080700	Tourism not further defined	0807	Tourism	08	Management and Commerce	Management and Commerce/Tourism/Tourism not further defined
+2.0.0	080701	Tourism Studies	0807	Tourism	08	Management and Commerce	Management and Commerce/Tourism/Tourism Studies
+2.0.0	080900	Office Administration not further defined	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/Office Administration not further defined
+2.0.0	080901	General Office Administration	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/General Office Administration
+2.0.0	080904	Text and Information Processing	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/Text and Information Processing
+2.0.0	080999	Office Administration not elsewhere classified	0809	Office Administration	08	Management and Commerce	Management and Commerce/Office Administration/Office Administration not elsewhere classified
+2.0.0	081100	Banking, Finance and Related Fields not further defined	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Banking, Finance and Related Fields not further defined
+2.0.0	081101	Banking and Finance	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Banking and Finance
+2.0.0	081103	Insurance and Actuarial Studies	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Insurance and Actuarial Studies
+2.0.0	081105	Investment and Securities	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Investment and Securities
+2.0.0	081199	Banking, Finance and Related Fields not elsewhere classified	0811	Banking, Finance and Related Fields	08	Management and Commerce	Management and Commerce/Banking, Finance and Related Fields/Banking, Finance and Related Fields not elsewhere classified
+2.0.0	089900	Other Management and Commerce not further defined	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Other Management and Commerce not further defined
+2.0.0	089901	Purchasing, Warehousing and Distribution	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Purchasing, Warehousing and Distribution
+2.0.0	089903	Valuation	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Valuation
+2.0.0	089905	e-Commerce	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/e-Commerce
+2.0.0	089999	Management and Commerce not elsewhere classified	0899	Other Management and Commerce	08	Management and Commerce	Management and Commerce/Other Management and Commerce/Management and Commerce not elsewhere classified
+2.0.0	090000	Society and Culture not further defined	0900	Society and Culture not further defined	09	Society and Culture	Society and Culture/Society and Culture not further defined/Society and Culture not further defined
+2.0.0	090100	Political Science and Policy Studies not further defined	0901	Political Science and Policy Studies	09	Society and Culture	Society and Culture/Political Science and Policy Studies/Political Science and Policy Studies not further defined
+2.0.0	090101	Political Science	0901	Political Science and Policy Studies	09	Society and Culture	Society and Culture/Political Science and Policy Studies/Political Science
+2.0.0	090103	Policy Studies	0901	Political Science and Policy Studies	09	Society and Culture	Society and Culture/Political Science and Policy Studies/Policy Studies
+2.0.0	090300	Studies in Human Society not further defined	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Studies in Human Society not further defined
+2.0.0	090301	Sociology	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Sociology
+2.0.0	090303	Anthropology	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Anthropology
+2.0.0	090305	History	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/History
+2.0.0	090306	Art History	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Art History
+2.0.0	090307	Archaeology	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Archaeology
+2.0.0	090308	Classics	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Classics
+2.0.0	090309	Human Geography	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Human Geography
+2.0.0	090314	Tikanga - Māori Customs	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Tikanga - Māori Customs
+2.0.0	090316	Women's Studies	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Women's Studies
+2.0.0	090399	Studies in Human Society not elsewhere classified	0903	Studies in Human Society	09	Society and Culture	Society and Culture/Studies in Human Society/Studies in Human Society not elsewhere classified
+2.0.0	090500	Human Welfare Studies and Services not further defined	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Human Welfare Studies and Services not further defined
+2.0.0	090501	Social Work	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Social Work
+2.0.0	090502	Children's Services	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Children's Services
+2.0.0	090503	Nannying and Early Childhood Care	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Nannying and Early Childhood Care
+2.0.0	090505	Youth Work	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Youth Work
+2.0.0	090507	Support for the Older Person	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Support for the Older Person
+2.0.0	090509	Care for People with Disabilities	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Care for People with Disabilities
+2.0.0	090511	Community Client Care	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Community Client Care
+2.0.0	090513	Counselling	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Counselling
+2.0.0	090515	Welfare Studies	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Welfare Studies
+2.0.0	090599	Human Welfare Studies and Services not elsewhere classified	0905	Human Welfare Studies and Services	09	Society and Culture	Society and Culture/Human Welfare Studies and Services/Human Welfare Studies and Services not elsewhere classified
+2.0.0	090700	Behavioural Science not further defined	0907	Behavioural Science	09	Society and Culture	Society and Culture/Behavioural Science/Behavioural Science not further defined
+2.0.0	090701	Psychology	0907	Behavioural Science	09	Society and Culture	Society and Culture/Behavioural Science/Psychology
+2.0.0	090799	Behavioural Science not elsewhere classified	0907	Behavioural Science	09	Society and Culture	Society and Culture/Behavioural Science/Behavioural Science not elsewhere classified
+2.0.0	090900	Law not further defined	0909	Law	09	Society and Culture	Society and Culture/Law/Law not further defined
+2.0.0	090901	Business and Commercial Law	0909	Law	09	Society and Culture	Society and Culture/Law/Business and Commercial Law
+2.0.0	090903	Constitutional Law	0909	Law	09	Society and Culture	Society and Culture/Law/Constitutional Law
+2.0.0	090905	Criminal Law	0909	Law	09	Society and Culture	Society and Culture/Law/Criminal Law
+2.0.0	090907	Family Law	0909	Law	09	Society and Culture	Society and Culture/Law/Family Law
+2.0.0	090909	International Law	0909	Law	09	Society and Culture	Society and Culture/Law/International Law
+2.0.0	090911	Taxation Law	0909	Law	09	Society and Culture	Society and Culture/Law/Taxation Law
+2.0.0	090913	Legal Practice	0909	Law	09	Society and Culture	Society and Culture/Law/Legal Practice
+2.0.0	090999	Law not elsewhere classified	0909	Law	09	Society and Culture	Society and Culture/Law/Law not elsewhere classified
+2.0.0	091100	Justice and Law Enforcement not further defined	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Justice and Law Enforcement not further defined
+2.0.0	091101	Justice Administration	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Justice Administration
+2.0.0	091103	Legal Studies	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Legal Studies
+2.0.0	091105	Police Studies	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Police Studies
+2.0.0	091199	Justice and Law Enforcement not elsewhere classified	0911	Justice and Law Enforcement	09	Society and Culture	Society and Culture/Justice and Law Enforcement/Justice and Law Enforcement not elsewhere classified
+2.0.0	091300	Librarianship, Information Management and Curatorial Studies not further defined	0913	Librarianship, Information Management and Curatorial Studies	09	Society and Culture	Society and Culture/Librarianship, Information Management and Curatorial Studies/Librarianship, Information Management and Curatorial Studies not further defined
+2.0.0	091301	Librarianship and Information Management	0913	Librarianship, Information Management and Curatorial Studies	09	Society and Culture	Society and Culture/Librarianship, Information Management and Curatorial Studies/Librarianship and Information Management
+2.0.0	091303	Curatorial Studies	0913	Librarianship, Information Management and Curatorial Studies	09	Society and Culture	Society and Culture/Librarianship, Information Management and Curatorial Studies/Curatorial Studies
+2.0.0	091500	Language and Literature not further defined	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Language and Literature not further defined
+2.0.0	091501	English Language	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/English Language
+2.0.0	091502	Te Reo Māori	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Te Reo Māori
+2.0.0	091504	Foreign Languages	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Foreign Languages
+2.0.0	091506	English for Speakers of Other Languages	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/English for Speakers of Other Languages
+2.0.0	091519	Translating and Interpreting	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Translating and Interpreting
+2.0.0	091521	Linguistics	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Linguistics
+2.0.0	091523	Literature	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Literature
+2.0.0	091599	Language and Literature not elsewhere classified	0915	Language and Literature	09	Society and Culture	Society and Culture/Language and Literature/Language and Literature not elsewhere classified
+2.0.0	091700	Philosophy and Religious Studies not further defined	0917	Philosophy and Religious Studies	09	Society and Culture	Society and Culture/Philosophy and Religious Studies/Philosophy and Religious Studies not further defined
+2.0.0	091701	Philosophy	0917	Philosophy and Religious Studies	09	Society and Culture	Society and Culture/Philosophy and Religious Studies/Philosophy
+2.0.0	091703	Religious Studies	0917	Philosophy and Religious Studies	09	Society and Culture	Society and Culture/Philosophy and Religious Studies/Religious Studies
+2.0.0	091900	Economics and Econometrics not further defined	0919	Economics and Econometrics	09	Society and Culture	Society and Culture/Economics and Econometrics/Economics and Econometrics not further defined
+2.0.0	091901	Economics	0919	Economics and Econometrics	09	Society and Culture	Society and Culture/Economics and Econometrics/Economics
+2.0.0	091903	Econometrics	0919	Economics and Econometrics	09	Society and Culture	Society and Culture/Economics and Econometrics/Econometrics
+2.0.0	092100	Sport and Recreation not further defined	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sport and Recreation not further defined
+2.0.0	092101	Sport and Recreation Activities	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sport and Recreation Activities
+2.0.0	092103	Sports Coaching, Playing, Officiating and Instructing	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sports Coaching, Playing, Officiating and Instructing
+2.0.0	092199	Sport and Recreation not elsewhere classified	0921	Sport and Recreation	09	Society and Culture	Society and Culture/Sport and Recreation/Sport and Recreation not elsewhere classified
+2.0.0	099900	Other Society and Culture not further defined	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Other Society and Culture not further defined
+2.0.0	099901	Community, Whanau, Family and Consumer Studies	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Community, Whanau, Family and Consumer Studies
+2.0.0	099902	Cultural Studies	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Cultural Studies
+2.0.0	099903	Criminology	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Criminology
+2.0.0	099905	Security Services	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Security Services
+2.0.0	099999	Society and Culture not elsewhere classified	0999	Other Society and Culture	09	Society and Culture	Society and Culture/Other Society and Culture/Society and Culture not elsewhere classified
+2.0.0	100000	Creative Arts not further defined	1000	Creative Arts not further defined	10	Creative Arts	Creative Arts/Creative Arts not further defined/Creative Arts not further defined
+2.0.0	100100	Performing Arts not further defined	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Performing Arts not further defined
+2.0.0	100101	Music	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Music
+2.0.0	100103	Drama and Theatre Studies	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Drama and Theatre Studies
+2.0.0	100105	Dance	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Dance
+2.0.0	100106	Ngā Mahi a Rēhia (Māori Performing Arts)	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Ngā Mahi a Rēhia (Māori Performing Arts)
+2.0.0	100199	Performing Arts not elsewhere classified	1001	Performing Arts	10	Creative Arts	Creative Arts/Performing Arts/Performing Arts not elsewhere classified
+2.0.0	100300	Visual Arts and Crafts not further defined	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Visual Arts and Crafts not further defined
+2.0.0	100301	Fine Arts	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Fine Arts
+2.0.0	100303	Photography	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Photography
+2.0.0	100305	Crafts	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Crafts
+2.0.0	100306	Mana Whakairo (Māori Carving)	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Mana Whakairo (Māori Carving)
+2.0.0	100307	Jewellery Making	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Jewellery Making
+2.0.0	100309	Floristry	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Floristry
+2.0.0	100399	Visual Arts and Crafts not elsewhere classified	1003	Visual Arts and Crafts	10	Creative Arts	Creative Arts/Visual Arts and Crafts/Visual Arts and Crafts not elsewhere classified
+2.0.0	100500	Graphic and Design Studies not further defined	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Graphic and Design Studies not further defined
+2.0.0	100501	Graphic Arts and Design Studies	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Graphic Arts and Design Studies
+2.0.0	100503	Textile Design	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Textile Design
+2.0.0	100505	Fashion Design	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Fashion Design
+2.0.0	100506	Ngā Mahi a te Whare Pora (Māori Weaving)	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Ngā Mahi a te Whare Pora (Māori Weaving)
+2.0.0	100599	Graphic and Design Studies not elsewhere classified	1005	Graphic and Design Studies	10	Creative Arts	Creative Arts/Graphic and Design Studies/Graphic and Design Studies not elsewhere classified
+2.0.0	100700	Communication and Media Studies not further defined	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Communication and Media Studies not further defined
+2.0.0	100701	Audio Visual Studies	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Audio Visual Studies
+2.0.0	100703	Journalism, Communication and Media Studies	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Journalism, Communication and Media Studies
+2.0.0	100705	Written Communication	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Written Communication
+2.0.0	100707	Verbal Communication	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Verbal Communication
+2.0.0	100709	Multimedia studies	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Multimedia studies
+2.0.0	100799	Communication and Media Studies not elsewhere classified	1007	Communication and Media Studies	10	Creative Arts	Creative Arts/Communication and Media Studies/Communication and Media Studies not elsewhere classified
+2.0.0	109900	Other Creative Arts not further defined	1099	Other Creative Arts	10	Creative Arts	Creative Arts/Other Creative Arts/Other Creative Arts not further defined
+2.0.0	109999	Creative Arts not elsewhere classified	1099	Other Creative Arts	10	Creative Arts	Creative Arts/Other Creative Arts/Creative Arts not elsewhere classified
+2.0.0	110000	Food, Hospitality and Personal Services not further defined	1100	Food, Hospitality and Personal Services not further defined	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food, Hospitality and Personal Services not further defined/Food, Hospitality and Personal Services not further defined
+2.0.0	110100	Food and Hospitality not further defined	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food and Hospitality not further defined
+2.0.0	110101	Hospitality	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Hospitality
+2.0.0	110103	Food and Beverage Service	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food and Beverage Service
+2.0.0	110105	Butchery	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Butchery
+2.0.0	110107	Baking and Pastry Making	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Baking and Pastry Making
+2.0.0	110109	Cookery	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Cookery
+2.0.0	110111	Food Hygiene	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food Hygiene
+2.0.0	110199	Food and Hospitality not elsewhere classified	1101	Food and Hospitality	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Food and Hospitality/Food and Hospitality not elsewhere classified
+2.0.0	110300	Personal Services not further defined	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Personal Services not further defined
+2.0.0	110301	Beauty Therapy	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Beauty Therapy
+2.0.0	110303	Hairdressing	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Hairdressing
+2.0.0	110399	Personal Services not elsewhere classified	1103	Personal Services	11	Food, Hospitality and Personal Services	Food, Hospitality and Personal Services/Personal Services/Personal Services not elsewhere classified
+2.0.0	120000	Mixed Field Programmes not further defined	1200	Mixed Field Programmes not further defined	12	Mixed Field Programmes	Mixed Field Programmes/Mixed Field Programmes not further defined/Mixed Field Programmes not further defined
+2.0.0	120100	General Education Programmes not further defined	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/General Education Programmes not further defined
+2.0.0	120101	General Primary and Secondary Education	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/General Primary and Secondary Education
+2.0.0	120103	Literacy and Numeracy Programmes	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/Literacy and Numeracy Programmes
+2.0.0	120105	Learning Skills Programmes	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/Learning Skills Programmes
+2.0.0	120199	General Education Programmes not elsewhere classified	1201	General Education Programmes	12	Mixed Field Programmes	Mixed Field Programmes/General Education Programmes/General Education Programmes not elsewhere classified
+2.0.0	120300	Social Skills Programmes not further defined	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Social Skills Programmes not further defined
+2.0.0	120301	Social and Interpersonal Skills Programmes	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Social and Interpersonal Skills Programmes
+2.0.0	120303	Life Skills	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Life Skills
+2.0.0	120304	Family/Whānau Education	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Family/Whānau Education
+2.0.0	120399	Social Skills Programmes not elsewhere classified	1203	Social Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Social Skills Programmes/Social Skills Programmes not elsewhere classified
+2.0.0	120500	Employment Skills Programmes not further defined	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Employment Skills Programmes not further defined
+2.0.0	120501	Career Development Programmes	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Career Development Programmes
+2.0.0	120503	Job Search Skills Programmes	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Job Search Skills Programmes
+2.0.0	120505	Work Practices Programmes	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Work Practices Programmes
+2.0.0	120599	Employment Skills Programmes not elsewhere classified	1205	Employment Skills Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Employment Skills Programmes/Employment Skills Programmes not elsewhere classified
+2.0.0	129900	Other Mixed Field Programmes not further defined	1299	Other Mixed Field Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Other Mixed Field Programmes/Other Mixed Field Programmes not further defined
+2.0.0	129999	Mixed Field Programmes not elsewhere classified	1299	Other Mixed Field Programmes	12	Mixed Field Programmes	Mixed Field Programmes/Other Mixed Field Programmes/Mixed Field Programmes not elsewhere classified
+2.0.0	444444	Don't Know	4444	Don't Know	44	Don't Know	Don't Know/Don't Know/Don't Know
+2.0.0	555555	Refused to Answer	5555	Refused to Answer	55	Refused to Answer	Refused to Answer/Refused to Answer/Refused to Answer
+2.0.0	777777	Response Unidentifiable	7777	Response Unidentifiable	77	Response Unidentifiable	Response Unidentifiable/Response Unidentifiable/Response Unidentifiable
+2.0.0	888888	Response Outside Scope	8888	Response Outside Scope	88	Response Outside Scope	Response Outside Scope/Response Outside Scope/Response Outside Scope
+2.0.0	999999	Not Stated	9999	Not Stated	99	Not Stated	Not Stated/Not Stated/Not Stated

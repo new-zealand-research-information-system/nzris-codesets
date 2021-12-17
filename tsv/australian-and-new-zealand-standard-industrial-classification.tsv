@@ -1,32 +1,32 @@
-Code	Description	Parent_Code	Parent_Description	Definition
-AA1	Agriculture	AA	Agriculture, Forestry and Fishing	Agriculture, Forestry and Fishing/Agriculture
-AA2	Forestry and Logging	AA	Agriculture, Forestry and Fishing	Agriculture, Forestry and Fishing/Forestry and Logging
-AA3	Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services	AA	Agriculture, Forestry and Fishing	Agriculture, Forestry and Fishing/Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services
-BB1	Mining	BB	Mining	Mining/Mining
-CC1	Food, Beverage and Tobacco Product Manufacturing	CC	Manufacturing	Manufacturing/Food, Beverage and Tobacco Product Manufacturing
-CC2	Textile, Leather, Clothing and Footwear Manufacturing	CC	Manufacturing	Manufacturing/Textile, Leather, Clothing and Footwear Manufacturing
-CC3	Wood and Paper Products Manufacturing	CC	Manufacturing	Manufacturing/Wood and Paper Products Manufacturing
-CC4	Printing	CC	Manufacturing	Manufacturing/Printing
-CC5	Petroleum, Chemical, Polymer and Rubber Product Manufacturing	CC	Manufacturing	Manufacturing/Petroleum, Chemical, Polymer and Rubber Product Manufacturing
-CC6	Non-Metallic Mineral Product Manufacturing	CC	Manufacturing	Manufacturing/Non-Metallic Mineral Product Manufacturing
-CC7	Metal Product Manufacturing	CC	Manufacturing	Manufacturing/Metal Product Manufacturing
-CC8	Transport Equipment, Machinery and Equipment Manufacturing	CC	Manufacturing	Manufacturing/Transport Equipment, Machinery and Equipment Manufacturing
-CC9	Furniture and Other Manufacturing	CC	Manufacturing	Manufacturing/Furniture and Other Manufacturing
-DD1	Electricity, Gas, Water and Waste Services	DD	Electricity, Gas, Water and Waste Services	Electricity, Gas, Water and Waste Services/Electricity, Gas, Water and Waste Services
-EE1	Construction	EE	Construction	Construction/Construction
-FF1	Wholesale Trade	FF	Wholesale Trade	Wholesale Trade/Wholesale Trade
-GH1	Retail Trade	GH	Retail Trade and Accommodation	Retail Trade and Accommodation/Retail Trade
-GH2	Accommodation and Food Services	GH	Retail Trade and Accommodation	Retail Trade and Accommodation/Accommodation and Food Services
-II1	Transport, Postal and Warehousing	II	Transport, Postal and Warehousing	Transport, Postal and Warehousing/Transport, Postal and Warehousing
-JJ1	Information Media and Telecommunications	JJ	Information Media and Telecommunications	Information Media and Telecommunications/Information Media and Telecommunications
-KK1	Financial and Insurance Services	KK	Financial and Insurance Services	Financial and Insurance Services/Financial and Insurance Services
-LL1	Rental, Hiring and Real Estate Services	LL	Rental, Hiring and Real Estate Services	Rental, Hiring and Real Estate Services/Rental, Hiring and Real Estate Services
-LL2	Owner-Occupied Property Operation (National Accounts Only)	LL	Rental, Hiring and Real Estate Services	Rental, Hiring and Real Estate Services/Owner-Occupied Property Operation (National Accounts Only)
-MN1	Professional, Scientific and Technical Services	MN	Professional, Scientific, Technical, Administrative and Support Services	Professional, Scientific, Technical, Administrative and Support Services/Professional, Scientific and Technical Services
-MN2	Administrative and Support Services	MN	Professional, Scientific, Technical, Administrative and Support Services	Professional, Scientific, Technical, Administrative and Support Services/Administrative and Support Services
-OO1	Local Government Administration	OO	Public Administration and Safety	Public Administration and Safety/Local Government Administration
-OO2	Central Government Administration, Defence and Public Safety	OO	Public Administration and Safety	Public Administration and Safety/Central Government Administration, Defence and Public Safety
-PP1	Education and Training	PP	Education and Training	Education and Training/Education and Training
-QQ1	Health Care and Social Assistance	QQ	Health Care and Social Assistance	Health Care and Social Assistance/Health Care and Social Assistance
-RS1	Arts and Recreation Services	RS	Arts, Recreation and Other Services	Arts, Recreation and Other Services/Arts and Recreation Services
-RS2	Other Services	RS	Arts, Recreation and Other Services	Arts, Recreation and Other Services/Other Services
+Version	Code	Description	Parent_Code	Parent_Description	Definition
+1.0.0	AA1	Agriculture	AA	Agriculture, Forestry and Fishing	Agriculture, Forestry and Fishing/Agriculture
+1.0.0	AA2	Forestry and Logging	AA	Agriculture, Forestry and Fishing	Agriculture, Forestry and Fishing/Forestry and Logging
+1.0.0	AA3	Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services	AA	Agriculture, Forestry and Fishing	Agriculture, Forestry and Fishing/Fishing, Aquaculture and Agriculture, Forestry and Fishing Support Services
+1.0.0	BB1	Mining	BB	Mining	Mining/Mining
+1.0.0	CC1	Food, Beverage and Tobacco Product Manufacturing	CC	Manufacturing	Manufacturing/Food, Beverage and Tobacco Product Manufacturing
+1.0.0	CC2	Textile, Leather, Clothing and Footwear Manufacturing	CC	Manufacturing	Manufacturing/Textile, Leather, Clothing and Footwear Manufacturing
+1.0.0	CC3	Wood and Paper Products Manufacturing	CC	Manufacturing	Manufacturing/Wood and Paper Products Manufacturing
+1.0.0	CC4	Printing	CC	Manufacturing	Manufacturing/Printing
+1.0.0	CC5	Petroleum, Chemical, Polymer and Rubber Product Manufacturing	CC	Manufacturing	Manufacturing/Petroleum, Chemical, Polymer and Rubber Product Manufacturing
+1.0.0	CC6	Non-Metallic Mineral Product Manufacturing	CC	Manufacturing	Manufacturing/Non-Metallic Mineral Product Manufacturing
+1.0.0	CC7	Metal Product Manufacturing	CC	Manufacturing	Manufacturing/Metal Product Manufacturing
+1.0.0	CC8	Transport Equipment, Machinery and Equipment Manufacturing	CC	Manufacturing	Manufacturing/Transport Equipment, Machinery and Equipment Manufacturing
+1.0.0	CC9	Furniture and Other Manufacturing	CC	Manufacturing	Manufacturing/Furniture and Other Manufacturing
+1.0.0	DD1	Electricity, Gas, Water and Waste Services	DD	Electricity, Gas, Water and Waste Services	Electricity, Gas, Water and Waste Services/Electricity, Gas, Water and Waste Services
+1.0.0	EE1	Construction	EE	Construction	Construction/Construction
+1.0.0	FF1	Wholesale Trade	FF	Wholesale Trade	Wholesale Trade/Wholesale Trade
+1.0.0	GH1	Retail Trade	GH	Retail Trade and Accommodation	Retail Trade and Accommodation/Retail Trade
+1.0.0	GH2	Accommodation and Food Services	GH	Retail Trade and Accommodation	Retail Trade and Accommodation/Accommodation and Food Services
+1.0.0	II1	Transport, Postal and Warehousing	II	Transport, Postal and Warehousing	Transport, Postal and Warehousing/Transport, Postal and Warehousing
+1.0.0	JJ1	Information Media and Telecommunications	JJ	Information Media and Telecommunications	Information Media and Telecommunications/Information Media and Telecommunications
+1.0.0	KK1	Financial and Insurance Services	KK	Financial and Insurance Services	Financial and Insurance Services/Financial and Insurance Services
+1.0.0	LL1	Rental, Hiring and Real Estate Services	LL	Rental, Hiring and Real Estate Services	Rental, Hiring and Real Estate Services/Rental, Hiring and Real Estate Services
+1.0.0	LL2	Owner-Occupied Property Operation (National Accounts Only)	LL	Rental, Hiring and Real Estate Services	Rental, Hiring and Real Estate Services/Owner-Occupied Property Operation (National Accounts Only)
+1.0.0	MN1	Professional, Scientific and Technical Services	MN	Professional, Scientific, Technical, Administrative and Support Services	Professional, Scientific, Technical, Administrative and Support Services/Professional, Scientific and Technical Services
+1.0.0	MN2	Administrative and Support Services	MN	Professional, Scientific, Technical, Administrative and Support Services	Professional, Scientific, Technical, Administrative and Support Services/Administrative and Support Services
+1.0.0	OO1	Local Government Administration	OO	Public Administration and Safety	Public Administration and Safety/Local Government Administration
+1.0.0	OO2	Central Government Administration, Defence and Public Safety	OO	Public Administration and Safety	Public Administration and Safety/Central Government Administration, Defence and Public Safety
+1.0.0	PP1	Education and Training	PP	Education and Training	Education and Training/Education and Training
+1.0.0	QQ1	Health Care and Social Assistance	QQ	Health Care and Social Assistance	Health Care and Social Assistance/Health Care and Social Assistance
+1.0.0	RS1	Arts and Recreation Services	RS	Arts, Recreation and Other Services	Arts, Recreation and Other Services/Arts and Recreation Services
+1.0.0	RS2	Other Services	RS	Arts, Recreation and Other Services	Arts, Recreation and Other Services/Other Services

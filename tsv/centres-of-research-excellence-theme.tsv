@@ -1,38 +1,70 @@
-Code	Description	Definition
-0101	Anticipating contemporary evolution in biosecurity threats and classical biocontrol systems	CoRE: Bio Protection Research Centre
-0102	Pathogen virulence and plant defence	CoRE: Bio Protection Research Centre
-0103	Enhancing microbial-based biological control	CoRE: Bio Protection Research Centre
-0104	Achieving protection in complex and dynamic systems	CoRE: Bio Protection Research Centre
-0201	Neurodiscovery and disease mechanisms	CoRE: Brain Research New Zealand
-0202	Neurobiomarkers and disease indicators	CoRE: Brain Research New Zealand
-0203	Harnessing and directing neuroplasticity	CoRE: Brain Research New Zealand
-0204	Prevention, intervention and delay	CoRE: Brain Research New Zealand
-0301	Photonic sensing and imaging	CoRE: The Dodd Walls Centre for Photonic and Quantum Technologies
-0302	Photonic sources and components	CoRE: The Dodd Walls Centre for Photonic and Quantum Technologies
-0303	Quantum fluids and gases	CoRE: The Dodd Walls Centre for Photonic and Quantum Technologies
-0304	Quantum manipulation and information	CoRE: The Dodd Walls Centre for Photonic and Quantum Technologies
-0401	Materials for high-value technologies	CoRE: The MacDiarmid Institute for Advanced Materials and Nanotechnology
-0402	Materials for energy capture and utilisation	CoRE: The MacDiarmid Institute for Advanced Materials and Nanotechnology
-0403	Functional nanostructures	CoRE: The MacDiarmid Institute for Advanced Materials and Nanotechnology
-0501	Diabetes and metabolic disease	CoRE: Maurice Wilkins Centre for Molecular Biodiscovery
-0502	Infectious disease	CoRE: Maurice Wilkins Centre for Molecular Biodiscovery
-0503	Integrative technologies	CoRE: Maurice Wilkins Centre for Molecular Biodiscovery
-0601	Diagnostics and therapeutics	CoRE: Medical Technologies Centre of Research Excellence
-0602	Interventional technologies	CoRE: Medical Technologies Centre of Research Excellence
-0603	Assistive technologies	CoRE: Medical Technologies Centre of Research Excellence
-0604	Telehealth and health informatics	CoRE: Medical Technologies Centre of Research Excellence
-0605	Tissue engineering for regenerative medicine	CoRE: Medical Technologies Centre of Research Excellence
-0701	Whai rawa - Research for Māori economies	CoRE: Ngā Pae o te Māramatanga
-0702	Te tai ao - Natural Environment	CoRE: Ngā Pae o te Māramatanga
-0703	Mauri ora (human flourishing)	CoRE: Ngā Pae o te Māramatanga
-0801	Seismic demands and consequent geohazards	CoRE: QuakeCoRE
-0802	Infrastructure component modelling	CoRE: QuakeCoRE
-0803	Infrastructure network interactions, interdependencies and socio-economic impact	CoRE: QuakeCoRE
-0804	Novel technologies, design philosophies, and decision-support tools	CoRE: QuakeCoRE
-0901	Food materials and structures	CoRE: Riddet Institute
-0902	Gastrointestinal interactions	CoRE: Riddet Institute
-0903	Metabolism and nutrition	CoRE: Riddet Institute
-0904	Structuring foods for optimal functionality and health	CoRE: Riddet Institute
-1001	Complex data analytics	CoRE: Te Pūnaha Matatini - Complex Changes
-1002	Complex economic and social systems	CoRE: Te Pūnaha Matatini - Complex Changes
-1003	Complexity and the biosphere	CoRE: Te Pūnaha Matatini - Complex Changes
+Version	Code	Description	Definition	Three_Digit_Code	Three_Digit_Description
+1.0	001001	Bioprotection Aotearoa: Anticipating contemporary evolution in biosecurity threats and classical biocontrol systems	Bioprotection Aotearoa: Anticipating contemporary evolution in biosecurity threats and classical biocontrol systems	001	Bioprotection Aotearoa
+1.0	001002	Bioprotection Aotearoa: Pathogen virulence and plant defence	Bioprotection Aotearoa: Pathogen virulence and plant defence	001	Bioprotection Aotearoa
+1.0	001003	Bioprotection Aotearoa: Enhancing microbial-based biological control	Bioprotection Aotearoa: Enhancing microbial-based biological control	001	Bioprotection Aotearoa
+1.0	001004	Bioprotection Aotearoa: Achieving protection in complex and dynamic systems	Bioprotection Aotearoa: Achieving protection in complex and dynamic systems	001	Bioprotection Aotearoa
+1.0	001005	Bioprotection Aotearoa: Titirangi – defining healthy, productive ecosystems	Bioprotection Aotearoa: Titirangi – defining healthy, productive ecosystems	001	Bioprotection Aotearoa
+1.0	001006	Bioprotection Aotearoa: Poutokomanawa – defending against pathogens and pests	Bioprotection Aotearoa: Poutokomanawa – defending against pathogens and pests	001	Bioprotection Aotearoa
+1.0	001007	Bioprotection Aotearoa: Nuku-a-rangi – designing resistant and resilient productive ecosystems	Bioprotection Aotearoa: Nuku-a-rangi – designing resistant and resilient productive ecosystems	001	Bioprotection Aotearoa
+1.0	002001	Brain Research New Zealand: Neurodiscovery and disease mechanisms	Brain Research New Zealand: Neurodiscovery and disease mechanisms	002	Brain Research New Zealand
+1.0	002002	Brain Research New Zealand: Neurobiomarkers and disease indicators	Brain Research New Zealand: Neurobiomarkers and disease indicators	002	Brain Research New Zealand
+1.0	002003	Brain Research New Zealand: Harnessing and directing neuroplasticity	Brain Research New Zealand: Harnessing and directing neuroplasticity	002	Brain Research New Zealand
+1.0	002004	Brain Research New Zealand: Prevention, intervention and delay	Brain Research New Zealand: Prevention, intervention and delay	002	Brain Research New Zealand
+1.0	003001	The Dodd Walls Centre for Photonic and Quantum Technologies: Photonic sensing and imaging	The Dodd Walls Centre for Photonic and Quantum Technologies: Photonic sensing and imaging	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003002	The Dodd Walls Centre for Photonic and Quantum Technologies: Photonic sources and components	The Dodd Walls Centre for Photonic and Quantum Technologies: Photonic sources and components	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003003	The Dodd Walls Centre for Photonic and Quantum Technologies: Quantum fluids and gases	The Dodd Walls Centre for Photonic and Quantum Technologies: Quantum fluids and gases	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003004	The Dodd Walls Centre for Photonic and Quantum Technologies: Quantum manipulation and information	The Dodd Walls Centre for Photonic and Quantum Technologies: Quantum manipulation and information	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003005	The Dodd Walls Centre for Photonic and Quantum Technologies: Emulating solid-state and quantum physics with fibre cavities	The Dodd Walls Centre for Photonic and Quantum Technologies: Emulating solid-state and quantum physics with fibre cavities	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003006	The Dodd Walls Centre for Photonic and Quantum Technologies: Enabling quantum simulations with rare earths in optical tweezer	The Dodd Walls Centre for Photonic and Quantum Technologies: Enabling quantum simulations with rare earths in optical tweezer	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003007	The Dodd Walls Centre for Photonic and Quantum Technologies: Experimental atomtronics	The Dodd Walls Centre for Photonic and Quantum Technologies: Experimental atomtronics	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003008	The Dodd Walls Centre for Photonic and Quantum Technologies: Topological materials and coupled superfluids	The Dodd Walls Centre for Photonic and Quantum Technologies: Topological materials and coupled superfluids	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	003009	The Dodd Walls Centre for Photonic and Quantum Technologies: Nonlinear dynamics at the quantum limit	The Dodd Walls Centre for Photonic and Quantum Technologies: Nonlinear dynamics at the quantum limit	003	The Dodd Walls Centre for Photonic and Quantum Technologies
+1.0	004001	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Materials for high-value technologies	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Materials for high-value technologies	004	The MacDiarmid Institute for Advanced Materials and Nanotechnology
+1.0	004002	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Materials for energy capture and utilisation	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Materials for energy capture and utilisation	004	The MacDiarmid Institute for Advanced Materials and Nanotechnology
+1.0	004003	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Functional nanostructures	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Functional nanostructures	004	The MacDiarmid Institute for Advanced Materials and Nanotechnology
+1.0	004004	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Catalytic architectures – towards cero carbon	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Catalytic architectures – towards cero carbon	004	The MacDiarmid Institute for Advanced Materials and Nanotechnology
+1.0	004005	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Hardware for future computing – towards low energy tech	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Hardware for future computing – towards low energy tech	004	The MacDiarmid Institute for Advanced Materials and Nanotechnology
+1.0	004006	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Reconfigurable Systems – towards zero waste	The MacDiarmid Institute for Advanced Materials and Nanotechnology: Reconfigurable Systems – towards zero waste	004	The MacDiarmid Institute for Advanced Materials and Nanotechnology
+1.0	005001	Maurice Wilkins Centre for Molecular Biodiscovery: Diabetes and metabolic disease	Maurice Wilkins Centre for Molecular Biodiscovery: Diabetes and metabolic disease	005	Maurice Wilkins Centre for Molecular Biodiscovery
+1.0	005002	Maurice Wilkins Centre for Molecular Biodiscovery: Infectious disease	Maurice Wilkins Centre for Molecular Biodiscovery: Infectious disease	005	Maurice Wilkins Centre for Molecular Biodiscovery
+1.0	005003	Maurice Wilkins Centre for Molecular Biodiscovery: Integrative technologies	Maurice Wilkins Centre for Molecular Biodiscovery: Integrative technologies	005	Maurice Wilkins Centre for Molecular Biodiscovery
+1.0	005004	Maurice Wilkins Centre for Molecular Biodiscovery: Metabolic health	Maurice Wilkins Centre for Molecular Biodiscovery: Metabolic health	005	Maurice Wilkins Centre for Molecular Biodiscovery
+1.0	005005	Maurice Wilkins Centre for Molecular Biodiscovery: Infectious diseases	Maurice Wilkins Centre for Molecular Biodiscovery: Infectious diseases	005	Maurice Wilkins Centre for Molecular Biodiscovery
+1.0	005006	Maurice Wilkins Centre for Molecular Biodiscovery: Cancer immunology	Maurice Wilkins Centre for Molecular Biodiscovery: Cancer immunology	005	Maurice Wilkins Centre for Molecular Biodiscovery
+1.0	006001	Medical Technologies Centre of Research Excellence: Diagnostics and therapeutics	Medical Technologies Centre of Research Excellence: Diagnostics and therapeutics	006	Medical Technologies Centre of Research Excellence
+1.0	006002	Medical Technologies Centre of Research Excellence: Interventional technologies	Medical Technologies Centre of Research Excellence: Interventional technologies	006	Medical Technologies Centre of Research Excellence
+1.0	006003	Medical Technologies Centre of Research Excellence: Assistive technologies	Medical Technologies Centre of Research Excellence: Assistive technologies	006	Medical Technologies Centre of Research Excellence
+1.0	006004	Medical Technologies Centre of Research Excellence: Telehealth and health informatics	Medical Technologies Centre of Research Excellence: Telehealth and health informatics	006	Medical Technologies Centre of Research Excellence
+1.0	006005	Medical Technologies Centre of Research Excellence: Tissue engineering for regenerative medicine	Medical Technologies Centre of Research Excellence: Tissue engineering for regenerative medicine	006	Medical Technologies Centre of Research Excellence
+1.0	007001	Ngā Pae o te Māramatanga: Whai rawa - Research for Māori economies	Ngā Pae o te Māramatanga: Whai rawa - Research for Māori economies	007	Ngā Pae o te Māramatanga
+1.0	007002	Ngā Pae o te Māramatanga: Te tai ao - Natural Environment	Ngā Pae o te Māramatanga: Te tai ao - Natural Environment	007	Ngā Pae o te Māramatanga
+1.0	007003	Ngā Pae o te Māramatanga: Mauri ora (human flourishing)	Ngā Pae o te Māramatanga: Mauri ora (human flourishing)	007	Ngā Pae o te Māramatanga
+1.0	007004	Ngā Pae o te Māramatanga: Building sustainable whānau livelihoods	Ngā Pae o te Māramatanga: Building sustainable whānau livelihoods	007	Ngā Pae o te Māramatanga
+1.0	007005	Ngā Pae o te Māramatanga: Racism and equity	Ngā Pae o te Māramatanga: Racism and equity	007	Ngā Pae o te Māramatanga
+1.0	007006	Ngā Pae o te Māramatanga: Environmental Relationships	Ngā Pae o te Māramatanga: Environmental Relationships	007	Ngā Pae o te Māramatanga
+1.0	007007	Ngā Pae o te Māramatanga: Promising futures	Ngā Pae o te Māramatanga: Promising futures	007	Ngā Pae o te Māramatanga
+1.0	008001	Te Hiranga Rū QuakeCoRE: Seismic demands and consequent geohazards	Te Hiranga Rū QuakeCoRE: Seismic demands and consequent geohazards	008	Te Hiranga Rū QuakeCoRE
+1.0	008002	Te Hiranga Rū QuakeCoRE: Infrastructure component modelling	Te Hiranga Rū QuakeCoRE: Infrastructure component modelling	008	Te Hiranga Rū QuakeCoRE
+1.0	008003	Te Hiranga Rū QuakeCoRE: Infrastructure network interactions, interdependencies and socio-economic impact	Te Hiranga Rū QuakeCoRE: Infrastructure network interactions, interdependencies and socio-economic impact	008	Te Hiranga Rū QuakeCoRE
+1.0	008004	Te Hiranga Rū QuakeCoRE: Novel technologies, design philosophies, and decision-support tools	Te Hiranga Rū QuakeCoRE: Novel technologies, design philosophies, and decision-support tools	008	Te Hiranga Rū QuakeCoRE
+1.0	008005	Te Hiranga Rū QuakeCoRE: Whole-of-building seismic performance	Te Hiranga Rū QuakeCoRE: Whole-of-building seismic performance	008	Te Hiranga Rū QuakeCoRE
+1.0	008006	Te Hiranga Rū QuakeCoRE: Planning, law, and economics for seismic  resilience policy	Te Hiranga Rū QuakeCoRE: Planning, law, and economics for seismic  resilience policy	008	Te Hiranga Rū QuakeCoRE
+1.0	008007	Te Hiranga Rū QuakeCoRE: Cultural and social factors shaping resilience	Te Hiranga Rū QuakeCoRE: Cultural and social factors shaping resilience	008	Te Hiranga Rū QuakeCoRE
+1.0	008008	Te Hiranga Rū QuakeCoRE: Mātauranga Māori and earthquake resilience	Te Hiranga Rū QuakeCoRE: Mātauranga Māori and earthquake resilience	008	Te Hiranga Rū QuakeCoRE
+1.0	009001	Riddet Institute: Food materials and structures	Riddet Institute: Food materials and structures	009	Riddet Institute
+1.0	009002	Riddet Institute: Gastrointestinal interactions	Riddet Institute: Gastrointestinal interactions	009	Riddet Institute
+1.0	009003	Riddet Institute: Metabolism and nutrition	Riddet Institute: Metabolism and nutrition	009	Riddet Institute
+1.0	009004	Riddet Institute: Structuring foods for optimal functionality and health	Riddet Institute: Structuring foods for optimal functionality and health	009	Riddet Institute
+1.0	009005	Riddet Institute: Food structure design and nutrient delivery	Riddet Institute: Food structure design and nutrient delivery	009	Riddet Institute
+1.0	009006	Riddet Institute: Sustainable future proteins	Riddet Institute: Sustainable future proteins	009	Riddet Institute
+1.0	009007	Riddet Institute: Transformational technologies	Riddet Institute: Transformational technologies	009	Riddet Institute
+1.0	010001	Te Pūnaha Matatini - Complex Changes: Complex data analytics	Te Pūnaha Matatini - Complex Changes: Complex data analytics	010	Te Pūnaha Matatini - Complex Changes
+1.0	010002	Te Pūnaha Matatini - Complex Changes: Complex economic and social systems	Te Pūnaha Matatini - Complex Changes: Complex economic and social systems	010	Te Pūnaha Matatini - Complex Changes
+1.0	010003	Te Pūnaha Matatini - Complex Changes: Complexity and the biosphere	Te Pūnaha Matatini - Complex Changes: Complexity and the biosphere	010	Te Pūnaha Matatini - Complex Changes
+1.0	010004	Te Pūnaha Matatini - Complex Changes: Building a just and equitable society	Te Pūnaha Matatini - Complex Changes: Building a just and equitable society	010	Te Pūnaha Matatini - Complex Changes
+1.0	010005	Te Pūnaha Matatini - Complex Changes: Better models and methods	Te Pūnaha Matatini - Complex Changes: Better models and methods	010	Te Pūnaha Matatini - Complex Changes
+1.0	010006	Te Pūnaha Matatini - Complex Changes: Our changing climate	Te Pūnaha Matatini - Complex Changes: Our changing climate	010	Te Pūnaha Matatini - Complex Changes
+1.0	010007	Te Pūnaha Matatini - Complex Changes: Human and environmental health and wellbeing	Te Pūnaha Matatini - Complex Changes: Human and environmental health and wellbeing	010	Te Pūnaha Matatini - Complex Changes
+1.0	011001	Coastal People: Southern Skies: Maintaining and expanding longitudinal monitoring	Coastal People: Southern Skies: Maintaining and expanding longitudinal monitoring	011	Coastal People: Southern Skies
+1.0	011002	Coastal People: Southern Skies: Developing and establishing new methods and programmes for coastal communities	Coastal People: Southern Skies: Developing and establishing new methods and programmes for coastal communities	011	Coastal People: Southern Skies
+1.0	011003	Coastal People: Southern Skies: Supporting excellence in data collection and management	Coastal People: Southern Skies: Supporting excellence in data collection and management	011	Coastal People: Southern Skies

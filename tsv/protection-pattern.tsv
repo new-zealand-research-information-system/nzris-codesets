@@ -1,11 +1,70 @@
-Code	Description	Protection.Pattern
-01	Application Protection	Mandatory
-02	Application Review	Mandatory
-03	Commercial Financial	Optional
-04	Topic Identifiable	Optional
-05	Personal Identifiable	Default
-06	Personal Demographic	Default
-07	Personal Professional	Optional
-08	No Protection Needed	Optional
-09	Work In Progress Protection	Optional
-10	Unknown protection	Optional
+Version	Code	Description	Definition	Entity_Applied_To	Fields_Excluded_From_View
+1.0	01	Application Protection	Information about an application is protected until the resources are confirmed as successful. This includes protecting applications which have had a decision other than a full or partial award.	"Application
+Application Decision
+Organisation (if linked to application)
+Group (if linked to application)
+Person (if linked to application)"	"All application related data (including Application Review and Application Decision)
+All person data linked to the application
+All organisation data linked to the application
+All group data linked to the application"
+1.0	02	Application Review	Information about the review of an application (including scores) is not available publically	"Application Review
+Person (if linked to application)
+Organisation (if linked to application)
+Group (if linked to application)"	"All Application Review data
+All person data linked to the application review
+All organisation data linked to the application review
+All group data linked to the application review"
+1.0	03	Commercial Financial	Financial information is competitive until research is completed / released	"Application
+Award Granted 
+Resource Distributed
+Award Received 
+Resource Received"	"Application | Minimum Resource Quantity
+Application | Maximum Resource Quantity
+Application | Resource Value
+Award Granted | Allocated Resource | Minimum Resource Quantity
+Award Granted | Allocated Resource | Maximum Resource Quantity
+Award Granted | Allocated Resource | Resource Value
+Resource Distributed | Resource Actual Quantity
+Resource Distributed | Resource Value
+Award Received | Allocated Resource | Minimum Resource Quantity
+Award Received | Allocated Resource | Maximum Resource Quantity
+Award Received | Allocated Resource | Resource Value
+Resource Received | Resource Actual Quantity
+Resource Received | Resource Value"
+1.0	04	Topic Identifiable	Topics that some members of the public might be antagonistic towards being researched.	"Application 
+Award Granted 
+Project
+Award Received
+Output"	"Application | Application Title
+Application | Outcome Goal
+Application | Proposal Title
+Award Granted | Award Title
+Award Granted | Award Description
+Project | Project Title
+Project | Project Description
+Project | Keywords
+Award Received | Award Title
+Award Received | Award Description
+Output | Output Title
+Output | Output description
+Output Identifiers"
+1.0	05	Personal Identifiable	Personally identifiable data is protected.	Person	"Person | Given Name
+Person | Other Given Names
+Person | Family Name
+Person | Date of Birth
+Person | Local Person ID
+Person | Sector Person ID
+Person | Data Owner ID
+Person | Prior Local Person ID"
+1.0	06	Personal Demographic	Information that is used to demographically categorise a person and their work is protected	Person	"Person | Gender
+Person | Other Gender Information
+Person | Ethnicity
+Person | Iwi Affiliation"
+1.0	07	Personal Professional	Information that is used to professionally categorise a person and their work is protected.	Person	"Person | Career stage
+Person | Academic Record
+Person | Recognition
+Person | Professional Bodies
+Person | Organisational Affiliation"
+1.0	08	No Protection Needed	Explicitly stating data is not sensitive	All entities	All fields
+1.0	09	Work In Progress Protection	Information that needs protection, providers have some ideas what should be done	All entities	All fields
+1.0	10	Unknown protection	Information that needs protection but the specific patterns don't fit.	All entities	All fields

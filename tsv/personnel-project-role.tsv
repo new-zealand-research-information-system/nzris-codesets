@@ -1,7 +1,7 @@
-Code	Description	Definition
-R1	Lead Contributor	The contributor with overall responsibility for delivering the project. For R&D project, this refers to the Principal Investigator or Lead Scientist
-R2	Other Named Contributors	A named contributor listed in the application and involved in the project, whose expertise is critical to the success of the project
-R3	Other Contributors	Remaining team members (contributing to the project) not listed anywhere else (Master's, PhD students, Interns, etc.)
-S0	Supporting Staff	Supporting staff includes skilled and unskilled craftsmen, and administrative, secretarial and clerical staff participating in or directly associated with the project
-T0	Technician	A technician is a person whose main tasks require technical knowledge and experience in one or more fields of engineering, the physical and life sciences, or the social sciences, humanities and the arts
-C0	Collaborator	A persons collaborating with the project team to contribute to objectives setting, provide an end user perspective, or disseminate/apply knowledge resulting from the findings of the project
+Version	Code	Description	Definition
+1.0	R1	Lead Contributor	The contributor with overall responsibility for delivering the project. For R&D project, this refers to the Principal Investigator or Lead Scientist
+1.0	R2	Other Named Contributors	A named contributor listed in the application and involved in the project, whose expertise is critical to the success of the project
+1.0	R3	Other Contributors	Remaining team members (contributing to the project) not listed anywhere else (Master's, PhD students, Interns, etc.)
+1.0	S0	Supporting Staff	Supporting staff includes skilled and unskilled craftsmen, and administrative, secretarial and clerical staff participating in or directly associated with the project
+1.0	T0	Technician	A technician is a person whose main tasks require technical knowledge and experience in one or more fields of engineering, the physical and life sciences, or the social sciences, humanities and the arts
+1.0	C0	Collaborator	A persons collaborating with the project team to contribute to objectives setting, provide an end user perspective, or disseminate/apply knowledge resulting from the findings of the project

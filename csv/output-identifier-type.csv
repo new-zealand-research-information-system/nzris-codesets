@@ -1,9 +1,9 @@
-Code,Description,Definition
-100,O_ISBN10,"A unique numeric commercial book identifier, issued prior to 2007"
-200,O_ISBN13,"A unique numeric commercial book identifier, issued from 2007 onwards"
-300,O_DOI,A unique alphanumeric string assigned to identify content and provide a persistent link to its location on the internet
-400,O_URL,An address to the location of the output on the internet
-500,O_ISSN,A serial number used to uniquely identify a serial print publication
-600,O_EISSN,A serial number used to uniquely identify a serial electronic publication
-700,O_PII,A unique identifier used by some scientific journals to identify documents
-999,Output identifier not available,Output identifier not available
+Version,Code,Description,Definition,Guide.for.Use
+1.0,100,O_ISBN10,"A unique numeric commercial book identifier, issued prior to 2007",NA
+1.0,200,O_ISBN13,"A unique numeric commercial book identifier, issued from 2007 onwards",NA
+1.0,300,O_DOI,A unique alphanumeric string assigned to identify content and provide a persistent link to its location on the internet,NA
+1.0,400,O_URL,An address to the location of the output on the internet,NA
+1.0,500,O_ISSN,A serial number used to uniquely identify a serial print publication,NA
+1.0,600,O_EISSN,A serial number used to uniquely identify a serial electronic publication,NA
+1.0,700,O_PII,A unique identifier used by some scientific journals to identify documents,NA
+1.0,999,Output identifier not available,Output identifier not available,NA

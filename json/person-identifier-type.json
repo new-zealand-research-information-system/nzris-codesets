@@ -1,34 +1,46 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Person Identifier Type",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"01",
-			"02",
-			"03",
-			"04",
-			"05",
-			"99"
-		],
-		"Description" : [
-			"Local",
-			"ORCID ID",
-			"ISNI",
-			"SCOPUS",
-			"ResearcherID",
-			"Other Identifier"
-		],
-		"Definition" : [
-			"A unique, persistent identifier used by the submitting organisation",
-			"Open Researcher and Contributor ID",
-			"International Standard Name Identifier",
-			"SCOPUS individual identifier",
-			"ResearcherID individual identifier",
-			"An identifier not otherwise identified"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Person Identifier Type"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "01",
+      "Description": "Local",
+      "Definition": "A unique, persistent identifier used by the submitting organisation"
+    },
+    {
+      "Version": "1.0",
+      "Code": "02",
+      "Description": "ORCID ID",
+      "Definition": "Open Researcher and Contributor ID"
+    },
+    {
+      "Version": "1.0",
+      "Code": "03",
+      "Description": "ISNI",
+      "Definition": "International Standard Name Identifier"
+    },
+    {
+      "Version": "1.0",
+      "Code": "04",
+      "Description": "SCOPUS",
+      "Definition": "SCOPUS individual identifier"
+    },
+    {
+      "Version": "1.0",
+      "Code": "05",
+      "Description": "ResearcherID",
+      "Definition": "ResearcherID individual identifier"
+    },
+    {
+      "Version": "1.0",
+      "Code": "99",
+      "Description": "Other Identifier",
+      "Definition": "An identifier not otherwise identified"
+    }
+  ]
 }

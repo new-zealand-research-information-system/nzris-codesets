@@ -1,57 +1,57 @@
-Code	Description	Definition
-00101	Obesity	NSC: A Better Start
-00102	Literacy	NSC: A Better Start
-00103	Big Data	NSC: A Better Start
-00104	Youth Mental Health	NSC: A Better Start
-00105	Māori Research	NSC: A Better Start
-00201	Enabling independence and autonomy	NSC: Ageing Well
-00202	Ensuring a meaningful life through social integration and engagement	NSC: Ageing Well
-00203	Recognising at a societal level the value of ongoing contributions of knowledge and experience of older people	NSC: Ageing Well
-00204	Reducing disability	NSC: Ageing Well
-00205	Developing age-friendly environments	NSC: Ageing Well
-00301	Transforming Homes, Towns and Cities	NSC: Building Better Homes, Towns and Cities
-00302	Next Generation Information for Better Outcomes	NSC: Building Better Homes, Towns and Cities
-00303	Supporting Success in Regional Settlements	NSC: Building Better Homes, Towns and Cities
-00304	Shaping Places Future Neighbourhoods	NSC: Building Better Homes, Towns and Cities
-00305	Evolving to Enhance Mauri	NSC: Building Better Homes, Towns and Cities
-00306	Transforming the Building Industry	NSC: Building Better Homes, Towns and Cities
-00401	Cancer	NSC: Healthier Lives
-00402	Cardiovascular disease	NSC: Healthier Lives
-00403	Diabetes	NSC: Healthier Lives
-00404	Obesity	NSC: Healthier Lives
-00501	Metabolic health	NSC: High Value Nutrition
-00502	Gastrointestinal health	NSC: High Value Nutrition
-00503	Immune health	NSC: High Value Nutrition
-00504	Weaning foods for health	NSC: High Value Nutrition
-00601	Real-time biological heritage assessment	NSC: New Zealand's Biological Heritage
-00602	Reducing risks and threats across landscapes	NSC: New Zealand's Biological Heritage
-00603	Enhancing and restoring resilient ecosystems	NSC: New Zealand's Biological Heritage
-00701	Greater value in global markets	NSC: Our Land and Water
-00702	Innovative, resilient land and water use	NSC: Our Land and Water
-00703	Collaborative capacity	NSC: Our Land and Water
-00704	Operating at the nexus	NSC: Our Land and Water
-00801	Rural	NSC: Resilience to Nature's Challenges
-00802	Urban	NSC: Resilience to Nature's Challenges
-00803	Edge	NSC: Resilience to Nature's Challenges
-00804	Mātauranga Māori	NSC: Resilience to Nature's Challenges
-00805	Governance	NSC: Resilience to Nature's Challenges
-00806	Infrastructure	NSC: Resilience to Nature's Challenges
-00807	Economics	NSC: Resilience to Nature's Challenges
-00808	Culture	NSC: Resilience to Nature's Challenges
-00809	Hazard	NSC: Resilience to Nature's Challenges
-00810	Trajectories	NSC: Resilience to Nature's Challenges
-00901	Vision Mātauranga	NSC: Science for Technological Innovation
-00902	Materials, Manufacturing and Design	NSC: Science for Technological Innovation
-00903	Sensors, Robotics and Automation	NSC: Science for Technological Innovation
-00904	IT Data Analytics and Modelling	NSC: Science for Technological Innovation
-01001	Our seas	NSC: Sustainable Seas
-01002	Valuable seas	NSC: Sustainable Seas
-01003	Tangaroa	NSC: Sustainable Seas
-01004	Dynamic seas	NSC: Sustainable Seas
-01005	Managed seas	NSC: Sustainable Seas
-01006	Vision Mātauranga	NSC: Sustainable Seas
-01101	Engagement	NSC: The Deep South
-01102	Vision Mātauranga	NSC: The Deep South
-01103	Impacts and implications	NSC: The Deep South
-01104	Earth system modelling and prediction	NSC: The Deep South
-01105	Processes and observations	NSC: The Deep South
+Version	Code	Description	Definition	Three_Digit_Code	Three_Digit_Description
+1.0	00101	A Better Start: Obesity	A Better Start: Obesity	001	A Better Start
+1.0	00102	A Better Start: Literacy	A Better Start: Literacy	001	A Better Start
+1.0	00103	A Better Start: Big Data	A Better Start: Big Data	001	A Better Start
+1.0	00104	A Better Start: Youth Mental Health	A Better Start: Youth Mental Health	001	A Better Start
+1.0	00105	A Better Start: Māori Research	A Better Start: Māori Research	001	A Better Start
+1.0	00201	Ageing Well: Enabling independence and autonomy	Ageing Well: Enabling independence and autonomy	002	Ageing Well
+1.0	00202	Ageing Well: Ensuring a meaningful life through social integration and engagement	Ageing Well: Ensuring a meaningful life through social integration and engagement	002	Ageing Well
+1.0	00203	Ageing Well: Recognising at a societal level the value of ongoing contributions of knowledge and experience of older people	Ageing Well: Recognising at a societal level the value of ongoing contributions of knowledge and experience of older people	002	Ageing Well
+1.0	00204	Ageing Well: Reducing disability	Ageing Well: Reducing disability	002	Ageing Well
+1.0	00205	Ageing Well: Developing age-friendly environments	Ageing Well: Developing age-friendly environments	002	Ageing Well
+1.0	00301	Building Better Homes, Towns and Cities: Transforming Homes, Towns and Cities	Building Better Homes, Towns and Cities: Transforming Homes, Towns and Cities	003	Building Better Homes, Towns and Cities
+1.0	00302	Building Better Homes, Towns and Cities: Next Generation Information for Better Outcomes	Building Better Homes, Towns and Cities: Next Generation Information for Better Outcomes	003	Building Better Homes, Towns and Cities
+1.0	00303	Building Better Homes, Towns and Cities: Supporting Success in Regional Settlements	Building Better Homes, Towns and Cities: Supporting Success in Regional Settlements	003	Building Better Homes, Towns and Cities
+1.0	00304	Building Better Homes, Towns and Cities: Shaping Places Future Neighbourhoods	Building Better Homes, Towns and Cities: Shaping Places Future Neighbourhoods	003	Building Better Homes, Towns and Cities
+1.0	00305	Building Better Homes, Towns and Cities: Evolving to Enhance Mauri	Building Better Homes, Towns and Cities: Evolving to Enhance Mauri	003	Building Better Homes, Towns and Cities
+1.0	00306	Building Better Homes, Towns and Cities: Transforming the Building Industry	Building Better Homes, Towns and Cities: Transforming the Building Industry	003	Building Better Homes, Towns and Cities
+1.0	00401	Healthier Lives: Cancer	Healthier Lives: Cancer	004	Healthier Lives
+1.0	00402	Healthier Lives: Cardiovascular disease	Healthier Lives: Cardiovascular disease	004	Healthier Lives
+1.0	00403	Healthier Lives: Diabetes	Healthier Lives: Diabetes	004	Healthier Lives
+1.0	00404	Healthier Lives: Obesity	Healthier Lives: Obesity	004	Healthier Lives
+1.0	00501	High Value Nutrition: Metabolic health	High Value Nutrition: Metabolic health	005	High Value Nutrition
+1.0	00502	High Value Nutrition: Gastrointestinal health	High Value Nutrition: Gastrointestinal health	005	High Value Nutrition
+1.0	00503	High Value Nutrition: Immune health	High Value Nutrition: Immune health	005	High Value Nutrition
+1.0	00504	High Value Nutrition: Weaning foods for health	High Value Nutrition: Weaning foods for health	005	High Value Nutrition
+1.0	00601	New Zealand's Biological Heritage: Real-time biological heritage assessment	New Zealand's Biological Heritage: Real-time biological heritage assessment	006	New Zealand's Biological Heritage
+1.0	00602	New Zealand's Biological Heritage: Reducing risks and threats across landscapes	New Zealand's Biological Heritage: Reducing risks and threats across landscapes	006	New Zealand's Biological Heritage
+1.0	00603	New Zealand's Biological Heritage: Enhancing and restoring resilient ecosystems	New Zealand's Biological Heritage: Enhancing and restoring resilient ecosystems	006	New Zealand's Biological Heritage
+1.0	00701	Our Land and Water: Greater value in global markets	Our Land and Water: Greater value in global markets	007	Our Land and Water
+1.0	00702	Our Land and Water: Innovative, resilient land and water use	Our Land and Water: Innovative, resilient land and water use	007	Our Land and Water
+1.0	00703	Our Land and Water: Collaborative capacity	Our Land and Water: Collaborative capacity	007	Our Land and Water
+1.0	00704	Our Land and Water: Operating at the nexus	Our Land and Water: Operating at the nexus	007	Our Land and Water
+1.0	00801	Resilience to Nature's Challenges: Rural	Resilience to Nature's Challenges: Rural	008	Resilience to Nature's Challenges
+1.0	00802	Resilience to Nature's Challenges: Urban	Resilience to Nature's Challenges: Urban	008	Resilience to Nature's Challenges
+1.0	00803	Resilience to Nature's Challenges: Edge	Resilience to Nature's Challenges: Edge	008	Resilience to Nature's Challenges
+1.0	00804	Resilience to Nature's Challenges: Mātauranga Māori	Resilience to Nature's Challenges: Mātauranga Māori	008	Resilience to Nature's Challenges
+1.0	00805	Resilience to Nature's Challenges: Governance	Resilience to Nature's Challenges: Governance	008	Resilience to Nature's Challenges
+1.0	00806	Resilience to Nature's Challenges: Infrastructure	Resilience to Nature's Challenges: Infrastructure	008	Resilience to Nature's Challenges
+1.0	00807	Resilience to Nature's Challenges: Economics	Resilience to Nature's Challenges: Economics	008	Resilience to Nature's Challenges
+1.0	00808	Resilience to Nature's Challenges: Culture	Resilience to Nature's Challenges: Culture	008	Resilience to Nature's Challenges
+1.0	00809	Resilience to Nature's Challenges: Hazard	Resilience to Nature's Challenges: Hazard	008	Resilience to Nature's Challenges
+1.0	00810	Resilience to Nature's Challenges: Trajectories	Resilience to Nature's Challenges: Trajectories	008	Resilience to Nature's Challenges
+1.0	00901	Science for Technological Innovation: Vision Mātauranga	Science for Technological Innovation: Vision Mātauranga	009	Science for Technological Innovation
+1.0	00902	Science for Technological Innovation: Materials, Manufacturing and Design	Science for Technological Innovation: Materials, Manufacturing and Design	009	Science for Technological Innovation
+1.0	00903	Science for Technological Innovation: Sensors, Robotics and Automation	Science for Technological Innovation: Sensors, Robotics and Automation	009	Science for Technological Innovation
+1.0	00904	Science for Technological Innovation: IT Data Analytics and Modelling	Science for Technological Innovation: IT Data Analytics and Modelling	009	Science for Technological Innovation
+1.0	01001	Sustainable Seas: Our seas	Sustainable Seas: Our seas	010	Sustainable Seas
+1.0	01002	Sustainable Seas: Valuable seas	Sustainable Seas: Valuable seas	010	Sustainable Seas
+1.0	01003	Sustainable Seas: Tangaroa	Sustainable Seas: Tangaroa	010	Sustainable Seas
+1.0	01004	Sustainable Seas: Dynamic seas	Sustainable Seas: Dynamic seas	010	Sustainable Seas
+1.0	01005	Sustainable Seas: Managed seas	Sustainable Seas: Managed seas	010	Sustainable Seas
+1.0	01006	Sustainable Seas: Vision Mātauranga	Sustainable Seas: Vision Mātauranga	010	Sustainable Seas
+1.0	01101	The Deep South: Engagement	The Deep South: Engagement	011	The Deep South
+1.0	01102	The Deep South: Vision Mātauranga	The Deep South: Vision Mātauranga	011	The Deep South
+1.0	01103	The Deep South: Impacts and implications	The Deep South: Impacts and implications	011	The Deep South
+1.0	01104	The Deep South: Earth system modelling and prediction	The Deep South: Earth system modelling and prediction	011	The Deep South
+1.0	01105	The Deep South: Processes and observations	The Deep South: Processes and observations	011	The Deep South

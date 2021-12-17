@@ -1,31 +1,40 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Person Career Stage",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"R1",
-			"R2",
-			"R3",
-			"R4",
-			"R9"
-		],
-		"Description" : [
-			"First Stage Researcher",
-			"Emerging Researcher",
-			"Established Researcher",
-			"Leading Researcher",
-			"Not Applicable"
-		],
-		"Definition" : [
-			"A First Stage Researcher conducts research under supervision. This may include PhD and research masters students",
-			"An Emerging Researcher has made a contribution through original research by developing a substantial body of work, innovation or application which may merit national or internationally refereed publications, patents, and papers at conferences and congresses",
-			"An Established Researcher identifies research problems and opportunities within their area of expertise, conducts research independently which advances a research agenda, can form research consortia, and secure research funding/budgets from funding agencies or industry, publishes papers as lead author, acts as a mentor for other researchers",
-			"A Leading Researcher has an international reputation based on research excellence in their field and a proven record of securing significant research funding.  This researcher is a professional development role model for others. They focus on long term team planning and career paths for researchers, securing funding for team positions",
-			"Non-Researchers"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Person Career Stage"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "R1",
+      "Description": "First Stage Researcher",
+      "Definition": "A First Stage Researcher conducts research under supervision. This may include PhD and research masters students"
+    },
+    {
+      "Version": "1.0",
+      "Code": "R2",
+      "Description": "Emerging Researcher",
+      "Definition": "An Emerging Researcher has made a contribution through original research by developing a substantial body of work, innovation or application which may merit national or internationally refereed publications, patents, and papers at conferences and congresses"
+    },
+    {
+      "Version": "1.0",
+      "Code": "R3",
+      "Description": "Established Researcher",
+      "Definition": "An Established Researcher identifies research problems and opportunities within their area of expertise, conducts research independently which advances a research agenda, can form research consortia, and secure research funding/budgets from funding agencies or industry, publishes papers as lead author, acts as a mentor for other researchers"
+    },
+    {
+      "Version": "1.0",
+      "Code": "R4",
+      "Description": "Leading Researcher",
+      "Definition": "A Leading Researcher has an international reputation based on research excellence in their field and a proven record of securing significant research funding.  This researcher is a professional development role model for others. They focus on long term team planning and career paths for researchers, securing funding for team positions"
+    },
+    {
+      "Version": "1.0",
+      "Code": "R9",
+      "Description": "Not Applicable",
+      "Definition": "Non-Researchers"
+    }
+  ]
 }

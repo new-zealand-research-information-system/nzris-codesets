@@ -1,6 +1,6 @@
-Code,Description,Definition
-R1,First Stage Researcher,A First Stage Researcher conducts research under supervision. This may include PhD and research masters students
-R2,Emerging Researcher,"An Emerging Researcher has made a contribution through original research by developing a substantial body of work, innovation or application which may merit national or internationally refereed publications, patents, and papers at conferences and congresses"
-R3,Established Researcher,"An Established Researcher identifies research problems and opportunities within their area of expertise, conducts research independently which advances a research agenda, can form research consortia, and secure research funding/budgets from funding agencies or industry, publishes papers as lead author, acts as a mentor for other researchers"
-R4,Leading Researcher,"A Leading Researcher has an international reputation based on research excellence in their field and a proven record of securing significant research funding.  This researcher is a professional development role model for others. They focus on long term team planning and career paths for researchers, securing funding for team positions"
-R9,Not Applicable,Non-Researchers
+Version,Code,Description,Definition,Guide for Use
+1.0,R1,First Stage Researcher,A First Stage Researcher conducts research under supervision. This may include PhD and research masters students,NA
+1.0,R2,Emerging Researcher,"An Emerging Researcher has made a contribution through original research by developing a substantial body of work, innovation or application which may merit national or internationally refereed publications, patents, and papers at conferences and congresses",NA
+1.0,R3,Established Researcher,"An Established Researcher identifies research problems and opportunities within their area of expertise, conducts research independently which advances a research agenda, can form research consortia, and secure research funding/budgets from funding agencies or industry, publishes papers as lead author, acts as a mentor for other researchers",NA
+1.0,R4,Leading Researcher,"A Leading Researcher has an international reputation based on research excellence in their field and a proven record of securing significant research funding.  This researcher is a professional development role model for others. They focus on long term team planning and career paths for researchers, securing funding for team positions",NA
+1.0,R9,Not Applicable,Non-Researchers,NA

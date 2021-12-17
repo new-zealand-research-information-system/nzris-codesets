@@ -1,158 +1,158 @@
-Code	Description	Three_Digit_Code	Three_Digit_Description	Two_Digit_Code	Two_Digit_Description	Definition
-0110	Education, not further defined	011	Education	01	Education	Education/Education/Education, not further defined
-0111	Education science	011	Education	01	Education	Education/Education/Education science
-0112	Training for pre-school teachers	011	Education	01	Education	Education/Education/Training for pre-school teachers
-0113	Teacher training without subject specialization	011	Education	01	Education	Education/Education/Teacher training without subject specialization
-0114	Teacher training with subject specialization	011	Education	01	Education	Education/Education/Teacher training with subject specialization
-0119	Education, not elsewhere classified	011	Education	01	Education	Education/Education/Education, not elsewhere classified
-0188	Education, inter-disciplinary programmes	018	NA	01	Education	NA
-0210	Arts, not further defined	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Arts, not further defined
-0211	Audio-visual techniques and media production	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Audio-visual techniques and media production
-0212	Fashion, interior and industrial design	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Fashion, interior and industrial design
-0213	Fine arts	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Fine arts
-0214	Handicrafts	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Handicrafts
-0215	Music and performing arts	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Music and performing arts
-0219	Arts, not elsewhere classified	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Arts, not elsewhere classified
-0220	Humanities	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Humanities
-0221	Religion and theology	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Religion and theology
-0222	History and archaeology	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/History and archaeology
-0223	Philosophy and ethics	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Philosophy and ethics
-0229	Humanities	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Humanities
-0230	Languages, not further defined	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Languages, not further defined
-0231	Language acquisition	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Language acquisition
-0232	Literature and linguistics	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Literature and linguistics
-0239	Languages, not elsewhere classified	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Languages, not elsewhere classified
-0288	Arts and humanities, interdisciplinary programmes	028	NA	02	Arts and humanities	NA
-0310	Social and behavioural sciences, not further defined	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Social and behavioural sciences, not further defined
-0311	Economics	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Economics
-0312	Political sciences and civics	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Political sciences and civics
-0313	Psychology	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Psychology
-0314	Sociology and cultural studies	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Sociology and cultural studies
-0319	Social and behavioural sciences, not elsewhere classified	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Social and behavioural sciences, not elsewhere classified
-0320	Journalism and information, not further defined	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Journalism and information, not further defined
-0321	Journalism and reporting	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Journalism and reporting
-0322	Library, information and archival studies	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Library, information and archival studies
-0329	Journalism and information, not elsewhere classified	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Journalism and information, not elsewhere classified
-0388	Social sciences, journalism and information, inter-disciplinary programmes	038	NA	03	Social sciences, journalism and information	NA
-0410	Business and administration, not further defined	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Business and administration, not further defined
-0411	Accounting and taxation	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Accounting and taxation
-0412	Finance, banking and insurance	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Finance, banking and insurance
-0413	Management and administration	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Management and administration
-0414	Marketing and advertising	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Marketing and advertising
-0415	Secretarial and office work	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Secretarial and office work
-0416	Wholesale and retail sales	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Wholesale and retail sales
-0417	Work skills	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Work skills
-0419	Business and administration, not elsewhere classified	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Business and administration, not elsewhere classified
-0421	Law	042	Law	04	Business, administration and law	Business, administration and law/Law/Law
-0429	Law, not elsewhere classified	042	Law	04	Business, administration and law	Business, administration and law/Law/Law, not elsewhere classified
-0488	Business, administration and law, interdisciplinary programmes	048	NA	04	Business, administration and law	NA
-0510	Biological and related sciences, not further defined	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biological and related sciences, not further defined
-0511	Biology	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biology
-0512	Biochemistry	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biochemistry
-0519	Biological and related sciences, not elsewhere classifed	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biological and related sciences, not elsewhere classifed
-0520	Environment, not further defined	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Environment, not further defined
-0521	Environmental sciences	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Environmental sciences
-0522	Natural environments and wildlife	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Natural environments and wildlife
-0529	Environment, not elsewhere classified	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Environment, not elsewhere classified
-0530	Physical sciences, not further defined	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Physical sciences, not further defined
-0531	Chemistry	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Chemistry
-0532	Earth sciences	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Earth sciences
-0533	Physics	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Physics
-0539	Physical sciences, not elsewhere classified	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Physical sciences, not elsewhere classified
-0540	Mathematics and statistics, not further defined	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics and statistics, not further defined
-0541	Mathematics	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics
-0542	Statistics	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Statistics
-0549	Mathematics and statistics, not elsewhere classified	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics and statistics, not elsewhere classified
-0588	Natural sciences, mathematics and statistics, inter-disciplinary programmes	058	NA	05	Natural sciences, mathematics and statistics	NA
-0610	Information and Communication Technologies	061	Information and Communication Technologies (ICTs)	06	"Information and
+Version	Code	Description	Three_Digit_Code	Three_Digit_Description	Two_Digit_Code	Two_Digit_Description	Definition
+2013	0110	Education, not further defined	011	Education	01	Education	Education/Education/Education, not further defined
+2013	0111	Education science	011	Education	01	Education	Education/Education/Education science
+2013	0112	Training for pre-school teachers	011	Education	01	Education	Education/Education/Training for pre-school teachers
+2013	0113	Teacher training without subject specialization	011	Education	01	Education	Education/Education/Teacher training without subject specialization
+2013	0114	Teacher training with subject specialization	011	Education	01	Education	Education/Education/Teacher training with subject specialization
+2013	0119	Education, not elsewhere classified	011	Education	01	Education	Education/Education/Education, not elsewhere classified
+2013	0188	Education, inter-disciplinary programmes	018	NA	01	Education	NA
+2013	0210	Arts, not further defined	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Arts, not further defined
+2013	0211	Audio-visual techniques and media production	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Audio-visual techniques and media production
+2013	0212	Fashion, interior and industrial design	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Fashion, interior and industrial design
+2013	0213	Fine arts	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Fine arts
+2013	0214	Handicrafts	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Handicrafts
+2013	0215	Music and performing arts	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Music and performing arts
+2013	0219	Arts, not elsewhere classified	021	Arts	02	Arts and humanities	Arts and humanities/Arts/Arts, not elsewhere classified
+2013	0220	Humanities (except languages) not further defined	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Humanities
+2013	0221	Religion and theology	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Religion and theology
+2013	0222	History and archaeology	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/History and archaeology
+2013	0223	Philosophy and ethics	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Philosophy and ethics
+2013	0229	Humanities (except languages) not elsewhere classified	022	Humanities (except languages)	02	Arts and humanities	Arts and humanities/Humanities (except languages)/Humanities
+2013	0230	Languages, not further defined	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Languages, not further defined
+2013	0231	Language acquisition	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Language acquisition
+2013	0232	Literature and linguistics	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Literature and linguistics
+2013	0239	Languages, not elsewhere classified	023	Languages	02	Arts and humanities	Arts and humanities/Languages/Languages, not elsewhere classified
+2013	0288	Arts and humanities, interdisciplinary programmes	028	NA	02	Arts and humanities	NA
+2013	0310	Social and behavioural sciences, not further defined	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Social and behavioural sciences, not further defined
+2013	0311	Economics	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Economics
+2013	0312	Political sciences and civics	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Political sciences and civics
+2013	0313	Psychology	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Psychology
+2013	0314	Sociology and cultural studies	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Sociology and cultural studies
+2013	0319	Social and behavioural sciences, not elsewhere classified	031	Social and behavioural sciences	03	Social sciences, journalism and information	Social sciences, journalism and information/Social and behavioural sciences/Social and behavioural sciences, not elsewhere classified
+2013	0320	Journalism and information, not further defined	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Journalism and information, not further defined
+2013	0321	Journalism and reporting	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Journalism and reporting
+2013	0322	Library, information and archival studies	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Library, information and archival studies
+2013	0329	Journalism and information, not elsewhere classified	032	Journalism and information	03	Social sciences, journalism and information	Social sciences, journalism and information/Journalism and information/Journalism and information, not elsewhere classified
+2013	0388	Social sciences, journalism and information, inter-disciplinary programmes	038	NA	03	Social sciences, journalism and information	NA
+2013	0410	Business and administration, not further defined	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Business and administration, not further defined
+2013	0411	Accounting and taxation	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Accounting and taxation
+2013	0412	Finance, banking and insurance	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Finance, banking and insurance
+2013	0413	Management and administration	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Management and administration
+2013	0414	Marketing and advertising	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Marketing and advertising
+2013	0415	Secretarial and office work	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Secretarial and office work
+2013	0416	Wholesale and retail sales	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Wholesale and retail sales
+2013	0417	Work skills	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Work skills
+2013	0419	Business and administration, not elsewhere classified	041	Business and administration	04	Business, administration and law	Business, administration and law/Business and administration/Business and administration, not elsewhere classified
+2013	0421	Law	042	Law	04	Business, administration and law	Business, administration and law/Law/Law
+2013	0429	Law, not elsewhere classified	042	Law	04	Business, administration and law	Business, administration and law/Law/Law, not elsewhere classified
+2013	0488	Business, administration and law, interdisciplinary programmes	048	NA	04	Business, administration and law	NA
+2013	0510	Biological and related sciences, not further defined	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biological and related sciences, not further defined
+2013	0511	Biology	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biology
+2013	0512	Biochemistry	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biochemistry
+2013	0519	Biological and related sciences, not elsewhere classifed	051	Biological and related sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Biological and related sciences/Biological and related sciences, not elsewhere classifed
+2013	0520	Environment, not further defined	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Environment, not further defined
+2013	0521	Environmental sciences	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Environmental sciences
+2013	0522	Natural environments and wildlife	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Natural environments and wildlife
+2013	0529	Environment, not elsewhere classified	052	Environment	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Environment/Environment, not elsewhere classified
+2013	0530	Physical sciences, not further defined	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Physical sciences, not further defined
+2013	0531	Chemistry	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Chemistry
+2013	0532	Earth sciences	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Earth sciences
+2013	0533	Physics	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Physics
+2013	0539	Physical sciences, not elsewhere classified	053	Physical sciences	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Physical sciences/Physical sciences, not elsewhere classified
+2013	0540	Mathematics and statistics, not further defined	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics and statistics, not further defined
+2013	0541	Mathematics	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics
+2013	0542	Statistics	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Statistics
+2013	0549	Mathematics and statistics, not elsewhere classified	054	Mathematics and statistics	05	Natural sciences, mathematics and statistics	Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics and statistics, not elsewhere classified
+2013	0588	Natural sciences, mathematics and statistics, inter-disciplinary programmes	058	NA	05	Natural sciences, mathematics and statistics	NA
+2013	0610	Information and Communication Technologies (ICTs) not further defined	061	Information and Communication Technologies (ICTs)	06	"Information and
 Communication
 Technologies (ICTs)"	"Information and
 Communication
 Technologies (ICTs)/Information and Communication Technologies (ICTs)/Information and Communication Technologies"
-0611	Computer use	061	Information and Communication Technologies (ICTs)	06	"Information and
+2013	0611	Computer use	061	Information and Communication Technologies (ICTs)	06	"Information and
 Communication
 Technologies (ICTs)"	"Information and
 Communication
 Technologies (ICTs)/Information and Communication Technologies (ICTs)/Computer use"
-0612	Database and network design and administration	061	Information and Communication Technologies (ICTs)	06	"Information and
+2013	0612	Database and network design and administration	061	Information and Communication Technologies (ICTs)	06	"Information and
 Communication
 Technologies (ICTs)"	"Information and
 Communication
 Technologies (ICTs)/Information and Communication Technologies (ICTs)/Database and network design and administration"
-0613	Software and applications development and analysis	061	Information and Communication Technologies (ICTs)	06	"Information and
+2013	0613	Software and applications development and analysis	061	Information and Communication Technologies (ICTs)	06	"Information and
 Communication
 Technologies (ICTs)"	"Information and
 Communication
 Technologies (ICTs)/Information and Communication Technologies (ICTs)/Software and applications development and analysis"
-0619	Information and Communication Technologies	061	Information and Communication Technologies (ICTs)	06	"Information and
+2013	0619	Information and Communication Technologies (ICTs) not elsewhere classified	061	Information and Communication Technologies (ICTs)	06	"Information and
 Communication
 Technologies (ICTs)"	"Information and
 Communication
 Technologies (ICTs)/Information and Communication Technologies (ICTs)/Information and Communication Technologies"
-0688	Information and Communication Technologies (ICTs), inter-disciplinary programmes	068	NA	06	"Information and
+2013	0688	Information and Communication Technologies (ICTs), inter-disciplinary programmes	068	NA	06	"Information and
 Communication
 Technologies (ICTs)"	NA
-0710	Engineering and engineering trades, not further defined	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Engineering and engineering trades, not further defined
-0711	Chemical engineering and processes	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Chemical engineering and processes
-0712	Environmental protection technology	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Environmental protection technology
-0713	Electricity and energy	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Electricity and energy
-0714	Electronics and automation	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Electronics and automation
-0715	Mechanics and metal trades	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Mechanics and metal trades
-0716	Motor vehicles, ships and aircraft	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Motor vehicles, ships and aircraft
-0719	Engineering and engineering trades, not elsewhere classified	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Engineering and engineering trades, not elsewhere classified
-0720	Manufacturing and processing, not further defined	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Manufacturing and processing, not further defined
-0721	Food processing	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Food processing
-0722	Materials	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Materials
-0723	Textiles	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Textiles
-0724	Mining and extraction	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Mining and extraction
-0729	Manufacturing and processing, not elsewhere classified	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Manufacturing and processing, not elsewhere classified
-0730	Architecture and construction, not further defined	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Architecture and construction, not further defined
-0731	Architecture and town planning	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Architecture and town planning
-0732	Building and civil engineering	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Building and civil engineering
-0739	Architecture and construction, not elsewhere classified	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Architecture and construction, not elsewhere classified
-0788	Engineering, manufacturing and construction, inter-disciplinary programmes	078	NA	07	Engineering, manufacturing and construction	NA
-0810	Agriculture, not further defined	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Agriculture, not further defined
-0811	Crop and livestock production	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Crop and livestock production
-0812	Horticulture	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Horticulture
-0819	Agriculture, not elsewhere classified	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Agriculture, not elsewhere classified
-0821	Forestry	082	Forestry	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Forestry/Forestry
-0829	Forestry, not elsewhere classified	082	Forestry	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Forestry/Forestry, not elsewhere classified
-0831	Fisheries	083	Fisheries	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Fisheries/Fisheries
-0839	Fisheries, not elsewhere classified	083	Fisheries	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Fisheries/Fisheries, not elsewhere classified
-0841	Veterinary	084	Veterinary	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Veterinary/Veterinary
-0849	Veterinary, not elsewhere classified	084	Veterinary	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Veterinary/Veterinary, not elsewhere classified
-0888	Agriculture, forestry, fisheries, veterinary, inter-disciplinary programmes	088	NA	08	Agriculture, forestry, fisheries and veterinary	NA
-0910	Health, not further defined	091	Health	09	Health and welfare	Health and welfare/Health/Health, not further defined
-0911	Dental studies	091	Health	09	Health and welfare	Health and welfare/Health/Dental studies
-0912	Medicine	091	Health	09	Health and welfare	Health and welfare/Health/Medicine
-0913	Nursing and midwifery	091	Health	09	Health and welfare	Health and welfare/Health/Nursing and midwifery
-0914	Medical diagnostic and treatment technology	091	Health	09	Health and welfare	Health and welfare/Health/Medical diagnostic and treatment technology
-0915	Therapy and rehabilitation	091	Health	09	Health and welfare	Health and welfare/Health/Therapy and rehabilitation
-0916	Pharmacy	091	Health	09	Health and welfare	Health and welfare/Health/Pharmacy
-0917	Traditional and complementary medicine and therapy	091	Health	09	Health and welfare	Health and welfare/Health/Traditional and complementary medicine and therapy
-0919	Health, not elsewhere classified	091	Health	09	Health and welfare	Health and welfare/Health/Health, not elsewhere classified
-0920	Welfare, not further defined	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Welfare, not further defined
-0921	Care of the elderly and of disabled adults	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Care of the elderly and of disabled adults
-0922	Child care and youth services	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Child care and youth services
-0923	Social work and counselling	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Social work and counselling
-0929	Welfare, not elsewhere classified	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Welfare, not elsewhere classified
-0988	Health and Welfare, inter-disciplinary programmes	098	NA	09	Health and welfare	NA
-1010	Personal services, not further defined	101	Personal services	10	Services	Services/Personal services/Personal services, not further defined
-1011	Domestic services	101	Personal services	10	Services	Services/Personal services/Domestic services
-1012	Hair and beauty services	101	Personal services	10	Services	Services/Personal services/Hair and beauty services
-1013	Hotel, restaurants and catering	101	Personal services	10	Services	Services/Personal services/Hotel, restaurants and catering
-1014	Sports	101	Personal services	10	Services	Services/Personal services/Sports
-1015	Travel, tourism and leisure	101	Personal services	10	Services	Services/Personal services/Travel, tourism and leisure
-1019	Personal services, not elsewhere classified	101	Personal services	10	Services	Services/Personal services/Personal services, not elsewhere classified
-1020	Hygiene and occupational health services, not further defined	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Hygiene and occupational health services, not further defined
-1021	Community sanitation	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Community sanitation
-1022	Occupational health and safety	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Occupational health and safety
-1029	Hygiene and occupational health services, not elsewhere classified	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Hygiene and occupational health services, not elsewhere classified
-1030	Security services, not further defined	103	Security services	10	Services	Services/Security services/Security services, not further defined
-1031	Military and defence	103	Security services	10	Services	Services/Security services/Military and defence
-1032	Protection of persons and property	103	Security services	10	Services	Services/Security services/Protection of persons and property
-1039	Security services, not elsewhere classified	103	Security services	10	Services	Services/Security services/Security services, not elsewhere classified
-1041	Transport services	104	Transport services	10	Services	Services/Transport services/Transport services
-1049	Transport services, not elsewhere classified	104	Transport services	10	Services	Services/Transport services/Transport services, not elsewhere classified
-1088	Services, inter-disciplinary programmes	108	NA	10	Services	NA
-9999	Unknown	999	Unknown	99	Unknown	Unknown
+2013	0710	Engineering and engineering trades, not further defined	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Engineering and engineering trades, not further defined
+2013	0711	Chemical engineering and processes	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Chemical engineering and processes
+2013	0712	Environmental protection technology	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Environmental protection technology
+2013	0713	Electricity and energy	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Electricity and energy
+2013	0714	Electronics and automation	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Electronics and automation
+2013	0715	Mechanics and metal trades	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Mechanics and metal trades
+2013	0716	Motor vehicles, ships and aircraft	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Motor vehicles, ships and aircraft
+2013	0719	Engineering and engineering trades, not elsewhere classified	071	Engineering and engineering trades	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Engineering and engineering trades/Engineering and engineering trades, not elsewhere classified
+2013	0720	Manufacturing and processing, not further defined	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Manufacturing and processing, not further defined
+2013	0721	Food processing	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Food processing
+2013	0722	Materials	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Materials
+2013	0723	Textiles	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Textiles
+2013	0724	Mining and extraction	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Mining and extraction
+2013	0729	Manufacturing and processing, not elsewhere classified	072	Manufacturing and processing	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Manufacturing and processing/Manufacturing and processing, not elsewhere classified
+2013	0730	Architecture and construction, not further defined	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Architecture and construction, not further defined
+2013	0731	Architecture and town planning	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Architecture and town planning
+2013	0732	Building and civil engineering	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Building and civil engineering
+2013	0739	Architecture and construction, not elsewhere classified	073	Architecture and construction	07	Engineering, manufacturing and construction	Engineering, manufacturing and construction/Architecture and construction/Architecture and construction, not elsewhere classified
+2013	0788	Engineering, manufacturing and construction, inter-disciplinary programmes	078	NA	07	Engineering, manufacturing and construction	NA
+2013	0810	Agriculture, not further defined	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Agriculture, not further defined
+2013	0811	Crop and livestock production	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Crop and livestock production
+2013	0812	Horticulture	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Horticulture
+2013	0819	Agriculture, not elsewhere classified	081	Agriculture	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Agriculture/Agriculture, not elsewhere classified
+2013	0821	Forestry	082	Forestry	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Forestry/Forestry
+2013	0829	Forestry, not elsewhere classified	082	Forestry	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Forestry/Forestry, not elsewhere classified
+2013	0831	Fisheries	083	Fisheries	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Fisheries/Fisheries
+2013	0839	Fisheries, not elsewhere classified	083	Fisheries	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Fisheries/Fisheries, not elsewhere classified
+2013	0841	Veterinary	084	Veterinary	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Veterinary/Veterinary
+2013	0849	Veterinary, not elsewhere classified	084	Veterinary	08	Agriculture, forestry, fisheries and veterinary	Agriculture, forestry, fisheries and veterinary/Veterinary/Veterinary, not elsewhere classified
+2013	0888	Agriculture, forestry, fisheries, veterinary, inter-disciplinary programmes	088	NA	08	Agriculture, forestry, fisheries and veterinary	NA
+2013	0910	Health, not further defined	091	Health	09	Health and welfare	Health and welfare/Health/Health, not further defined
+2013	0911	Dental studies	091	Health	09	Health and welfare	Health and welfare/Health/Dental studies
+2013	0912	Medicine	091	Health	09	Health and welfare	Health and welfare/Health/Medicine
+2013	0913	Nursing and midwifery	091	Health	09	Health and welfare	Health and welfare/Health/Nursing and midwifery
+2013	0914	Medical diagnostic and treatment technology	091	Health	09	Health and welfare	Health and welfare/Health/Medical diagnostic and treatment technology
+2013	0915	Therapy and rehabilitation	091	Health	09	Health and welfare	Health and welfare/Health/Therapy and rehabilitation
+2013	0916	Pharmacy	091	Health	09	Health and welfare	Health and welfare/Health/Pharmacy
+2013	0917	Traditional and complementary medicine and therapy	091	Health	09	Health and welfare	Health and welfare/Health/Traditional and complementary medicine and therapy
+2013	0919	Health, not elsewhere classified	091	Health	09	Health and welfare	Health and welfare/Health/Health, not elsewhere classified
+2013	0920	Welfare, not further defined	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Welfare, not further defined
+2013	0921	Care of the elderly and of disabled adults	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Care of the elderly and of disabled adults
+2013	0922	Child care and youth services	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Child care and youth services
+2013	0923	Social work and counselling	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Social work and counselling
+2013	0929	Welfare, not elsewhere classified	092	Welfare	09	Health and welfare	Health and welfare/Welfare/Welfare, not elsewhere classified
+2013	0988	Health and Welfare, inter-disciplinary programmes	098	NA	09	Health and welfare	NA
+2013	1010	Personal services, not further defined	101	Personal services	10	Services	Services/Personal services/Personal services, not further defined
+2013	1011	Domestic services	101	Personal services	10	Services	Services/Personal services/Domestic services
+2013	1012	Hair and beauty services	101	Personal services	10	Services	Services/Personal services/Hair and beauty services
+2013	1013	Hotel, restaurants and catering	101	Personal services	10	Services	Services/Personal services/Hotel, restaurants and catering
+2013	1014	Sports	101	Personal services	10	Services	Services/Personal services/Sports
+2013	1015	Travel, tourism and leisure	101	Personal services	10	Services	Services/Personal services/Travel, tourism and leisure
+2013	1019	Personal services, not elsewhere classified	101	Personal services	10	Services	Services/Personal services/Personal services, not elsewhere classified
+2013	1020	Hygiene and occupational health services, not further defined	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Hygiene and occupational health services, not further defined
+2013	1021	Community sanitation	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Community sanitation
+2013	1022	Occupational health and safety	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Occupational health and safety
+2013	1029	Hygiene and occupational health services, not elsewhere classified	102	Hygiene and occupational health	10	Services	Services/Hygiene and occupational health/Hygiene and occupational health services, not elsewhere classified
+2013	1030	Security services, not further defined	103	Security services	10	Services	Services/Security services/Security services, not further defined
+2013	1031	Military and defence	103	Security services	10	Services	Services/Security services/Military and defence
+2013	1032	Protection of persons and property	103	Security services	10	Services	Services/Security services/Protection of persons and property
+2013	1039	Security services, not elsewhere classified	103	Security services	10	Services	Services/Security services/Security services, not elsewhere classified
+2013	1041	Transport services	104	Transport services	10	Services	Services/Transport services/Transport services
+2013	1049	Transport services, not elsewhere classified	104	Transport services	10	Services	Services/Transport services/Transport services, not elsewhere classified
+2013	1088	Services, inter-disciplinary programmes	108	NA	10	Services	NA
+2013	9999	Unknown	999	Unknown	99	Unknown	Unknown

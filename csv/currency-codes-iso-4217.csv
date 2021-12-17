@@ -1,180 +1,180 @@
-Code,Description,Definition,Numeric_Code
-AFN,Afghani,This code is for the Afghani used in Afghanistan,971
-EUR,Euro,"This code is for the Euro used in Åland Islands, Andorra, Austria, Belgium, Cyprus, Estonia, European Union, Finland, France, French Guiana, French Southern Territories (The), Germany, Greece, Guadeloupe, Holy See (The), Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Martinique, Mayotte, Monaco, Montenegro, Netherlands (The), Portugal, Réunion, Saint Barthélemy, Saint Martin (French Part), Saint Pierre And Miquelon, San Marino, Slovakia, Slovenia, Spain",978
-ALL,Lek,This code is for the Lek used in Albania,008
-DZD,Algerian Dinar,This code is for the Algerian Dinar used in Algeria,012
-USD,US Dollar,"This code is for the US Dollar used in American Samoa, Bonaire, Sint Eustatius And Saba, British Indian Ocean Territory (The), Ecuador, El Salvador, Guam, Haiti, Marshall Islands (The), Micronesia (Federated States Of), Northern Mariana Islands (The), Palau, Panama, Puerto Rico, Timor-Leste, Turks And Caicos Islands (The), United States Minor Outlying Islands (The), United States Of America (The), Virgin Islands (British), Virgin Islands (U.s.)",840
-AOA,Kwanza,This code is for the Kwanza used in Angola,973
-XCD,East Caribbean Dollar,This code is for East Caribbean Dollar,951
-ARS,Argentine Peso,This code is for the Argentine Peso used in Argentina,032
-AMD,Armenian Dram,This code is for the Armenian Dram used in Armenia,051
-AWG,Aruban Florin,This code is for the Aruban Florin used in Aruba,533
-AUD,Australian Dollar,"This code is for the Australian Dollar used in Australia, Christmas Island, Cocos (Keeling) Islands (The), Heard Island And Mcdonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu",036
-AZN,Azerbaijan Manat,This code is for the Azerbaijan Manat used in Azerbaijan,944
-BSD,Bahamian Dollar,This code is for the Bahamian Dollar used in Bahamas (The),044
-BHD,Bahraini Dinar,This code is for the Bahraini Dinar used in Bahrain,048
-BDT,Taka,This code is for the Taka used in Bangladesh,050
-BBD,Barbados Dollar,This code is for the Barbados Dollar used in Barbados,052
-BYN,Belarusian Ruble,This code is for the Belarusian Ruble used in Belarus,933
-BZD,Belize Dollar,This code is for the Belize Dollar used in Belize,084
-XOF,CFA Franc BCEAO,This code is for CFA Franc BCEAO,952
-BMD,Bermudian Dollar,This code is for the Bermudian Dollar used in Bermuda,060
-INR,Indian Rupee,"This code is for the Indian Rupee used in Bhutan, India",356
-BTN,Ngultrum,This code is for the Ngultrum used in Bhutan,064
-BOB,Boliviano,This code is for the Boliviano used in Bolivia (Plurinational State Of),068
-BOV,Mvdol,This code is for the Mvdol used in Bolivia (Plurinational State Of),984
-BAM,Convertible Mark,This code is for the Convertible Mark used in Bosnia And Herzegovina,977
-BWP,Pula,This code is for the Pula used in Botswana,072
-NOK,Norwegian Krone,"This code is for the Norwegian Krone used in Bouvet Island, Norway, Svalbard And Jan Mayen",578
-BRL,Brazilian Real,This code is for the Brazilian Real used in Brazil,986
-BND,Brunei Dollar,This code is for the Brunei Dollar used in Brunei Darussalam,096
-BGN,Bulgarian Lev,This code is for the Bulgarian Lev used in Bulgaria,975
-BIF,Burundi Franc,This code is for the Burundi Franc used in Burundi,108
-CVE,Cabo Verde Escudo,This code is for the Cabo Verde Escudo used in Cabo Verde,132
-KHR,Riel,This code is for the Riel used in Cambodia,116
-XAF,CFA Franc BEAC,This code is for CFA Franc BEAC,950
-CAD,Canadian Dollar,This code is for the Canadian Dollar used in Canada,124
-KYD,Cayman Islands Dollar,This code is for the Cayman Islands Dollar used in Cayman Islands (The),136
-CLP,Chilean Peso,This code is for the Chilean Peso used in Chile,152
-CLF,Unidad de Fomento,This code is for the Unidad de Fomento used in Chile,990
-CNY,Yuan Renminbi,This code is for the Yuan Renminbi used in China,156
-COP,Colombian Peso,This code is for the Colombian Peso used in Colombia,170
-COU,Unidad de Valor Real,This code is for the Unidad de Valor Real used in Colombia,970
-KMF,Comorian Franc,This code is for the Comorian Franc used in Comoros (The),174
-CDF,Congolese Franc,This code is for the Congolese Franc used in Congo (The Democratic Republic Of The),976
-NZD,New Zealand Dollar,"This code is for the New Zealand Dollar used in Cook Islands (The), New Zealand, Niue, Pitcairn, Tokelau",554
-CRC,Costa Rican Colon,This code is for the Costa Rican Colon used in Costa Rica,188
-HRK,Kuna,This code is for the Kuna used in Croatia,191
-CUP,Cuban Peso,This code is for the Cuban Peso used in Cuba,192
-CUC,Peso Convertible,This code is for the Peso Convertible used in Cuba,931
-ANG,Netherlands Antillean Guilder,"This code is for the Netherlands Antillean Guilder used in Curaçao, Sint Maarten (Dutch Part)",532
-CZK,Czech Koruna,This code is for the Czech Koruna used in Czechia,203
-DKK,Danish Krone,"This code is for the Danish Krone used in Denmark, Faroe Islands (The), Greenland",208
-DJF,Djibouti Franc,This code is for the Djibouti Franc used in Djibouti,262
-DOP,Dominican Peso,This code is for the Dominican Peso used in Dominican Republic (The),214
-EGP,Egyptian Pound,This code is for the Egyptian Pound used in Egypt,818
-SVC,El Salvador Colon,This code is for the El Salvador Colon used in El Salvador,222
-ERN,Nakfa,This code is for the Nakfa used in Eritrea,232
-ETB,Ethiopian Birr,This code is for the Ethiopian Birr used in Ethiopia,230
-FKP,Falkland Islands Pound,This code is for the Falkland Islands Pound used in Falkland Islands (The) [Malvinas],238
-FJD,Fiji Dollar,This code is for the Fiji Dollar used in Fiji,242
-XPF,CFP Franc,This code is for CFP Franc,953
-GMD,Dalasi,This code is for the Dalasi used in Gambia (The),270
-GEL,Lari,This code is for the Lari used in Georgia,981
-GHS,Ghana Cedi,This code is for the Ghana Cedi used in Ghana,936
-GIP,Gibraltar Pound,This code is for the Gibraltar Pound used in Gibraltar,292
-GTQ,Quetzal,This code is for the Quetzal used in Guatemala,320
-GBP,Pound Sterling,"This code is for the Pound Sterling used in Guernsey, Isle Of Man, Jersey, United Kingdom Of Great Britain And Northern Ireland (The)",826
-GNF,Guinean Franc,This code is for the Guinean Franc used in Guinea,324
-GYD,Guyana Dollar,This code is for the Guyana Dollar used in Guyana,328
-HTG,Gourde,This code is for the Gourde used in Haiti,332
-HNL,Lempira,This code is for the Lempira used in Honduras,340
-HKD,Hong Kong Dollar,This code is for the Hong Kong Dollar used in Hong Kong,344
-HUF,Forint,This code is for the Forint used in Hungary,348
-ISK,Iceland Krona,This code is for the Iceland Krona used in Iceland,352
-IDR,Rupiah,This code is for the Rupiah used in Indonesia,360
-XDR,SDR (Special Drawing Right),This code is for SDR (Special Drawing Right),960
-IRR,Iranian Rial,This code is for the Iranian Rial used in Iran (Islamic Republic Of),364
-IQD,Iraqi Dinar,This code is for the Iraqi Dinar used in Iraq,368
-ILS,New Israeli Sheqel,This code is for the New Israeli Sheqel used in Israel,376
-JMD,Jamaican Dollar,This code is for the Jamaican Dollar used in Jamaica,388
-JPY,Yen,This code is for the Yen used in Japan,392
-JOD,Jordanian Dinar,This code is for the Jordanian Dinar used in Jordan,400
-KZT,Tenge,This code is for the Tenge used in Kazakhstan,398
-KES,Kenyan Shilling,This code is for the Kenyan Shilling used in Kenya,404
-KPW,North Korean Won,This code is for the North Korean Won used in Korea (The Democratic People’s Republic Of),408
-KRW,Won,This code is for the Won used in Korea (The Republic Of),410
-KWD,Kuwaiti Dinar,This code is for the Kuwaiti Dinar used in Kuwait,414
-KGS,Som,This code is for the Som used in Kyrgyzstan,417
-LAK,Lao Kip,This code is for the Lao Kip used in Lao People’s Democratic Republic (The),418
-LBP,Lebanese Pound,This code is for the Lebanese Pound used in Lebanon,422
-LSL,Loti,This code is for the Loti used in Lesotho,426
-ZAR,Rand,"This code is for the Rand used in Lesotho, Namibia, South Africa",710
-LRD,Liberian Dollar,This code is for the Liberian Dollar used in Liberia,430
-LYD,Libyan Dinar,This code is for the Libyan Dinar used in Libya,434
-CHF,Swiss Franc,"This code is for the Swiss Franc used in Liechtenstein, Switzerland",756
-MOP,Pataca,This code is for the Pataca used in Macao,446
-MKD,Denar,This code is for the Denar used in Macedonia (The Former Yugoslav Republic Of),807
-MGA,Malagasy Ariary,This code is for the Malagasy Ariary used in Madagascar,969
-MWK,Malawi Kwacha,This code is for the Malawi Kwacha used in Malawi,454
-MYR,Malaysian Ringgit,This code is for the Malaysian Ringgit used in Malaysia,458
-MVR,Rufiyaa,This code is for the Rufiyaa used in Maldives,462
-MRU,Ouguiya,This code is for the Ouguiya used in Mauritania,929
-MUR,Mauritius Rupee,This code is for the Mauritius Rupee used in Mauritius,480
-XUA,ADB Unit of Account,This code is for ADB Unit of Account,965
-MXN,Mexican Peso,This code is for the Mexican Peso used in Mexico,484
-MXV,Mexican Unidad de Inversion (UDI),This code is for the Mexican Unidad de Inversion (UDI) used in Mexico,979
-MDL,Moldovan Leu,This code is for the Moldovan Leu used in Moldova (The Republic Of),498
-MNT,Tugrik,This code is for the Tugrik used in Mongolia,496
-MAD,Moroccan Dirham,"This code is for the Moroccan Dirham used in Morocco, Western Sahara",504
-MZN,Mozambique Metical,This code is for the Mozambique Metical used in Mozambique,943
-MMK,Kyat,This code is for the Kyat used in Myanmar,104
-NAD,Namibia Dollar,This code is for the Namibia Dollar used in Namibia,516
-NPR,Nepalese Rupee,This code is for the Nepalese Rupee used in Nepal,524
-NIO,Cordoba Oro,This code is for the Cordoba Oro used in Nicaragua,558
-NGN,Naira,This code is for the Naira used in Nigeria,566
-OMR,Rial Omani,This code is for the Rial Omani used in Oman,512
-PKR,Pakistan Rupee,This code is for the Pakistan Rupee used in Pakistan,586
-PAB,Balboa,This code is for the Balboa used in Panama,590
-PGK,Kina,This code is for the Kina used in Papua New Guinea,598
-PYG,Guarani,This code is for the Guarani used in Paraguay,600
-PEN,Sol,This code is for the Sol used in Peru,604
-PHP,Philippine Peso,This code is for the Philippine Peso used in Philippines (The),608
-PLN,Zloty,This code is for the Zloty used in Poland,985
-QAR,Qatari Rial,This code is for the Qatari Rial used in Qatar,634
-RON,Romanian Leu,This code is for the Romanian Leu used in Romania,946
-RUB,Russian Ruble,This code is for the Russian Ruble used in Russian Federation (The),643
-RWF,Rwanda Franc,This code is for the Rwanda Franc used in Rwanda,646
-SHP,Saint Helena Pound,"This code is for the Saint Helena Pound used in Saint Helena, Ascension And Tristan Da Cunha",654
-WST,Tala,This code is for the Tala used in Samoa,882
-STN,Dobra,This code is for the Dobra used in Sao Tome And Principe,930
-SAR,Saudi Riyal,This code is for the Saudi Riyal used in Saudi Arabia,682
-RSD,Serbian Dinar,This code is for the Serbian Dinar used in Serbia,941
-SCR,Seychelles Rupee,This code is for the Seychelles Rupee used in Seychelles,690
-SLL,Leone,This code is for the Leone used in Sierra Leone,694
-SGD,Singapore Dollar,This code is for the Singapore Dollar used in Singapore,702
-XSU,Sucre,This code is for Sucre,994
-SBD,Solomon Islands Dollar,This code is for the Solomon Islands Dollar used in Solomon Islands,090
-SOS,Somali Shilling,This code is for the Somali Shilling used in Somalia,706
-SSP,South Sudanese Pound,This code is for the South Sudanese Pound used in South Sudan,728
-LKR,Sri Lanka Rupee,This code is for the Sri Lanka Rupee used in Sri Lanka,144
-SDG,Sudanese Pound,This code is for the Sudanese Pound used in Sudan (The),938
-SRD,Surinam Dollar,This code is for the Surinam Dollar used in Suriname,968
-SZL,Lilangeni,This code is for the Lilangeni used in Eswatini,748
-SEK,Swedish Krona,This code is for the Swedish Krona used in Sweden,752
-CHE,WIR Euro,This code is for the WIR Euro used in Switzerland,947
-CHW,WIR Franc,This code is for the WIR Franc used in Switzerland,948
-SYP,Syrian Pound,This code is for the Syrian Pound used in Syrian Arab Republic,760
-TWD,New Taiwan Dollar,This code is for the New Taiwan Dollar used in Taiwan (Province Of China),901
-TJS,Somoni,This code is for the Somoni used in Tajikistan,972
-TZS,Tanzanian Shilling,"This code is for the Tanzanian Shilling used in Tanzania, United Republic Of",834
-THB,Baht,This code is for the Baht used in Thailand,764
-TOP,Pa’anga,This code is for the Pa’anga used in Tonga,776
-TTD,Trinidad and Tobago Dollar,This code is for the Trinidad and Tobago Dollar used in Trinidad And Tobago,780
-TND,Tunisian Dinar,This code is for the Tunisian Dinar used in Tunisia,788
-TRY,Turkish Lira,This code is for the Turkish Lira used in Turkey,949
-TMT,Turkmenistan New Manat,This code is for the Turkmenistan New Manat used in Turkmenistan,934
-UGX,Uganda Shilling,This code is for the Uganda Shilling used in Uganda,800
-UAH,Hryvnia,This code is for the Hryvnia used in Ukraine,980
-AED,UAE Dirham,This code is for the UAE Dirham used in United Arab Emirates (The),784
-USN,US Dollar (Next day),This code is for the US Dollar (Next day) used in United States Of America (The),997
-UYU,Peso Uruguayo,This code is for the Peso Uruguayo used in Uruguay,858
-UYI,Uruguay Peso en Unidades Indexadas (UI),This code is for the Uruguay Peso en Unidades Indexadas (UI) used in Uruguay,940
-UYW,Unidad Previsional,This code is for the Unidad Previsional used in Uruguay,927
-UZS,Uzbekistan Sum,This code is for the Uzbekistan Sum used in Uzbekistan,860
-VUV,Vatu,This code is for the Vatu used in Vanuatu,548
-VES,Bolívar Soberano,This code is for the Bolívar Soberano used in Venezuela (Bolivarian Republic Of),928
-VND,Dong,This code is for the Dong used in Viet Nam,704
-YER,Yemeni Rial,This code is for the Yemeni Rial used in Yemen,886
-ZMW,Zambian Kwacha,This code is for the Zambian Kwacha used in Zambia,967
-ZWL,Zimbabwe Dollar,This code is for the Zimbabwe Dollar used in Zimbabwe,932
-XBA,Bond Markets Unit European Composite Unit (EURCO),This code is for Bond Markets Unit European Composite Unit (EURCO),955
-XBB,Bond Markets Unit European Monetary Unit (E.M.U.-6),This code is for Bond Markets Unit European Monetary Unit (E.M.U.-6),956
-XBC,Bond Markets Unit European Unit of Account 9 (E.U.A.-9),This code is for Bond Markets Unit European Unit of Account 9 (E.U.A.-9),957
-XBD,Bond Markets Unit European Unit of Account 17 (E.U.A.-17),This code is for Bond Markets Unit European Unit of Account 17 (E.U.A.-17),958
-XTS,Codes specifically reserved for testing purposes,This code is for Codes specifically reserved for testing purposes,963
-XXX,The codes assigned for transactions where no currency is involved,This code is for The codes assigned for transactions where no currency is involved,999
-XAU,Gold,This code is for Gold,959
-XPD,Palladium,This code is for Palladium,964
-XPT,Platinum,This code is for Platinum,962
-XAG,Silver,This code is for Silver,961
+Version,Code,Description,Definition,Numeric_Code
+4217:2015,AFN,Afghani,This code is for the Afghani used in Afghanistan,971
+4217:2015,EUR,Euro,"This code is for the Euro used in Åland Islands, Andorra, Austria, Belgium, Cyprus, Estonia, European Union, Finland, France, French Guiana, French Southern Territories (The), Germany, Greece, Guadeloupe, Holy See (The), Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Martinique, Mayotte, Monaco, Montenegro, Netherlands (The), Portugal, Réunion, Saint Barthélemy, Saint Martin (French Part), Saint Pierre And Miquelon, San Marino, Slovakia, Slovenia, Spain",978
+4217:2015,ALL,Lek,This code is for the Lek used in Albania,008
+4217:2015,DZD,Algerian Dinar,This code is for the Algerian Dinar used in Algeria,012
+4217:2015,USD,US Dollar,"This code is for the US Dollar used in American Samoa, Bonaire, Sint Eustatius And Saba, British Indian Ocean Territory (The), Ecuador, El Salvador, Guam, Haiti, Marshall Islands (The), Micronesia (Federated States Of), Northern Mariana Islands (The), Palau, Panama, Puerto Rico, Timor-Leste, Turks And Caicos Islands (The), United States Minor Outlying Islands (The), United States Of America (The), Virgin Islands (British), Virgin Islands (U.s.)",840
+4217:2015,AOA,Kwanza,This code is for the Kwanza used in Angola,973
+4217:2015,XCD,East Caribbean Dollar,This code is for East Caribbean Dollar,951
+4217:2015,ARS,Argentine Peso,This code is for the Argentine Peso used in Argentina,032
+4217:2015,AMD,Armenian Dram,This code is for the Armenian Dram used in Armenia,051
+4217:2015,AWG,Aruban Florin,This code is for the Aruban Florin used in Aruba,533
+4217:2015,AUD,Australian Dollar,"This code is for the Australian Dollar used in Australia, Christmas Island, Cocos (Keeling) Islands (The), Heard Island And Mcdonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu",036
+4217:2015,AZN,Azerbaijan Manat,This code is for the Azerbaijan Manat used in Azerbaijan,944
+4217:2015,BSD,Bahamian Dollar,This code is for the Bahamian Dollar used in Bahamas (The),044
+4217:2015,BHD,Bahraini Dinar,This code is for the Bahraini Dinar used in Bahrain,048
+4217:2015,BDT,Taka,This code is for the Taka used in Bangladesh,050
+4217:2015,BBD,Barbados Dollar,This code is for the Barbados Dollar used in Barbados,052
+4217:2015,BYN,Belarusian Ruble,This code is for the Belarusian Ruble used in Belarus,933
+4217:2015,BZD,Belize Dollar,This code is for the Belize Dollar used in Belize,084
+4217:2015,XOF,CFA Franc BCEAO,This code is for CFA Franc BCEAO,952
+4217:2015,BMD,Bermudian Dollar,This code is for the Bermudian Dollar used in Bermuda,060
+4217:2015,INR,Indian Rupee,"This code is for the Indian Rupee used in Bhutan, India",356
+4217:2015,BTN,Ngultrum,This code is for the Ngultrum used in Bhutan,064
+4217:2015,BOB,Boliviano,This code is for the Boliviano used in Bolivia (Plurinational State Of),068
+4217:2015,BOV,Mvdol,This code is for the Mvdol used in Bolivia (Plurinational State Of),984
+4217:2015,BAM,Convertible Mark,This code is for the Convertible Mark used in Bosnia And Herzegovina,977
+4217:2015,BWP,Pula,This code is for the Pula used in Botswana,072
+4217:2015,NOK,Norwegian Krone,"This code is for the Norwegian Krone used in Bouvet Island, Norway, Svalbard And Jan Mayen",578
+4217:2015,BRL,Brazilian Real,This code is for the Brazilian Real used in Brazil,986
+4217:2015,BND,Brunei Dollar,This code is for the Brunei Dollar used in Brunei Darussalam,096
+4217:2015,BGN,Bulgarian Lev,This code is for the Bulgarian Lev used in Bulgaria,975
+4217:2015,BIF,Burundi Franc,This code is for the Burundi Franc used in Burundi,108
+4217:2015,CVE,Cabo Verde Escudo,This code is for the Cabo Verde Escudo used in Cabo Verde,132
+4217:2015,KHR,Riel,This code is for the Riel used in Cambodia,116
+4217:2015,XAF,CFA Franc BEAC,This code is for CFA Franc BEAC,950
+4217:2015,CAD,Canadian Dollar,This code is for the Canadian Dollar used in Canada,124
+4217:2015,KYD,Cayman Islands Dollar,This code is for the Cayman Islands Dollar used in Cayman Islands (The),136
+4217:2015,CLP,Chilean Peso,This code is for the Chilean Peso used in Chile,152
+4217:2015,CLF,Unidad de Fomento,This code is for the Unidad de Fomento used in Chile,990
+4217:2015,CNY,Yuan Renminbi,This code is for the Yuan Renminbi used in China,156
+4217:2015,COP,Colombian Peso,This code is for the Colombian Peso used in Colombia,170
+4217:2015,COU,Unidad de Valor Real,This code is for the Unidad de Valor Real used in Colombia,970
+4217:2015,KMF,Comorian Franc,This code is for the Comorian Franc used in Comoros (The),174
+4217:2015,CDF,Congolese Franc,This code is for the Congolese Franc used in Congo (The Democratic Republic Of The),976
+4217:2015,NZD,New Zealand Dollar,"This code is for the New Zealand Dollar used in Cook Islands (The), New Zealand, Niue, Pitcairn, Tokelau",554
+4217:2015,CRC,Costa Rican Colon,This code is for the Costa Rican Colon used in Costa Rica,188
+4217:2015,HRK,Kuna,This code is for the Kuna used in Croatia,191
+4217:2015,CUP,Cuban Peso,This code is for the Cuban Peso used in Cuba,192
+4217:2015,CUC,Peso Convertible,This code is for the Peso Convertible used in Cuba,931
+4217:2015,ANG,Netherlands Antillean Guilder,"This code is for the Netherlands Antillean Guilder used in Curaçao, Sint Maarten (Dutch Part)",532
+4217:2015,CZK,Czech Koruna,This code is for the Czech Koruna used in Czechia,203
+4217:2015,DKK,Danish Krone,"This code is for the Danish Krone used in Denmark, Faroe Islands (The), Greenland",208
+4217:2015,DJF,Djibouti Franc,This code is for the Djibouti Franc used in Djibouti,262
+4217:2015,DOP,Dominican Peso,This code is for the Dominican Peso used in Dominican Republic (The),214
+4217:2015,EGP,Egyptian Pound,This code is for the Egyptian Pound used in Egypt,818
+4217:2015,SVC,El Salvador Colon,This code is for the El Salvador Colon used in El Salvador,222
+4217:2015,ERN,Nakfa,This code is for the Nakfa used in Eritrea,232
+4217:2015,ETB,Ethiopian Birr,This code is for the Ethiopian Birr used in Ethiopia,230
+4217:2015,FKP,Falkland Islands Pound,This code is for the Falkland Islands Pound used in Falkland Islands (The) [Malvinas],238
+4217:2015,FJD,Fiji Dollar,This code is for the Fiji Dollar used in Fiji,242
+4217:2015,XPF,CFP Franc,This code is for CFP Franc,953
+4217:2015,GMD,Dalasi,This code is for the Dalasi used in Gambia (The),270
+4217:2015,GEL,Lari,This code is for the Lari used in Georgia,981
+4217:2015,GHS,Ghana Cedi,This code is for the Ghana Cedi used in Ghana,936
+4217:2015,GIP,Gibraltar Pound,This code is for the Gibraltar Pound used in Gibraltar,292
+4217:2015,GTQ,Quetzal,This code is for the Quetzal used in Guatemala,320
+4217:2015,GBP,Pound Sterling,"This code is for the Pound Sterling used in Guernsey, Isle Of Man, Jersey, United Kingdom Of Great Britain And Northern Ireland (The)",826
+4217:2015,GNF,Guinean Franc,This code is for the Guinean Franc used in Guinea,324
+4217:2015,GYD,Guyana Dollar,This code is for the Guyana Dollar used in Guyana,328
+4217:2015,HTG,Gourde,This code is for the Gourde used in Haiti,332
+4217:2015,HNL,Lempira,This code is for the Lempira used in Honduras,340
+4217:2015,HKD,Hong Kong Dollar,This code is for the Hong Kong Dollar used in Hong Kong,344
+4217:2015,HUF,Forint,This code is for the Forint used in Hungary,348
+4217:2015,ISK,Iceland Krona,This code is for the Iceland Krona used in Iceland,352
+4217:2015,IDR,Rupiah,This code is for the Rupiah used in Indonesia,360
+4217:2015,XDR,SDR (Special Drawing Right),This code is for SDR (Special Drawing Right),960
+4217:2015,IRR,Iranian Rial,This code is for the Iranian Rial used in Iran (Islamic Republic Of),364
+4217:2015,IQD,Iraqi Dinar,This code is for the Iraqi Dinar used in Iraq,368
+4217:2015,ILS,New Israeli Sheqel,This code is for the New Israeli Sheqel used in Israel,376
+4217:2015,JMD,Jamaican Dollar,This code is for the Jamaican Dollar used in Jamaica,388
+4217:2015,JPY,Yen,This code is for the Yen used in Japan,392
+4217:2015,JOD,Jordanian Dinar,This code is for the Jordanian Dinar used in Jordan,400
+4217:2015,KZT,Tenge,This code is for the Tenge used in Kazakhstan,398
+4217:2015,KES,Kenyan Shilling,This code is for the Kenyan Shilling used in Kenya,404
+4217:2015,KPW,North Korean Won,This code is for the North Korean Won used in Korea (The Democratic People’s Republic Of),408
+4217:2015,KRW,Won,This code is for the Won used in Korea (The Republic Of),410
+4217:2015,KWD,Kuwaiti Dinar,This code is for the Kuwaiti Dinar used in Kuwait,414
+4217:2015,KGS,Som,This code is for the Som used in Kyrgyzstan,417
+4217:2015,LAK,Lao Kip,This code is for the Lao Kip used in Lao People’s Democratic Republic (The),418
+4217:2015,LBP,Lebanese Pound,This code is for the Lebanese Pound used in Lebanon,422
+4217:2015,LSL,Loti,This code is for the Loti used in Lesotho,426
+4217:2015,ZAR,Rand,"This code is for the Rand used in Lesotho, Namibia, South Africa",710
+4217:2015,LRD,Liberian Dollar,This code is for the Liberian Dollar used in Liberia,430
+4217:2015,LYD,Libyan Dinar,This code is for the Libyan Dinar used in Libya,434
+4217:2015,CHF,Swiss Franc,"This code is for the Swiss Franc used in Liechtenstein, Switzerland",756
+4217:2015,MOP,Pataca,This code is for the Pataca used in Macao,446
+4217:2015,MKD,Denar,This code is for the Denar used in Macedonia (The Former Yugoslav Republic Of),807
+4217:2015,MGA,Malagasy Ariary,This code is for the Malagasy Ariary used in Madagascar,969
+4217:2015,MWK,Malawi Kwacha,This code is for the Malawi Kwacha used in Malawi,454
+4217:2015,MYR,Malaysian Ringgit,This code is for the Malaysian Ringgit used in Malaysia,458
+4217:2015,MVR,Rufiyaa,This code is for the Rufiyaa used in Maldives,462
+4217:2015,MRU,Ouguiya,This code is for the Ouguiya used in Mauritania,929
+4217:2015,MUR,Mauritius Rupee,This code is for the Mauritius Rupee used in Mauritius,480
+4217:2015,XUA,ADB Unit of Account,This code is for ADB Unit of Account,965
+4217:2015,MXN,Mexican Peso,This code is for the Mexican Peso used in Mexico,484
+4217:2015,MXV,Mexican Unidad de Inversion (UDI),This code is for the Mexican Unidad de Inversion (UDI) used in Mexico,979
+4217:2015,MDL,Moldovan Leu,This code is for the Moldovan Leu used in Moldova (The Republic Of),498
+4217:2015,MNT,Tugrik,This code is for the Tugrik used in Mongolia,496
+4217:2015,MAD,Moroccan Dirham,"This code is for the Moroccan Dirham used in Morocco, Western Sahara",504
+4217:2015,MZN,Mozambique Metical,This code is for the Mozambique Metical used in Mozambique,943
+4217:2015,MMK,Kyat,This code is for the Kyat used in Myanmar,104
+4217:2015,NAD,Namibia Dollar,This code is for the Namibia Dollar used in Namibia,516
+4217:2015,NPR,Nepalese Rupee,This code is for the Nepalese Rupee used in Nepal,524
+4217:2015,NIO,Cordoba Oro,This code is for the Cordoba Oro used in Nicaragua,558
+4217:2015,NGN,Naira,This code is for the Naira used in Nigeria,566
+4217:2015,OMR,Rial Omani,This code is for the Rial Omani used in Oman,512
+4217:2015,PKR,Pakistan Rupee,This code is for the Pakistan Rupee used in Pakistan,586
+4217:2015,PAB,Balboa,This code is for the Balboa used in Panama,590
+4217:2015,PGK,Kina,This code is for the Kina used in Papua New Guinea,598
+4217:2015,PYG,Guarani,This code is for the Guarani used in Paraguay,600
+4217:2015,PEN,Sol,This code is for the Sol used in Peru,604
+4217:2015,PHP,Philippine Peso,This code is for the Philippine Peso used in Philippines (The),608
+4217:2015,PLN,Zloty,This code is for the Zloty used in Poland,985
+4217:2015,QAR,Qatari Rial,This code is for the Qatari Rial used in Qatar,634
+4217:2015,RON,Romanian Leu,This code is for the Romanian Leu used in Romania,946
+4217:2015,RUB,Russian Ruble,This code is for the Russian Ruble used in Russian Federation (The),643
+4217:2015,RWF,Rwanda Franc,This code is for the Rwanda Franc used in Rwanda,646
+4217:2015,SHP,Saint Helena Pound,"This code is for the Saint Helena Pound used in Saint Helena, Ascension And Tristan Da Cunha",654
+4217:2015,WST,Tala,This code is for the Tala used in Samoa,882
+4217:2015,STN,Dobra,This code is for the Dobra used in Sao Tome And Principe,930
+4217:2015,SAR,Saudi Riyal,This code is for the Saudi Riyal used in Saudi Arabia,682
+4217:2015,RSD,Serbian Dinar,This code is for the Serbian Dinar used in Serbia,941
+4217:2015,SCR,Seychelles Rupee,This code is for the Seychelles Rupee used in Seychelles,690
+4217:2015,SLL,Leone,This code is for the Leone used in Sierra Leone,694
+4217:2015,SGD,Singapore Dollar,This code is for the Singapore Dollar used in Singapore,702
+4217:2015,XSU,Sucre,This code is for Sucre,994
+4217:2015,SBD,Solomon Islands Dollar,This code is for the Solomon Islands Dollar used in Solomon Islands,090
+4217:2015,SOS,Somali Shilling,This code is for the Somali Shilling used in Somalia,706
+4217:2015,SSP,South Sudanese Pound,This code is for the South Sudanese Pound used in South Sudan,728
+4217:2015,LKR,Sri Lanka Rupee,This code is for the Sri Lanka Rupee used in Sri Lanka,144
+4217:2015,SDG,Sudanese Pound,This code is for the Sudanese Pound used in Sudan (The),938
+4217:2015,SRD,Surinam Dollar,This code is for the Surinam Dollar used in Suriname,968
+4217:2015,SZL,Lilangeni,This code is for the Lilangeni used in Eswatini,748
+4217:2015,SEK,Swedish Krona,This code is for the Swedish Krona used in Sweden,752
+4217:2015,CHE,WIR Euro,This code is for the WIR Euro used in Switzerland,947
+4217:2015,CHW,WIR Franc,This code is for the WIR Franc used in Switzerland,948
+4217:2015,SYP,Syrian Pound,This code is for the Syrian Pound used in Syrian Arab Republic,760
+4217:2015,TWD,New Taiwan Dollar,This code is for the New Taiwan Dollar used in Taiwan (Province Of China),901
+4217:2015,TJS,Somoni,This code is for the Somoni used in Tajikistan,972
+4217:2015,TZS,Tanzanian Shilling,"This code is for the Tanzanian Shilling used in Tanzania, United Republic Of",834
+4217:2015,THB,Baht,This code is for the Baht used in Thailand,764
+4217:2015,TOP,Pa’anga,This code is for the Pa’anga used in Tonga,776
+4217:2015,TTD,Trinidad and Tobago Dollar,This code is for the Trinidad and Tobago Dollar used in Trinidad And Tobago,780
+4217:2015,TND,Tunisian Dinar,This code is for the Tunisian Dinar used in Tunisia,788
+4217:2015,TRY,Turkish Lira,This code is for the Turkish Lira used in Turkey,949
+4217:2015,TMT,Turkmenistan New Manat,This code is for the Turkmenistan New Manat used in Turkmenistan,934
+4217:2015,UGX,Uganda Shilling,This code is for the Uganda Shilling used in Uganda,800
+4217:2015,UAH,Hryvnia,This code is for the Hryvnia used in Ukraine,980
+4217:2015,AED,UAE Dirham,This code is for the UAE Dirham used in United Arab Emirates (The),784
+4217:2015,USN,US Dollar (Next day),This code is for the US Dollar (Next day) used in United States Of America (The),997
+4217:2015,UYU,Peso Uruguayo,This code is for the Peso Uruguayo used in Uruguay,858
+4217:2015,UYI,Uruguay Peso en Unidades Indexadas (UI),This code is for the Uruguay Peso en Unidades Indexadas (UI) used in Uruguay,940
+4217:2015,UYW,Unidad Previsional,This code is for the Unidad Previsional used in Uruguay,927
+4217:2015,UZS,Uzbekistan Sum,This code is for the Uzbekistan Sum used in Uzbekistan,860
+4217:2015,VUV,Vatu,This code is for the Vatu used in Vanuatu,548
+4217:2015,VES,Bolívar Soberano,This code is for the Bolívar Soberano used in Venezuela (Bolivarian Republic Of),928
+4217:2015,VND,Dong,This code is for the Dong used in Viet Nam,704
+4217:2015,YER,Yemeni Rial,This code is for the Yemeni Rial used in Yemen,886
+4217:2015,ZMW,Zambian Kwacha,This code is for the Zambian Kwacha used in Zambia,967
+4217:2015,ZWL,Zimbabwe Dollar,This code is for the Zimbabwe Dollar used in Zimbabwe,932
+4217:2015,XBA,Bond Markets Unit European Composite Unit (EURCO),This code is for Bond Markets Unit European Composite Unit (EURCO),955
+4217:2015,XBB,Bond Markets Unit European Monetary Unit (E.M.U.-6),This code is for Bond Markets Unit European Monetary Unit (E.M.U.-6),956
+4217:2015,XBC,Bond Markets Unit European Unit of Account 9 (E.U.A.-9),This code is for Bond Markets Unit European Unit of Account 9 (E.U.A.-9),957
+4217:2015,XBD,Bond Markets Unit European Unit of Account 17 (E.U.A.-17),This code is for Bond Markets Unit European Unit of Account 17 (E.U.A.-17),958
+4217:2015,XTS,Codes specifically reserved for testing purposes,This code is for Codes specifically reserved for testing purposes,963
+4217:2015,XXX,The codes assigned for transactions where no currency is involved,This code is for The codes assigned for transactions where no currency is involved,999
+4217:2015,XAU,Gold,This code is for Gold,959
+4217:2015,XPD,Palladium,This code is for Palladium,964
+4217:2015,XPT,Platinum,This code is for Platinum,962
+4217:2015,XAG,Silver,This code is for Silver,961

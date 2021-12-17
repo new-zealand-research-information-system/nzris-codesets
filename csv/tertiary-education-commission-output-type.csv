@@ -1,16 +1,16 @@
-Code,Description,Definition
-100,Authored Book,NA
-110,Chapter in Book,NA
-120,Conference Contribution - Other,NA
-130,Conference Contribution - Published,NA
-140,Creative Work,NA
-150,Discussion / Working Paper,NA
-160,Edited Volume,NA
-170,Intellectual Property,NA
-180,Journal Article,NA
-190,Oral Presentation,NA
-200,Other Form of Assessable Output,NA
-210,Report,NA
-220,Scholarly Edition / Literary Translation,NA
-230,Software,NA
-240,Thesis,NA
+Version,Code,Description,Definition
+1.0,100,Authored Book,NA
+1.0,110,Chapter in Book,NA
+1.0,120,Conference Contribution - Other,NA
+1.0,130,Conference Contribution - Published,NA
+1.0,140,Creative Work,NA
+1.0,150,Discussion / Working Paper,NA
+1.0,160,Edited Volume,NA
+1.0,170,Intellectual Property,NA
+1.0,180,Journal Article,NA
+1.0,190,Oral Presentation,NA
+1.0,200,Other Form of Assessable Output,NA
+1.0,210,Report,NA
+1.0,220,Scholarly Edition / Literary Translation,NA
+1.0,230,Software,NA
+1.0,240,Thesis,NA

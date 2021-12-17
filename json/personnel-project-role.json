@@ -1,34 +1,46 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Personnel (Project) Role",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"R1",
-			"R2",
-			"R3",
-			"S0",
-			"T0",
-			"C0"
-		],
-		"Description" : [
-			"Lead Contributor",
-			"Other Named Contributors",
-			"Other Contributors",
-			"Supporting Staff",
-			"Technician",
-			"Collaborator"
-		],
-		"Definition" : [
-			"The contributor with overall responsibility for delivering the project. For R&D project, this refers to the Principal Investigator or Lead Scientist",
-			"A named contributor listed in the application and involved in the project, whose expertise is critical to the success of the project",
-			"Remaining team members (contributing to the project) not listed anywhere else (Master's, PhD students, Interns, etc.)",
-			"Supporting staff includes skilled and unskilled craftsmen, and administrative, secretarial and clerical staff participating in or directly associated with the project",
-			"A technician is a person whose main tasks require technical knowledge and experience in one or more fields of engineering, the physical and life sciences, or the social sciences, humanities and the arts",
-			"A persons collaborating with the project team to contribute to objectives setting, provide an end user perspective, or disseminate/apply knowledge resulting from the findings of the project"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Personnel (Project) Role"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "R1",
+      "Description": "Lead Contributor",
+      "Definition": "The contributor with overall responsibility for delivering the project. For R&D project, this refers to the Principal Investigator or Lead Scientist"
+    },
+    {
+      "Version": "1.0",
+      "Code": "R2",
+      "Description": "Other Named Contributors",
+      "Definition": "A named contributor listed in the application and involved in the project, whose expertise is critical to the success of the project"
+    },
+    {
+      "Version": "1.0",
+      "Code": "R3",
+      "Description": "Other Contributors",
+      "Definition": "Remaining team members (contributing to the project) not listed anywhere else (Master's, PhD students, Interns, etc.)"
+    },
+    {
+      "Version": "1.0",
+      "Code": "S0",
+      "Description": "Supporting Staff",
+      "Definition": "Supporting staff includes skilled and unskilled craftsmen, and administrative, secretarial and clerical staff participating in or directly associated with the project"
+    },
+    {
+      "Version": "1.0",
+      "Code": "T0",
+      "Description": "Technician",
+      "Definition": "A technician is a person whose main tasks require technical knowledge and experience in one or more fields of engineering, the physical and life sciences, or the social sciences, humanities and the arts"
+    },
+    {
+      "Version": "1.0",
+      "Code": "C0",
+      "Description": "Collaborator",
+      "Definition": "A persons collaborating with the project team to contribute to objectives setting, provide an end user perspective, or disseminate/apply knowledge resulting from the findings of the project"
+    }
+  ]
 }

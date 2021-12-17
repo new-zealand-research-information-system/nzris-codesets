@@ -1,34 +1,46 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Review Outcome",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"01",
-			"02",
-			"03",
-			"04",
-			"05",
-			"99"
-		],
-		"Description" : [
-			"Full Award",
-			"Partial Award",
-			"Request Detailed Application",
-			"Request Additional Information",
-			"Decline",
-			"Other"
-		],
-		"Definition" : [
-			"Recommend Allocation of all requested resources",
-			"Recommend Allocation of some requested resources",
-			"Recommend a detailed application be submitted",
-			"Request additional information to inform another review",
-			"Recommend no resources be allocated",
-			"A decision not otherwise specified in this code set"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Review Outcome"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "01",
+      "Description": "Full Award",
+      "Definition": "Recommend Allocation of all requested resources"
+    },
+    {
+      "Version": "1.0",
+      "Code": "02",
+      "Description": "Partial Award",
+      "Definition": "Recommend Allocation of some requested resources"
+    },
+    {
+      "Version": "1.0",
+      "Code": "03",
+      "Description": "Request Detailed Application",
+      "Definition": "Recommend a detailed application be submitted"
+    },
+    {
+      "Version": "1.0",
+      "Code": "04",
+      "Description": "Request Additional Information",
+      "Definition": "Request additional information to inform another review"
+    },
+    {
+      "Version": "1.0",
+      "Code": "05",
+      "Description": "Decline",
+      "Definition": "Recommend no resources be allocated"
+    },
+    {
+      "Version": "1.0",
+      "Code": "99",
+      "Description": "Other",
+      "Definition": "A decision not otherwise specified in this code set"
+    }
+  ]
 }

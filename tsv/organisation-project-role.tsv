@@ -1,10 +1,10 @@
-Code	Description	Definition
-01	Administrator	The organisation administering allocation of resources
-02	Research Office	The organisation providing research office services for the project
-03	Lead Organisation	Lead organisation identified in project documentation
-04	Sub-recipient	Organisation participating in research and innovation, receiving funding and/or resourcing from the lead organisation
-05	Contracted Service Provider	Organisation or entity contracted to provide a particular service to lead or sub-recipient, but not an active participant in the research and innovation project
-06	End User Collaborator	An organisation involved in the project which may also benefit from project outputs.
-07	Host	Organisation providing a work environment (physical and/or virtual) for part or all of the project
-08	Project Admin	The organisation with responsibility for administration of the project
-99	Other	Other, not elsewhere specified
+Version	Code	Description	Definition
+1.0	01	Administrator	The organisation administering allocation of resources
+1.0	02	Research Office	The organisation providing research office services for the project
+1.0	03	Lead Organisation	Lead organisation identified in project documentation
+1.0	04	Sub-recipient	Organisation participating in research and innovation, receiving funding and/or resourcing from the lead organisation
+1.0	05	Contracted Service Provider	Organisation or entity contracted to provide a particular service to lead or sub-recipient, but not an active participant in the research and innovation project
+1.0	06	End User Collaborator	An organisation involved in the project which may also benefit from project outputs.
+1.0	07	Host	Organisation providing a work environment (physical and/or virtual) for part or all of the project
+1.0	08	Project Admin	The organisation with responsibility for administration of the project
+1.0	99	Other	Other, not elsewhere specified

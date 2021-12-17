@@ -1,28 +1,34 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Vision Matauranga Theme",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"I",
-			"T",
-			"H",
-			"M"
-		],
-		"Description" : [
-			"Indigenous Innovation",
-			"Taiao",
-			"Hauora / Oranga",
-			"Mātauranga"
-		],
-		"Definition" : [
-			"Contributing to Economic Growth through Distinctive R&D",
-			"Achieving environmental sustainability through Iwi and Hapu relationships with land and sea",
-			"Improving Health and Social Wellbeing",
-			"Exploring indigenous knowledge and RS&T"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Vision Matauranga Theme"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "I",
+      "Description": "Indigenous Innovation",
+      "Definition": "Contributing to Economic Growth through Distinctive R&D"
+    },
+    {
+      "Version": "1.0",
+      "Code": "T",
+      "Description": "Taiao",
+      "Definition": "Achieving environmental sustainability through Iwi and Hapu relationships with land and sea"
+    },
+    {
+      "Version": "1.0",
+      "Code": "H",
+      "Description": "Hauora / Oranga",
+      "Definition": "Improving Health and Social Wellbeing"
+    },
+    {
+      "Version": "1.0",
+      "Code": "M",
+      "Description": "Mātauranga",
+      "Definition": "Exploring indigenous knowledge and RS&T"
+    }
+  ]
 }

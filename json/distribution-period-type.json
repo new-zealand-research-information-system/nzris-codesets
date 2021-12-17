@@ -1,43 +1,64 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Distribution Period Type",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"CA",
-			"IA",
-			"DA",
-			"RE",
-			"DE",
-			"AP",
-			"DS",
-			"ED",
-			"OT"
-		],
-		"Description" : [
-			"Call for Applications",
-			"Initial Application",
-			"Detailed Application",
-			"Review",
-			"Decision",
-			"Award Publication",
-			"Distribution",
-			"Extended Distribution",
-			"Other"
-		],
-		"Definition" : [
-			"The timeframe within which the call for applications is made",
-			"The timeframe within which an initial application for resources must be made",
-			"The timeframe within which a detailed application for resources must be made",
-			"The timeframe within which application reviews will be completed",
-			"The timeframe within which award decisions are made",
-			"The timeframe within which awards granted are notified",
-			"The timeframe within which the resources granted will be distributed",
-			"The timeframe within which any potential extensions to awards will be distributed",
-			"A timeframe for another important activity in the distribution of resources not specified in this code set"
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Distribution Period Type"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "CA",
+      "Description": "Call for Applications",
+      "Definition": "The timeframe within which the call for applications is made"
+    },
+    {
+      "Version": "1.0",
+      "Code": "IA",
+      "Description": "Initial Application",
+      "Definition": "The timeframe within which an initial application for resources must be made"
+    },
+    {
+      "Version": "1.0",
+      "Code": "DA",
+      "Description": "Detailed Application",
+      "Definition": "The timeframe within which a detailed application for resources must be made"
+    },
+    {
+      "Version": "1.0",
+      "Code": "RE",
+      "Description": "Review",
+      "Definition": "The timeframe within which application reviews will be completed"
+    },
+    {
+      "Version": "1.0",
+      "Code": "DE",
+      "Description": "Decision",
+      "Definition": "The timeframe within which award decisions are made"
+    },
+    {
+      "Version": "1.0",
+      "Code": "AP",
+      "Description": "Award Publication",
+      "Definition": "The timeframe within which awards granted are notified"
+    },
+    {
+      "Version": "1.0",
+      "Code": "DS",
+      "Description": "Distribution",
+      "Definition": "The timeframe within which the resources granted will be distributed"
+    },
+    {
+      "Version": "1.0",
+      "Code": "ED",
+      "Description": "Extended Distribution",
+      "Definition": "The timeframe within which any potential extensions to awards will be distributed"
+    },
+    {
+      "Version": "1.0",
+      "Code": "OT",
+      "Description": "Other",
+      "Definition": "A timeframe for another important activity in the distribution of resources not specified in this code set"
+    }
+  ]
 }

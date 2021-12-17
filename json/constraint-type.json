@@ -1,49 +1,75 @@
 {
-	"name" : "New Zealand Research Information System (NZRIS) Data Specifications Constraint Type",
-	"version" : "2.0",
-	"released" : "15 April 2019",
-	"updated" : "15 April 2019",
-	"maintainer" : "Ministry of Business, Innovation and Employment",
-	"url" : "https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf",
-	"data" : {
-		"Code" : [
-			"01",
-			"02",
-			"03",
-			"04",
-			"05",
-			"06",
-			"07",
-			"08",
-			"09",
-			"10",
-			"99"
-		],
-		"Description" : [
-			"Match Funding",
-			"Real Costs Only",
-			"Research Only",
-			"No Capital Purchases",
-			"Salary Only",
-			"No Salary for Non-NZ Based Investigators",
-			"Infrastructure Only",
-			"Restricted infrastructure use",
-			"Non RS&I Only",
-			"Flexible",
-			"Other"
-		],
-		"Definition" : [
-			"Funding must be matched by award(s) from another source",
-			"Only payable for costs directly incurred",
-			"Cannot be used for administrative purposes",
-			"Cannot be used for capital investment",
-			"Can only be used for salaries",
-			"Can only be used for salaries for NZ based staff",
-			"Can only be used for infrastructure purchase or maintenance",
-			"Only a limited proportion (<5%) can be used for infrastructure purchase or maintenance",
-			"Cannot be used for RS&I activity",
-			"May be used for RS&I activity, or for non RS&I activity",
-			null
-		]
-	}
+  "Name": ["New Zealand Research Information System (NZRIS) Data Specifications Constraint Type"],
+  "Version": ["1.0"],
+  "Released": ["15 April 2019"],
+  "Updated": ["15 April 2019"],
+  "Maintainer": ["Ministry of Business, Innovation and Employment"],
+  "URL": ["https://www.mbie.govt.nz/assets/3c7d27b71b/NZRIS-Data-Specification-2.0.pdf"],
+  "data": [
+    {
+      "Version": "1.0",
+      "Code": "01",
+      "Description": "Match Funding",
+      "Definition": "Funding must be matched by award(s) from another source"
+    },
+    {
+      "Version": "1.0",
+      "Code": "02",
+      "Description": "Real Costs Only",
+      "Definition": "Only payable for costs directly incurred"
+    },
+    {
+      "Version": "1.0",
+      "Code": "03",
+      "Description": "Research Only",
+      "Definition": "Cannot be used for administrative purposes"
+    },
+    {
+      "Version": "1.0",
+      "Code": "04",
+      "Description": "No Capital Purchases",
+      "Definition": "Cannot be used for capital investment"
+    },
+    {
+      "Version": "1.0",
+      "Code": "05",
+      "Description": "Salary Only",
+      "Definition": "Can only be used for salaries"
+    },
+    {
+      "Version": "1.0",
+      "Code": "06",
+      "Description": "No Salary for Non-NZ Based Investigators",
+      "Definition": "Can only be used for salaries for NZ based staff"
+    },
+    {
+      "Version": "1.0",
+      "Code": "07",
+      "Description": "Infrastructure Only",
+      "Definition": "Can only be used for infrastructure purchase or maintenance"
+    },
+    {
+      "Version": "1.0",
+      "Code": "08",
+      "Description": "Restricted infrastructure use",
+      "Definition": "Only a limited proportion (<5%) can be used for infrastructure purchase or maintenance"
+    },
+    {
+      "Version": "1.0",
+      "Code": "09",
+      "Description": "Non RS&I Only",
+      "Definition": "Cannot be used for RS&I activity"
+    },
+    {
+      "Version": "1.0",
+      "Code": "10",
+      "Description": "Flexible",
+      "Definition": "May be used for RS&I activity, or for non RS&I activity"
+    },
+    {
+      "Version": "1.0",
+      "Code": "99",
+      "Description": "Other"
+    }
+  ]
 }
