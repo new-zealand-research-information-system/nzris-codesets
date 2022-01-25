@@ -56,6 +56,12 @@
     },
     {
       "Version": "1.0",
+      "Code": "09",
+      "Description": "EDUMIS",
+      "Definition": "Identifier for educational providers registered with the Ministry of Education's Education Management Information System (EDUMIS)"
+    },
+    {
+      "Version": "1.0",
       "Code": "99",
       "Description": "Other Identifier",
       "Definition": "An identifier not otherwise identified"
