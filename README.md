@@ -1,7 +1,7 @@
 # New Zealand Research Information System (NZRIS) Codesets
 
 * Version: 0.6
-* Generated: 17 December 2021
+* Generated: 26 January 2022
 
 This repository aims to collate all codesets used by NZRIS into a machine
 readable format. NZRIS will be a national, online hub of information about the
@@ -42,7 +42,7 @@ Classification (ANZSRC) Socio-Economic Objective codeset. Not all levels of each
 codeset can be submitted to NZRIS. For more detail on which levels can be
 submitted, see the [NZRIS Data
 Specifications](https://www.mbie.govt.nz/dmsdocument/1275-nzris-data-specification-2-01)
-(active at 17 December 2021). As at version 2.1 of the NZRIS Data Specifications,
+(active at 17 December 2021). As at version 2.01 of the NZRIS Data Specifications,
 ethnicity is the only field that can be submitted in either of two levels of the
 same codeset; level two, or level four can be submitted.
 
@@ -54,19 +54,20 @@ to each type of activity to align this structure with other codesets, however
 these are not part of the formal definition. 
 * **International Standards Organisation (ISO) 639 Language Codes**: the three
 letter code (ISO-639-2/T) has been used, as it provides good language coverage,
-and the a in Māori has been macronised.
+and the "a" in Māori has been macronised.
 * **International Standards Organisation (ISO) 4217 Currency Codes**: the three
 letter code has been used as the code rather than the numeric code due to wide
 adoption, the numeric code is provided for reference only.
 * **Public Sector Financial Resource**: multi-category appropriations are listed
 with their categories in the format "Appropriation: Category", to maintain a 
 link between the Appropriation ID, and to better track appropriations over time.
+The code has been created as a composite of identifier, year and type.
 * **ANZSRC Socio-economic objective (ANZSRC SEO) 2020**: there are two codes
 with the description "Insects", the four-digit description has been added in 
 order to distinguish between these when data is attempted to be matched back
 to a code.
 * **ORCID Work Types**: a version has been added as the date published on the 
-ORCID [fequently asked questions page](https://info.orcid.org/faq/what-work-types-does-orcid-support/).
+[ORCID fequently asked questions page](https://info.orcid.org/faq/what-work-types-does-orcid-support/).
 
 
 ### Characters in the codesets may display differently depending on the program used to open them
@@ -86,7 +87,7 @@ In order to retain accurate descriptions of codesets, codeset names have been
 recorded as they are found at source, and abbreviations have been expanded. This
 means that there are some differences between the names of the codesets in the
 NZRIS Data Specifications and the names used in this repository. Here is a
-current summary of the differences between version 2.0 of the Data
+current summary of the differences between version 2.01 of the Data
 Specifications and names used in this repository:
 
 |Reference in Data Specifications |Codeset Name                                                                                             |
