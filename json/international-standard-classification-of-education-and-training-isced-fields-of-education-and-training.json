@@ -1,13 +1,13 @@
 {
   "Name": ["International Standard Classification of Education and Training (ISCED) Fields of Education and Training"],
-  "Version": ["2013"],
+  "Version": ["ISCED-F 2013"],
   "Released": ["29 November 2014"],
   "Updated": ["29 November 2014"],
   "Maintainer": ["United Nations Educational, Scientific and Cultural Organization (UNESCO)"],
   "URL": [" https://eqe.ge/res/docs/228085e.pdf, and https://ec.europa.eu/assets/eac/education/tools/iscedf/iscedcodes.xml"],
   "data": [
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0110",
       "Description": "Education, not further defined",
       "Three_Digit_Code": "011",
@@ -17,7 +17,7 @@
       "Definition": "Education/Education/Education, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0111",
       "Description": "Education science",
       "Three_Digit_Code": "011",
@@ -27,7 +27,7 @@
       "Definition": "Education/Education/Education science"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0112",
       "Description": "Training for pre-school teachers",
       "Three_Digit_Code": "011",
@@ -37,7 +37,7 @@
       "Definition": "Education/Education/Training for pre-school teachers"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0113",
       "Description": "Teacher training without subject specialization",
       "Three_Digit_Code": "011",
@@ -47,7 +47,7 @@
       "Definition": "Education/Education/Teacher training without subject specialization"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0114",
       "Description": "Teacher training with subject specialization",
       "Three_Digit_Code": "011",
@@ -57,7 +57,7 @@
       "Definition": "Education/Education/Teacher training with subject specialization"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0119",
       "Description": "Education, not elsewhere classified",
       "Three_Digit_Code": "011",
@@ -67,7 +67,7 @@
       "Definition": "Education/Education/Education, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0188",
       "Description": "Education, inter-disciplinary programmes",
       "Three_Digit_Code": "018",
@@ -75,7 +75,7 @@
       "Two_Digit_Description": "Education"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0210",
       "Description": "Arts, not further defined",
       "Three_Digit_Code": "021",
@@ -85,7 +85,7 @@
       "Definition": "Arts and humanities/Arts/Arts, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0211",
       "Description": "Audio-visual techniques and media production",
       "Three_Digit_Code": "021",
@@ -95,7 +95,7 @@
       "Definition": "Arts and humanities/Arts/Audio-visual techniques and media production"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0212",
       "Description": "Fashion, interior and industrial design",
       "Three_Digit_Code": "021",
@@ -105,7 +105,7 @@
       "Definition": "Arts and humanities/Arts/Fashion, interior and industrial design"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0213",
       "Description": "Fine arts",
       "Three_Digit_Code": "021",
@@ -115,7 +115,7 @@
       "Definition": "Arts and humanities/Arts/Fine arts"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0214",
       "Description": "Handicrafts",
       "Three_Digit_Code": "021",
@@ -125,7 +125,7 @@
       "Definition": "Arts and humanities/Arts/Handicrafts"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0215",
       "Description": "Music and performing arts",
       "Three_Digit_Code": "021",
@@ -135,7 +135,7 @@
       "Definition": "Arts and humanities/Arts/Music and performing arts"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0219",
       "Description": "Arts, not elsewhere classified",
       "Three_Digit_Code": "021",
@@ -145,7 +145,7 @@
       "Definition": "Arts and humanities/Arts/Arts, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0220",
       "Description": "Humanities (except languages) not further defined",
       "Three_Digit_Code": "022",
@@ -155,7 +155,7 @@
       "Definition": "Arts and humanities/Humanities (except languages)/Humanities"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0221",
       "Description": "Religion and theology",
       "Three_Digit_Code": "022",
@@ -165,7 +165,7 @@
       "Definition": "Arts and humanities/Humanities (except languages)/Religion and theology"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0222",
       "Description": "History and archaeology",
       "Three_Digit_Code": "022",
@@ -175,7 +175,7 @@
       "Definition": "Arts and humanities/Humanities (except languages)/History and archaeology"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0223",
       "Description": "Philosophy and ethics",
       "Three_Digit_Code": "022",
@@ -185,7 +185,7 @@
       "Definition": "Arts and humanities/Humanities (except languages)/Philosophy and ethics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0229",
       "Description": "Humanities (except languages) not elsewhere classified",
       "Three_Digit_Code": "022",
@@ -195,7 +195,7 @@
       "Definition": "Arts and humanities/Humanities (except languages)/Humanities"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0230",
       "Description": "Languages, not further defined",
       "Three_Digit_Code": "023",
@@ -205,7 +205,7 @@
       "Definition": "Arts and humanities/Languages/Languages, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0231",
       "Description": "Language acquisition",
       "Three_Digit_Code": "023",
@@ -215,7 +215,7 @@
       "Definition": "Arts and humanities/Languages/Language acquisition"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0232",
       "Description": "Literature and linguistics",
       "Three_Digit_Code": "023",
@@ -225,7 +225,7 @@
       "Definition": "Arts and humanities/Languages/Literature and linguistics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0239",
       "Description": "Languages, not elsewhere classified",
       "Three_Digit_Code": "023",
@@ -235,7 +235,7 @@
       "Definition": "Arts and humanities/Languages/Languages, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0288",
       "Description": "Arts and humanities, interdisciplinary programmes",
       "Three_Digit_Code": "028",
@@ -243,7 +243,7 @@
       "Two_Digit_Description": "Arts and humanities"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0310",
       "Description": "Social and behavioural sciences, not further defined",
       "Three_Digit_Code": "031",
@@ -253,7 +253,7 @@
       "Definition": "Social sciences, journalism and information/Social and behavioural sciences/Social and behavioural sciences, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0311",
       "Description": "Economics",
       "Three_Digit_Code": "031",
@@ -263,7 +263,7 @@
       "Definition": "Social sciences, journalism and information/Social and behavioural sciences/Economics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0312",
       "Description": "Political sciences and civics",
       "Three_Digit_Code": "031",
@@ -273,7 +273,7 @@
       "Definition": "Social sciences, journalism and information/Social and behavioural sciences/Political sciences and civics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0313",
       "Description": "Psychology",
       "Three_Digit_Code": "031",
@@ -283,7 +283,7 @@
       "Definition": "Social sciences, journalism and information/Social and behavioural sciences/Psychology"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0314",
       "Description": "Sociology and cultural studies",
       "Three_Digit_Code": "031",
@@ -293,7 +293,7 @@
       "Definition": "Social sciences, journalism and information/Social and behavioural sciences/Sociology and cultural studies"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0319",
       "Description": "Social and behavioural sciences, not elsewhere classified",
       "Three_Digit_Code": "031",
@@ -303,7 +303,7 @@
       "Definition": "Social sciences, journalism and information/Social and behavioural sciences/Social and behavioural sciences, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0320",
       "Description": "Journalism and information, not further defined",
       "Three_Digit_Code": "032",
@@ -313,7 +313,7 @@
       "Definition": "Social sciences, journalism and information/Journalism and information/Journalism and information, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0321",
       "Description": "Journalism and reporting",
       "Three_Digit_Code": "032",
@@ -323,7 +323,7 @@
       "Definition": "Social sciences, journalism and information/Journalism and information/Journalism and reporting"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0322",
       "Description": "Library, information and archival studies",
       "Three_Digit_Code": "032",
@@ -333,7 +333,7 @@
       "Definition": "Social sciences, journalism and information/Journalism and information/Library, information and archival studies"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0329",
       "Description": "Journalism and information, not elsewhere classified",
       "Three_Digit_Code": "032",
@@ -343,7 +343,7 @@
       "Definition": "Social sciences, journalism and information/Journalism and information/Journalism and information, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0388",
       "Description": "Social sciences, journalism and information, inter-disciplinary programmes",
       "Three_Digit_Code": "038",
@@ -351,7 +351,7 @@
       "Two_Digit_Description": "Social sciences, journalism and information"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0410",
       "Description": "Business and administration, not further defined",
       "Three_Digit_Code": "041",
@@ -361,7 +361,7 @@
       "Definition": "Business, administration and law/Business and administration/Business and administration, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0411",
       "Description": "Accounting and taxation",
       "Three_Digit_Code": "041",
@@ -371,7 +371,7 @@
       "Definition": "Business, administration and law/Business and administration/Accounting and taxation"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0412",
       "Description": "Finance, banking and insurance",
       "Three_Digit_Code": "041",
@@ -381,7 +381,7 @@
       "Definition": "Business, administration and law/Business and administration/Finance, banking and insurance"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0413",
       "Description": "Management and administration",
       "Three_Digit_Code": "041",
@@ -391,7 +391,7 @@
       "Definition": "Business, administration and law/Business and administration/Management and administration"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0414",
       "Description": "Marketing and advertising",
       "Three_Digit_Code": "041",
@@ -401,7 +401,7 @@
       "Definition": "Business, administration and law/Business and administration/Marketing and advertising"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0415",
       "Description": "Secretarial and office work",
       "Three_Digit_Code": "041",
@@ -411,7 +411,7 @@
       "Definition": "Business, administration and law/Business and administration/Secretarial and office work"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0416",
       "Description": "Wholesale and retail sales",
       "Three_Digit_Code": "041",
@@ -421,7 +421,7 @@
       "Definition": "Business, administration and law/Business and administration/Wholesale and retail sales"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0417",
       "Description": "Work skills",
       "Three_Digit_Code": "041",
@@ -431,7 +431,7 @@
       "Definition": "Business, administration and law/Business and administration/Work skills"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0419",
       "Description": "Business and administration, not elsewhere classified",
       "Three_Digit_Code": "041",
@@ -441,7 +441,7 @@
       "Definition": "Business, administration and law/Business and administration/Business and administration, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0421",
       "Description": "Law",
       "Three_Digit_Code": "042",
@@ -451,7 +451,7 @@
       "Definition": "Business, administration and law/Law/Law"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0429",
       "Description": "Law, not elsewhere classified",
       "Three_Digit_Code": "042",
@@ -461,7 +461,7 @@
       "Definition": "Business, administration and law/Law/Law, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0488",
       "Description": "Business, administration and law, interdisciplinary programmes",
       "Three_Digit_Code": "048",
@@ -469,7 +469,7 @@
       "Two_Digit_Description": "Business, administration and law"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0510",
       "Description": "Biological and related sciences, not further defined",
       "Three_Digit_Code": "051",
@@ -479,7 +479,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Biological and related sciences/Biological and related sciences, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0511",
       "Description": "Biology",
       "Three_Digit_Code": "051",
@@ -489,7 +489,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Biological and related sciences/Biology"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0512",
       "Description": "Biochemistry",
       "Three_Digit_Code": "051",
@@ -499,7 +499,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Biological and related sciences/Biochemistry"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0519",
       "Description": "Biological and related sciences, not elsewhere classifed",
       "Three_Digit_Code": "051",
@@ -509,7 +509,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Biological and related sciences/Biological and related sciences, not elsewhere classifed"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0520",
       "Description": "Environment, not further defined",
       "Three_Digit_Code": "052",
@@ -519,7 +519,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Environment/Environment, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0521",
       "Description": "Environmental sciences",
       "Three_Digit_Code": "052",
@@ -529,7 +529,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Environment/Environmental sciences"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0522",
       "Description": "Natural environments and wildlife",
       "Three_Digit_Code": "052",
@@ -539,7 +539,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Environment/Natural environments and wildlife"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0529",
       "Description": "Environment, not elsewhere classified",
       "Three_Digit_Code": "052",
@@ -549,7 +549,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Environment/Environment, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0530",
       "Description": "Physical sciences, not further defined",
       "Three_Digit_Code": "053",
@@ -559,7 +559,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Physical sciences/Physical sciences, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0531",
       "Description": "Chemistry",
       "Three_Digit_Code": "053",
@@ -569,7 +569,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Physical sciences/Chemistry"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0532",
       "Description": "Earth sciences",
       "Three_Digit_Code": "053",
@@ -579,7 +579,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Physical sciences/Earth sciences"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0533",
       "Description": "Physics",
       "Three_Digit_Code": "053",
@@ -589,7 +589,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Physical sciences/Physics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0539",
       "Description": "Physical sciences, not elsewhere classified",
       "Three_Digit_Code": "053",
@@ -599,7 +599,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Physical sciences/Physical sciences, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0540",
       "Description": "Mathematics and statistics, not further defined",
       "Three_Digit_Code": "054",
@@ -609,7 +609,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics and statistics, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0541",
       "Description": "Mathematics",
       "Three_Digit_Code": "054",
@@ -619,7 +619,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0542",
       "Description": "Statistics",
       "Three_Digit_Code": "054",
@@ -629,7 +629,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Mathematics and statistics/Statistics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0549",
       "Description": "Mathematics and statistics, not elsewhere classified",
       "Three_Digit_Code": "054",
@@ -639,7 +639,7 @@
       "Definition": "Natural sciences, mathematics and statistics/Mathematics and statistics/Mathematics and statistics, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0588",
       "Description": "Natural sciences, mathematics and statistics, inter-disciplinary programmes",
       "Three_Digit_Code": "058",
@@ -647,7 +647,7 @@
       "Two_Digit_Description": "Natural sciences, mathematics and statistics"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0610",
       "Description": "Information and Communication Technologies (ICTs) not further defined",
       "Three_Digit_Code": "061",
@@ -657,7 +657,7 @@
       "Definition": "Information and\r\nCommunication\r\nTechnologies (ICTs)/Information and Communication Technologies (ICTs)/Information and Communication Technologies"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0611",
       "Description": "Computer use",
       "Three_Digit_Code": "061",
@@ -667,7 +667,7 @@
       "Definition": "Information and\r\nCommunication\r\nTechnologies (ICTs)/Information and Communication Technologies (ICTs)/Computer use"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0612",
       "Description": "Database and network design and administration",
       "Three_Digit_Code": "061",
@@ -677,7 +677,7 @@
       "Definition": "Information and\r\nCommunication\r\nTechnologies (ICTs)/Information and Communication Technologies (ICTs)/Database and network design and administration"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0613",
       "Description": "Software and applications development and analysis",
       "Three_Digit_Code": "061",
@@ -687,7 +687,7 @@
       "Definition": "Information and\r\nCommunication\r\nTechnologies (ICTs)/Information and Communication Technologies (ICTs)/Software and applications development and analysis"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0619",
       "Description": "Information and Communication Technologies (ICTs) not elsewhere classified",
       "Three_Digit_Code": "061",
@@ -697,7 +697,7 @@
       "Definition": "Information and\r\nCommunication\r\nTechnologies (ICTs)/Information and Communication Technologies (ICTs)/Information and Communication Technologies"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0688",
       "Description": "Information and Communication Technologies (ICTs), inter-disciplinary programmes",
       "Three_Digit_Code": "068",
@@ -705,7 +705,7 @@
       "Two_Digit_Description": "Information and\r\nCommunication\r\nTechnologies (ICTs)"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0710",
       "Description": "Engineering and engineering trades, not further defined",
       "Three_Digit_Code": "071",
@@ -715,7 +715,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Engineering and engineering trades, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0711",
       "Description": "Chemical engineering and processes",
       "Three_Digit_Code": "071",
@@ -725,7 +725,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Chemical engineering and processes"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0712",
       "Description": "Environmental protection technology",
       "Three_Digit_Code": "071",
@@ -735,7 +735,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Environmental protection technology"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0713",
       "Description": "Electricity and energy",
       "Three_Digit_Code": "071",
@@ -745,7 +745,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Electricity and energy"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0714",
       "Description": "Electronics and automation",
       "Three_Digit_Code": "071",
@@ -755,7 +755,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Electronics and automation"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0715",
       "Description": "Mechanics and metal trades",
       "Three_Digit_Code": "071",
@@ -765,7 +765,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Mechanics and metal trades"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0716",
       "Description": "Motor vehicles, ships and aircraft",
       "Three_Digit_Code": "071",
@@ -775,7 +775,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Motor vehicles, ships and aircraft"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0719",
       "Description": "Engineering and engineering trades, not elsewhere classified",
       "Three_Digit_Code": "071",
@@ -785,7 +785,7 @@
       "Definition": "Engineering, manufacturing and construction/Engineering and engineering trades/Engineering and engineering trades, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0720",
       "Description": "Manufacturing and processing, not further defined",
       "Three_Digit_Code": "072",
@@ -795,7 +795,7 @@
       "Definition": "Engineering, manufacturing and construction/Manufacturing and processing/Manufacturing and processing, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0721",
       "Description": "Food processing",
       "Three_Digit_Code": "072",
@@ -805,7 +805,7 @@
       "Definition": "Engineering, manufacturing and construction/Manufacturing and processing/Food processing"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0722",
       "Description": "Materials",
       "Three_Digit_Code": "072",
@@ -815,7 +815,7 @@
       "Definition": "Engineering, manufacturing and construction/Manufacturing and processing/Materials"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0723",
       "Description": "Textiles",
       "Three_Digit_Code": "072",
@@ -825,7 +825,7 @@
       "Definition": "Engineering, manufacturing and construction/Manufacturing and processing/Textiles"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0724",
       "Description": "Mining and extraction",
       "Three_Digit_Code": "072",
@@ -835,7 +835,7 @@
       "Definition": "Engineering, manufacturing and construction/Manufacturing and processing/Mining and extraction"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0729",
       "Description": "Manufacturing and processing, not elsewhere classified",
       "Three_Digit_Code": "072",
@@ -845,7 +845,7 @@
       "Definition": "Engineering, manufacturing and construction/Manufacturing and processing/Manufacturing and processing, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0730",
       "Description": "Architecture and construction, not further defined",
       "Three_Digit_Code": "073",
@@ -855,7 +855,7 @@
       "Definition": "Engineering, manufacturing and construction/Architecture and construction/Architecture and construction, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0731",
       "Description": "Architecture and town planning",
       "Three_Digit_Code": "073",
@@ -865,7 +865,7 @@
       "Definition": "Engineering, manufacturing and construction/Architecture and construction/Architecture and town planning"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0732",
       "Description": "Building and civil engineering",
       "Three_Digit_Code": "073",
@@ -875,7 +875,7 @@
       "Definition": "Engineering, manufacturing and construction/Architecture and construction/Building and civil engineering"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0739",
       "Description": "Architecture and construction, not elsewhere classified",
       "Three_Digit_Code": "073",
@@ -885,7 +885,7 @@
       "Definition": "Engineering, manufacturing and construction/Architecture and construction/Architecture and construction, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0788",
       "Description": "Engineering, manufacturing and construction, inter-disciplinary programmes",
       "Three_Digit_Code": "078",
@@ -893,7 +893,7 @@
       "Two_Digit_Description": "Engineering, manufacturing and construction"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0810",
       "Description": "Agriculture, not further defined",
       "Three_Digit_Code": "081",
@@ -903,7 +903,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Agriculture/Agriculture, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0811",
       "Description": "Crop and livestock production",
       "Three_Digit_Code": "081",
@@ -913,7 +913,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Agriculture/Crop and livestock production"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0812",
       "Description": "Horticulture",
       "Three_Digit_Code": "081",
@@ -923,7 +923,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Agriculture/Horticulture"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0819",
       "Description": "Agriculture, not elsewhere classified",
       "Three_Digit_Code": "081",
@@ -933,7 +933,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Agriculture/Agriculture, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0821",
       "Description": "Forestry",
       "Three_Digit_Code": "082",
@@ -943,7 +943,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Forestry/Forestry"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0829",
       "Description": "Forestry, not elsewhere classified",
       "Three_Digit_Code": "082",
@@ -953,7 +953,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Forestry/Forestry, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0831",
       "Description": "Fisheries",
       "Three_Digit_Code": "083",
@@ -963,7 +963,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Fisheries/Fisheries"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0839",
       "Description": "Fisheries, not elsewhere classified",
       "Three_Digit_Code": "083",
@@ -973,7 +973,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Fisheries/Fisheries, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0841",
       "Description": "Veterinary",
       "Three_Digit_Code": "084",
@@ -983,7 +983,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Veterinary/Veterinary"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0849",
       "Description": "Veterinary, not elsewhere classified",
       "Three_Digit_Code": "084",
@@ -993,7 +993,7 @@
       "Definition": "Agriculture, forestry, fisheries and veterinary/Veterinary/Veterinary, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0888",
       "Description": "Agriculture, forestry, fisheries, veterinary, inter-disciplinary programmes",
       "Three_Digit_Code": "088",
@@ -1001,7 +1001,7 @@
       "Two_Digit_Description": "Agriculture, forestry, fisheries and veterinary"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0910",
       "Description": "Health, not further defined",
       "Three_Digit_Code": "091",
@@ -1011,7 +1011,7 @@
       "Definition": "Health and welfare/Health/Health, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0911",
       "Description": "Dental studies",
       "Three_Digit_Code": "091",
@@ -1021,7 +1021,7 @@
       "Definition": "Health and welfare/Health/Dental studies"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0912",
       "Description": "Medicine",
       "Three_Digit_Code": "091",
@@ -1031,7 +1031,7 @@
       "Definition": "Health and welfare/Health/Medicine"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0913",
       "Description": "Nursing and midwifery",
       "Three_Digit_Code": "091",
@@ -1041,7 +1041,7 @@
       "Definition": "Health and welfare/Health/Nursing and midwifery"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0914",
       "Description": "Medical diagnostic and treatment technology",
       "Three_Digit_Code": "091",
@@ -1051,7 +1051,7 @@
       "Definition": "Health and welfare/Health/Medical diagnostic and treatment technology"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0915",
       "Description": "Therapy and rehabilitation",
       "Three_Digit_Code": "091",
@@ -1061,7 +1061,7 @@
       "Definition": "Health and welfare/Health/Therapy and rehabilitation"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0916",
       "Description": "Pharmacy",
       "Three_Digit_Code": "091",
@@ -1071,7 +1071,7 @@
       "Definition": "Health and welfare/Health/Pharmacy"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0917",
       "Description": "Traditional and complementary medicine and therapy",
       "Three_Digit_Code": "091",
@@ -1081,7 +1081,7 @@
       "Definition": "Health and welfare/Health/Traditional and complementary medicine and therapy"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0919",
       "Description": "Health, not elsewhere classified",
       "Three_Digit_Code": "091",
@@ -1091,7 +1091,7 @@
       "Definition": "Health and welfare/Health/Health, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0920",
       "Description": "Welfare, not further defined",
       "Three_Digit_Code": "092",
@@ -1101,7 +1101,7 @@
       "Definition": "Health and welfare/Welfare/Welfare, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0921",
       "Description": "Care of the elderly and of disabled adults",
       "Three_Digit_Code": "092",
@@ -1111,7 +1111,7 @@
       "Definition": "Health and welfare/Welfare/Care of the elderly and of disabled adults"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0922",
       "Description": "Child care and youth services",
       "Three_Digit_Code": "092",
@@ -1121,7 +1121,7 @@
       "Definition": "Health and welfare/Welfare/Child care and youth services"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0923",
       "Description": "Social work and counselling",
       "Three_Digit_Code": "092",
@@ -1131,7 +1131,7 @@
       "Definition": "Health and welfare/Welfare/Social work and counselling"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0929",
       "Description": "Welfare, not elsewhere classified",
       "Three_Digit_Code": "092",
@@ -1141,7 +1141,7 @@
       "Definition": "Health and welfare/Welfare/Welfare, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "0988",
       "Description": "Health and Welfare, inter-disciplinary programmes",
       "Three_Digit_Code": "098",
@@ -1149,7 +1149,7 @@
       "Two_Digit_Description": "Health and welfare"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1010",
       "Description": "Personal services, not further defined",
       "Three_Digit_Code": "101",
@@ -1159,7 +1159,7 @@
       "Definition": "Services/Personal services/Personal services, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1011",
       "Description": "Domestic services",
       "Three_Digit_Code": "101",
@@ -1169,7 +1169,7 @@
       "Definition": "Services/Personal services/Domestic services"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1012",
       "Description": "Hair and beauty services",
       "Three_Digit_Code": "101",
@@ -1179,7 +1179,7 @@
       "Definition": "Services/Personal services/Hair and beauty services"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1013",
       "Description": "Hotel, restaurants and catering",
       "Three_Digit_Code": "101",
@@ -1189,7 +1189,7 @@
       "Definition": "Services/Personal services/Hotel, restaurants and catering"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1014",
       "Description": "Sports",
       "Three_Digit_Code": "101",
@@ -1199,7 +1199,7 @@
       "Definition": "Services/Personal services/Sports"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1015",
       "Description": "Travel, tourism and leisure",
       "Three_Digit_Code": "101",
@@ -1209,7 +1209,7 @@
       "Definition": "Services/Personal services/Travel, tourism and leisure"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1019",
       "Description": "Personal services, not elsewhere classified",
       "Three_Digit_Code": "101",
@@ -1219,7 +1219,7 @@
       "Definition": "Services/Personal services/Personal services, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1020",
       "Description": "Hygiene and occupational health services, not further defined",
       "Three_Digit_Code": "102",
@@ -1229,7 +1229,7 @@
       "Definition": "Services/Hygiene and occupational health/Hygiene and occupational health services, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1021",
       "Description": "Community sanitation",
       "Three_Digit_Code": "102",
@@ -1239,7 +1239,7 @@
       "Definition": "Services/Hygiene and occupational health/Community sanitation"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1022",
       "Description": "Occupational health and safety",
       "Three_Digit_Code": "102",
@@ -1249,7 +1249,7 @@
       "Definition": "Services/Hygiene and occupational health/Occupational health and safety"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1029",
       "Description": "Hygiene and occupational health services, not elsewhere classified",
       "Three_Digit_Code": "102",
@@ -1259,7 +1259,7 @@
       "Definition": "Services/Hygiene and occupational health/Hygiene and occupational health services, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1030",
       "Description": "Security services, not further defined",
       "Three_Digit_Code": "103",
@@ -1269,7 +1269,7 @@
       "Definition": "Services/Security services/Security services, not further defined"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1031",
       "Description": "Military and defence",
       "Three_Digit_Code": "103",
@@ -1279,7 +1279,7 @@
       "Definition": "Services/Security services/Military and defence"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1032",
       "Description": "Protection of persons and property",
       "Three_Digit_Code": "103",
@@ -1289,7 +1289,7 @@
       "Definition": "Services/Security services/Protection of persons and property"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1039",
       "Description": "Security services, not elsewhere classified",
       "Three_Digit_Code": "103",
@@ -1299,7 +1299,7 @@
       "Definition": "Services/Security services/Security services, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1041",
       "Description": "Transport services",
       "Three_Digit_Code": "104",
@@ -1309,7 +1309,7 @@
       "Definition": "Services/Transport services/Transport services"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1049",
       "Description": "Transport services, not elsewhere classified",
       "Three_Digit_Code": "104",
@@ -1319,7 +1319,7 @@
       "Definition": "Services/Transport services/Transport services, not elsewhere classified"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "1088",
       "Description": "Services, inter-disciplinary programmes",
       "Three_Digit_Code": "108",
@@ -1327,7 +1327,7 @@
       "Two_Digit_Description": "Services"
     },
     {
-      "Version": "2013",
+      "Version": "ISCED-F 2013",
       "Code": "9999",
       "Description": "Unknown",
       "Three_Digit_Code": "999",

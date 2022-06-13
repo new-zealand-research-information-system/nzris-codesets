@@ -1,13 +1,13 @@
 {
   "Name": ["New Zealand Standard Classification of Education (NZSCED) Field of Study"],
-  "Version": ["2.0.0"],
+  "Version": ["NZSCED 2.0.0"],
   "Released": ["29 September 2009"],
   "Updated": ["11 May 2008"],
   "Maintainer": ["Ministry of Education"],
   "URL": ["http://aria.stats.govt.nz/aria/?_ga=2.201158958.1898241935.1553828338-1963735472.1473022903#ClassificationView:uri=http://stats.govt.nz/cms/ClassificationVersion/CARS6497"],
   "data": [
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "000000",
       "Description": "No Qualification",
       "Four_Digit_Code": "0000",
@@ -17,7 +17,7 @@
       "Definition": "No Qualification/No Qualification/No Qualification"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010000",
       "Description": "Natural and Physical Sciences not further defined",
       "Four_Digit_Code": "0100",
@@ -27,7 +27,7 @@
       "Definition": "Natural and Physical Sciences/Natural and Physical Sciences not further defined/Natural and Physical Sciences not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010100",
       "Description": "Mathematical Sciences not further defined",
       "Four_Digit_Code": "0101",
@@ -37,7 +37,7 @@
       "Definition": "Natural and Physical Sciences/Mathematical Sciences/Mathematical Sciences not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010101",
       "Description": "Mathematics",
       "Four_Digit_Code": "0101",
@@ -47,7 +47,7 @@
       "Definition": "Natural and Physical Sciences/Mathematical Sciences/Mathematics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010103",
       "Description": "Statistics",
       "Four_Digit_Code": "0101",
@@ -57,7 +57,7 @@
       "Definition": "Natural and Physical Sciences/Mathematical Sciences/Statistics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010199",
       "Description": "Mathematical Sciences not elsewhere classified",
       "Four_Digit_Code": "0101",
@@ -67,7 +67,7 @@
       "Definition": "Natural and Physical Sciences/Mathematical Sciences/Mathematical Sciences not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010300",
       "Description": "Physics and Astronomy not further defined",
       "Four_Digit_Code": "0103",
@@ -77,7 +77,7 @@
       "Definition": "Natural and Physical Sciences/Physics and Astronomy/Physics and Astronomy not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010301",
       "Description": "Physics",
       "Four_Digit_Code": "0103",
@@ -87,7 +87,7 @@
       "Definition": "Natural and Physical Sciences/Physics and Astronomy/Physics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010303",
       "Description": "Astronomy",
       "Four_Digit_Code": "0103",
@@ -97,7 +97,7 @@
       "Definition": "Natural and Physical Sciences/Physics and Astronomy/Astronomy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010500",
       "Description": "Chemical Sciences not further defined",
       "Four_Digit_Code": "0105",
@@ -107,7 +107,7 @@
       "Definition": "Natural and Physical Sciences/Chemical Sciences/Chemical Sciences not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010501",
       "Description": "Organic Chemistry",
       "Four_Digit_Code": "0105",
@@ -117,7 +117,7 @@
       "Definition": "Natural and Physical Sciences/Chemical Sciences/Organic Chemistry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010503",
       "Description": "Inorganic Chemistry",
       "Four_Digit_Code": "0105",
@@ -127,7 +127,7 @@
       "Definition": "Natural and Physical Sciences/Chemical Sciences/Inorganic Chemistry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010599",
       "Description": "Chemical Sciences not elsewhere classified",
       "Four_Digit_Code": "0105",
@@ -137,7 +137,7 @@
       "Definition": "Natural and Physical Sciences/Chemical Sciences/Chemical Sciences not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010700",
       "Description": "Earth Sciences not further defined",
       "Four_Digit_Code": "0107",
@@ -147,7 +147,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Earth Sciences not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010701",
       "Description": "Atmospheric Sciences",
       "Four_Digit_Code": "0107",
@@ -157,7 +157,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Atmospheric Sciences"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010703",
       "Description": "Geology",
       "Four_Digit_Code": "0107",
@@ -167,7 +167,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Geology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010705",
       "Description": "Geophysics",
       "Four_Digit_Code": "0107",
@@ -177,7 +177,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Geophysics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010707",
       "Description": "Geochemistry",
       "Four_Digit_Code": "0107",
@@ -187,7 +187,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Geochemistry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010709",
       "Description": "Soil Science",
       "Four_Digit_Code": "0107",
@@ -197,7 +197,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Soil Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010711",
       "Description": "Hydrology",
       "Four_Digit_Code": "0107",
@@ -207,7 +207,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Hydrology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010713",
       "Description": "Oceanography",
       "Four_Digit_Code": "0107",
@@ -217,7 +217,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Oceanography"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010799",
       "Description": "Earth Sciences not elsewhere classified",
       "Four_Digit_Code": "0107",
@@ -227,7 +227,7 @@
       "Definition": "Natural and Physical Sciences/Earth Sciences/Earth Sciences not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010900",
       "Description": "Biological Sciences not further defined",
       "Four_Digit_Code": "0109",
@@ -237,7 +237,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Biological Sciences not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010901",
       "Description": "Biochemistry and Cell Biology",
       "Four_Digit_Code": "0109",
@@ -247,7 +247,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Biochemistry and Cell Biology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010903",
       "Description": "Botany",
       "Four_Digit_Code": "0109",
@@ -257,7 +257,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Botany"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010905",
       "Description": "Ecology and Evolution",
       "Four_Digit_Code": "0109",
@@ -267,7 +267,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Ecology and Evolution"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010907",
       "Description": "Marine Science",
       "Four_Digit_Code": "0109",
@@ -277,7 +277,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Marine Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010909",
       "Description": "Genetics",
       "Four_Digit_Code": "0109",
@@ -287,7 +287,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Genetics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010911",
       "Description": "Microbiology",
       "Four_Digit_Code": "0109",
@@ -297,7 +297,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Microbiology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010913",
       "Description": "Human Biology",
       "Four_Digit_Code": "0109",
@@ -307,7 +307,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Human Biology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010915",
       "Description": "Zoology",
       "Four_Digit_Code": "0109",
@@ -317,7 +317,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Zoology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010916",
       "Description": "Neuroscience",
       "Four_Digit_Code": "0109",
@@ -327,7 +327,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Neuroscience"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "010999",
       "Description": "Biological Sciences not elsewhere classified",
       "Four_Digit_Code": "0109",
@@ -337,7 +337,7 @@
       "Definition": "Natural and Physical Sciences/Biological Sciences/Biological Sciences not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "019900",
       "Description": "Other Natural and Physical Sciences not further defined",
       "Four_Digit_Code": "0199",
@@ -347,7 +347,7 @@
       "Definition": "Natural and Physical Sciences/Other Natural and Physical Sciences/Other Natural and Physical Sciences not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "019901",
       "Description": "Medical Science",
       "Four_Digit_Code": "0199",
@@ -357,7 +357,7 @@
       "Definition": "Natural and Physical Sciences/Other Natural and Physical Sciences/Medical Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "019903",
       "Description": "Forensic Science",
       "Four_Digit_Code": "0199",
@@ -367,7 +367,7 @@
       "Definition": "Natural and Physical Sciences/Other Natural and Physical Sciences/Forensic Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "019905",
       "Description": "Food Science and Biotechnology",
       "Four_Digit_Code": "0199",
@@ -377,7 +377,7 @@
       "Definition": "Natural and Physical Sciences/Other Natural and Physical Sciences/Food Science and Biotechnology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "019907",
       "Description": "Pharmacology",
       "Four_Digit_Code": "0199",
@@ -387,7 +387,7 @@
       "Definition": "Natural and Physical Sciences/Other Natural and Physical Sciences/Pharmacology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "019909",
       "Description": "Laboratory Technology",
       "Four_Digit_Code": "0199",
@@ -397,7 +397,7 @@
       "Definition": "Natural and Physical Sciences/Other Natural and Physical Sciences/Laboratory Technology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "019999",
       "Description": "Natural and Physical Sciences not elsewhere classified",
       "Four_Digit_Code": "0199",
@@ -407,7 +407,7 @@
       "Definition": "Natural and Physical Sciences/Other Natural and Physical Sciences/Natural and Physical Sciences not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020000",
       "Description": "Information Technology not further defined",
       "Four_Digit_Code": "0200",
@@ -417,7 +417,7 @@
       "Definition": "Information Technology/Information Technology not further defined/Information Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020100",
       "Description": "Computer Science not further defined",
       "Four_Digit_Code": "0201",
@@ -427,7 +427,7 @@
       "Definition": "Information Technology/Computer Science/Computer Science not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020101",
       "Description": "Formal Language Theory",
       "Four_Digit_Code": "0201",
@@ -437,7 +437,7 @@
       "Definition": "Information Technology/Computer Science/Formal Language Theory"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020103",
       "Description": "Computer Applications and Programming",
       "Four_Digit_Code": "0201",
@@ -447,7 +447,7 @@
       "Definition": "Information Technology/Computer Science/Computer Applications and Programming"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020105",
       "Description": "Computational Theory",
       "Four_Digit_Code": "0201",
@@ -457,7 +457,7 @@
       "Definition": "Information Technology/Computer Science/Computational Theory"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020107",
       "Description": "Compiler Construction",
       "Four_Digit_Code": "0201",
@@ -467,7 +467,7 @@
       "Definition": "Information Technology/Computer Science/Compiler Construction"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020109",
       "Description": "Algorithms",
       "Four_Digit_Code": "0201",
@@ -477,7 +477,7 @@
       "Definition": "Information Technology/Computer Science/Algorithms"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020111",
       "Description": "Data Structures",
       "Four_Digit_Code": "0201",
@@ -487,7 +487,7 @@
       "Definition": "Information Technology/Computer Science/Data Structures"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020113",
       "Description": "Networks and Communications",
       "Four_Digit_Code": "0201",
@@ -497,7 +497,7 @@
       "Definition": "Information Technology/Computer Science/Networks and Communications"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020115",
       "Description": "Multimedia Computing Science",
       "Four_Digit_Code": "0201",
@@ -507,7 +507,7 @@
       "Definition": "Information Technology/Computer Science/Multimedia Computing Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020117",
       "Description": "Operating Systems",
       "Four_Digit_Code": "0201",
@@ -517,7 +517,7 @@
       "Definition": "Information Technology/Computer Science/Operating Systems"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020119",
       "Description": "Artificial Intelligence",
       "Four_Digit_Code": "0201",
@@ -527,7 +527,7 @@
       "Definition": "Information Technology/Computer Science/Artificial Intelligence"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020199",
       "Description": "Computer Science not elsewhere classified",
       "Four_Digit_Code": "0201",
@@ -537,7 +537,7 @@
       "Definition": "Information Technology/Computer Science/Computer Science not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020300",
       "Description": "Information Systems not further defined",
       "Four_Digit_Code": "0203",
@@ -547,7 +547,7 @@
       "Definition": "Information Technology/Information Systems/Information Systems not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020301",
       "Description": "Conceptual Modelling",
       "Four_Digit_Code": "0203",
@@ -557,7 +557,7 @@
       "Definition": "Information Technology/Information Systems/Conceptual Modelling"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020303",
       "Description": "Database Management",
       "Four_Digit_Code": "0203",
@@ -567,7 +567,7 @@
       "Definition": "Information Technology/Information Systems/Database Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020305",
       "Description": "Systems Analysis and Design",
       "Four_Digit_Code": "0203",
@@ -577,7 +577,7 @@
       "Definition": "Information Technology/Information Systems/Systems Analysis and Design"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020307",
       "Description": "Decision Support Systems",
       "Four_Digit_Code": "0203",
@@ -587,7 +587,7 @@
       "Definition": "Information Technology/Information Systems/Decision Support Systems"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "020399",
       "Description": "Information Systems not elsewhere classified",
       "Four_Digit_Code": "0203",
@@ -597,7 +597,7 @@
       "Definition": "Information Technology/Information Systems/Information Systems not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "029900",
       "Description": "Other Information Technology not further defined",
       "Four_Digit_Code": "0299",
@@ -607,7 +607,7 @@
       "Definition": "Information Technology/Other Information Technology/Other Information Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "029901",
       "Description": "Security Science",
       "Four_Digit_Code": "0299",
@@ -617,7 +617,7 @@
       "Definition": "Information Technology/Other Information Technology/Security Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "029999",
       "Description": "Information Technology not elsewhere classified",
       "Four_Digit_Code": "0299",
@@ -627,7 +627,7 @@
       "Definition": "Information Technology/Other Information Technology/Information Technology not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030000",
       "Description": "Engineering and Related Technologies not further defined",
       "Four_Digit_Code": "0300",
@@ -637,7 +637,7 @@
       "Definition": "Engineering and Related Technologies/Engineering and Related Technologies not further defined/Engineering and Related Technologies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030100",
       "Description": "Manufacturing, Engineering and Technology not further defined",
       "Four_Digit_Code": "0301",
@@ -647,7 +647,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing, Engineering and Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030101",
       "Description": "Manufacturing Engineering",
       "Four_Digit_Code": "0301",
@@ -657,7 +657,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030103",
       "Description": "Printing",
       "Four_Digit_Code": "0301",
@@ -667,7 +667,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Printing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030105",
       "Description": "Textile Making",
       "Four_Digit_Code": "0301",
@@ -677,7 +677,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Textile Making"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030107",
       "Description": "Garment Making",
       "Four_Digit_Code": "0301",
@@ -687,7 +687,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Garment Making"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030108",
       "Description": "Plastics Processing Technology",
       "Four_Digit_Code": "0301",
@@ -697,7 +697,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Plastics Processing Technology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030109",
       "Description": "Footwear Making",
       "Four_Digit_Code": "0301",
@@ -707,7 +707,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Footwear Making"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030111",
       "Description": "Wood Machining and Turning",
       "Four_Digit_Code": "0301",
@@ -717,7 +717,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Wood Machining and Turning"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030113",
       "Description": "Cabinet Making",
       "Four_Digit_Code": "0301",
@@ -727,7 +727,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Cabinet Making"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030115",
       "Description": "Furniture Upholstery and Renovation",
       "Four_Digit_Code": "0301",
@@ -737,7 +737,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Furniture Upholstery and Renovation"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030117",
       "Description": "Furniture Polishing",
       "Four_Digit_Code": "0301",
@@ -747,7 +747,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Furniture Polishing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030199",
       "Description": "Manufacturing Engineering and Technology not elsewhere classified.",
       "Four_Digit_Code": "0301",
@@ -757,7 +757,7 @@
       "Definition": "Engineering and Related Technologies/Manufacturing, Engineering and Technology/Manufacturing Engineering and Technology not elsewhere classified."
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030300",
       "Description": "Process and Resources Engineering not further defined",
       "Four_Digit_Code": "0303",
@@ -767,7 +767,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Process and Resources Engineering not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030301",
       "Description": "Chemical Engineering",
       "Four_Digit_Code": "0303",
@@ -777,7 +777,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Chemical Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030303",
       "Description": "Mining and Resources Engineering",
       "Four_Digit_Code": "0303",
@@ -787,7 +787,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Mining and Resources Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030304",
       "Description": "Wood Based Manufacturing",
       "Four_Digit_Code": "0303",
@@ -797,7 +797,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Wood Based Manufacturing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030305",
       "Description": "Materials Engineering",
       "Four_Digit_Code": "0303",
@@ -807,7 +807,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Materials Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030306",
       "Description": "Ceramics, Industrial Glass and Rubber Manufacturing",
       "Four_Digit_Code": "0303",
@@ -817,7 +817,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Ceramics, Industrial Glass and Rubber Manufacturing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030307",
       "Description": "Food (excluding Seafood) Processing Technology",
       "Four_Digit_Code": "0303",
@@ -827,7 +827,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Food (excluding Seafood) Processing Technology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030308",
       "Description": "Seafood Processing",
       "Four_Digit_Code": "0303",
@@ -837,7 +837,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Seafood Processing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030399",
       "Description": "Process and Resources Engineering not elsewhere classified",
       "Four_Digit_Code": "0303",
@@ -847,7 +847,7 @@
       "Definition": "Engineering and Related Technologies/Process and Resources Engineering/Process and Resources Engineering not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030500",
       "Description": "Automotive Engineering and Technology not further defined",
       "Four_Digit_Code": "0305",
@@ -857,7 +857,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering and Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030501",
       "Description": "Automotive Engineering",
       "Four_Digit_Code": "0305",
@@ -867,7 +867,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030503",
       "Description": "Vehicle Mechanics",
       "Four_Digit_Code": "0305",
@@ -877,7 +877,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Vehicle Mechanics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030505",
       "Description": "Automotive Electrics and Electronics",
       "Four_Digit_Code": "0305",
@@ -887,7 +887,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Electrics and Electronics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030507",
       "Description": "Automotive Vehicle  Refinishing",
       "Four_Digit_Code": "0305",
@@ -897,7 +897,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Vehicle  Refinishing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030509",
       "Description": "Automotive Body Construction",
       "Four_Digit_Code": "0305",
@@ -907,7 +907,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Body Construction"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030511",
       "Description": "Panel Beating",
       "Four_Digit_Code": "0305",
@@ -917,7 +917,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Panel Beating"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030513",
       "Description": "Upholstery and Vehicle Trimming",
       "Four_Digit_Code": "0305",
@@ -927,7 +927,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Upholstery and Vehicle Trimming"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030515",
       "Description": "Automotive Vehicle Operations",
       "Four_Digit_Code": "0305",
@@ -937,7 +937,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Vehicle Operations"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030599",
       "Description": "Automotive Engineering and Technology not elsewhere classified",
       "Four_Digit_Code": "0305",
@@ -947,7 +947,7 @@
       "Definition": "Engineering and Related Technologies/Automotive Engineering and Technology/Automotive Engineering and Technology not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030700",
       "Description": "Mechanical and Industrial Engineering and Technology not further defined",
       "Four_Digit_Code": "0307",
@@ -957,7 +957,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical and Industrial Engineering and Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030701",
       "Description": "Mechanical Engineering",
       "Four_Digit_Code": "0307",
@@ -967,7 +967,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030703",
       "Description": "Industrial Engineering",
       "Four_Digit_Code": "0307",
@@ -977,7 +977,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Industrial Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030705",
       "Description": "Toolmaking",
       "Four_Digit_Code": "0307",
@@ -987,7 +987,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Toolmaking"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030707",
       "Description": "Metal Fitting, Turning and Machining",
       "Four_Digit_Code": "0307",
@@ -997,7 +997,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Metal Fitting, Turning and Machining"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030709",
       "Description": "Sheetmetal Working",
       "Four_Digit_Code": "0307",
@@ -1007,7 +1007,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Sheetmetal Working"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030711",
       "Description": "Boiler-making and Welding",
       "Four_Digit_Code": "0307",
@@ -1017,7 +1017,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Boiler-making and Welding"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030713",
       "Description": "Metal Casting and Pattern Making",
       "Four_Digit_Code": "0307",
@@ -1027,7 +1027,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Metal Casting and Pattern Making"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030715",
       "Description": "Precision Metalworking",
       "Four_Digit_Code": "0307",
@@ -1037,7 +1037,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Precision Metalworking"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030717",
       "Description": "Plant and Machine Operations",
       "Four_Digit_Code": "0307",
@@ -1047,7 +1047,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Plant and Machine Operations"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030799",
       "Description": "Mechanical and Industrial Engineering & Technology not elsewhere classified",
       "Four_Digit_Code": "0307",
@@ -1057,7 +1057,7 @@
       "Definition": "Engineering and Related Technologies/Mechanical and Industrial Engineering and Technology/Mechanical and Industrial Engineering & Technology not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030900",
       "Description": "Civil Engineering not further defined",
       "Four_Digit_Code": "0309",
@@ -1067,7 +1067,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Civil Engineering not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030901",
       "Description": "Construction Engineering",
       "Four_Digit_Code": "0309",
@@ -1077,7 +1077,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Construction Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030903",
       "Description": "Structural Engineering",
       "Four_Digit_Code": "0309",
@@ -1087,7 +1087,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Structural Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030905",
       "Description": "Building Services Engineering",
       "Four_Digit_Code": "0309",
@@ -1097,7 +1097,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Building Services Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030907",
       "Description": "Water and Sanitary Engineering",
       "Four_Digit_Code": "0309",
@@ -1107,7 +1107,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Water and Sanitary Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030909",
       "Description": "Transport Engineering",
       "Four_Digit_Code": "0309",
@@ -1117,7 +1117,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Transport Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030910",
       "Description": "Road Construction",
       "Four_Digit_Code": "0309",
@@ -1127,7 +1127,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Road Construction"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030911",
       "Description": "Geotechnical Engineering",
       "Four_Digit_Code": "0309",
@@ -1137,7 +1137,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Geotechnical Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030913",
       "Description": "Ocean Engineering",
       "Four_Digit_Code": "0309",
@@ -1147,7 +1147,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Ocean Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "030999",
       "Description": "Civil Engineering not elsewhere classified",
       "Four_Digit_Code": "0309",
@@ -1157,7 +1157,7 @@
       "Definition": "Engineering and Related Technologies/Civil Engineering/Civil Engineering not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031100",
       "Description": "Geomatic Engineering not further defined",
       "Four_Digit_Code": "0311",
@@ -1167,7 +1167,7 @@
       "Definition": "Engineering and Related Technologies/Geomatic Engineering/Geomatic Engineering not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031101",
       "Description": "Surveying",
       "Four_Digit_Code": "0311",
@@ -1177,7 +1177,7 @@
       "Definition": "Engineering and Related Technologies/Geomatic Engineering/Surveying"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031103",
       "Description": "Mapping Science",
       "Four_Digit_Code": "0311",
@@ -1187,7 +1187,7 @@
       "Definition": "Engineering and Related Technologies/Geomatic Engineering/Mapping Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031199",
       "Description": "Geomatic Engineering not elsewhere classified",
       "Four_Digit_Code": "0311",
@@ -1197,7 +1197,7 @@
       "Definition": "Engineering and Related Technologies/Geomatic Engineering/Geomatic Engineering not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031300",
       "Description": "Electrical and Electronic Engineering and Technology not further defined",
       "Four_Digit_Code": "0313",
@@ -1207,7 +1207,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical and Electronic Engineering and Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031301",
       "Description": "Electrical Engineering",
       "Four_Digit_Code": "0313",
@@ -1217,7 +1217,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031303",
       "Description": "Electronic Engineering",
       "Four_Digit_Code": "0313",
@@ -1227,7 +1227,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electronic Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031305",
       "Description": "Computer Engineering",
       "Four_Digit_Code": "0313",
@@ -1237,7 +1237,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Computer Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031307",
       "Description": "Communications Technologies",
       "Four_Digit_Code": "0313",
@@ -1247,7 +1247,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Communications Technologies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031309",
       "Description": "Communications Equipment Installation and Maintenance",
       "Four_Digit_Code": "0313",
@@ -1257,7 +1257,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Communications Equipment Installation and Maintenance"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031311",
       "Description": "Power Line Installation and Maintenance",
       "Four_Digit_Code": "0313",
@@ -1267,7 +1267,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Power Line Installation and Maintenance"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031313",
       "Description": "Electrical Fitting, Electrical Mechanics",
       "Four_Digit_Code": "0313",
@@ -1277,7 +1277,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical Fitting, Electrical Mechanics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031315",
       "Description": "Refrigeration, Heating and Air Conditioning",
       "Four_Digit_Code": "0313",
@@ -1287,7 +1287,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Refrigeration, Heating and Air Conditioning"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031317",
       "Description": "Electronic Equipment Servicing",
       "Four_Digit_Code": "0313",
@@ -1297,7 +1297,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electronic Equipment Servicing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031399",
       "Description": "Electrical and Electronic Engineering  and Technology not elsewhere classified",
       "Four_Digit_Code": "0313",
@@ -1307,7 +1307,7 @@
       "Definition": "Engineering and Related Technologies/Electrical and Electronic Engineering and Technology/Electrical and Electronic Engineering  and Technology not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031500",
       "Description": "Aerospace Engineering and Technology not further defined",
       "Four_Digit_Code": "0315",
@@ -1317,7 +1317,7 @@
       "Definition": "Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering and Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031501",
       "Description": "Aerospace Engineering",
       "Four_Digit_Code": "0315",
@@ -1327,7 +1327,7 @@
       "Definition": "Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031503",
       "Description": "Aircraft Maintenance Engineering",
       "Four_Digit_Code": "0315",
@@ -1337,7 +1337,7 @@
       "Definition": "Engineering and Related Technologies/Aerospace Engineering and Technology/Aircraft Maintenance Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031505",
       "Description": "Aircraft Operation",
       "Four_Digit_Code": "0315",
@@ -1347,7 +1347,7 @@
       "Definition": "Engineering and Related Technologies/Aerospace Engineering and Technology/Aircraft Operation"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031507",
       "Description": "Air Traffic Control",
       "Four_Digit_Code": "0315",
@@ -1357,7 +1357,7 @@
       "Definition": "Engineering and Related Technologies/Aerospace Engineering and Technology/Air Traffic Control"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031599",
       "Description": "Aerospace Engineering and Technology not elsewhere classified",
       "Four_Digit_Code": "0315",
@@ -1367,7 +1367,7 @@
       "Definition": "Engineering and Related Technologies/Aerospace Engineering and Technology/Aerospace Engineering and Technology not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031700",
       "Description": "Maritime Engineering and Technology not further defined",
       "Four_Digit_Code": "0317",
@@ -1377,7 +1377,7 @@
       "Definition": "Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering and Technology not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031701",
       "Description": "Maritime Engineering",
       "Four_Digit_Code": "0317",
@@ -1387,7 +1387,7 @@
       "Definition": "Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031703",
       "Description": "Marine Construction",
       "Four_Digit_Code": "0317",
@@ -1397,7 +1397,7 @@
       "Definition": "Engineering and Related Technologies/Maritime Engineering and Technology/Marine Construction"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031705",
       "Description": "Marine Craft Operation",
       "Four_Digit_Code": "0317",
@@ -1407,7 +1407,7 @@
       "Definition": "Engineering and Related Technologies/Maritime Engineering and Technology/Marine Craft Operation"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "031799",
       "Description": "Maritime Engineering and Technology not elsewhere classified",
       "Four_Digit_Code": "0317",
@@ -1417,7 +1417,7 @@
       "Definition": "Engineering and Related Technologies/Maritime Engineering and Technology/Maritime Engineering and Technology not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039900",
       "Description": "Other Engineering and Related Technologies not further defined",
       "Four_Digit_Code": "0399",
@@ -1427,7 +1427,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Other Engineering and Related Technologies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039901",
       "Description": "Environmental Engineering",
       "Four_Digit_Code": "0399",
@@ -1437,7 +1437,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Environmental Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039902",
       "Description": "Orthotics and Prosthetics",
       "Four_Digit_Code": "0399",
@@ -1447,7 +1447,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Orthotics and Prosthetics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039903",
       "Description": "Biomedical Engineering",
       "Four_Digit_Code": "0399",
@@ -1457,7 +1457,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Biomedical Engineering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039905",
       "Description": "Fire Technology and Rescue Services",
       "Four_Digit_Code": "0399",
@@ -1467,7 +1467,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Fire Technology and Rescue Services"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039907",
       "Description": "Rail Operations",
       "Four_Digit_Code": "0399",
@@ -1477,7 +1477,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Rail Operations"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039909",
       "Description": "Cleaning",
       "Four_Digit_Code": "0399",
@@ -1487,7 +1487,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Cleaning"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "039999",
       "Description": "Engineering and Related Technologies  not elsewhere classified",
       "Four_Digit_Code": "0399",
@@ -1497,7 +1497,7 @@
       "Definition": "Engineering and Related Technologies/Other Engineering and Related Technologies/Engineering and Related Technologies  not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040000",
       "Description": "Architecture and Building not further defined",
       "Four_Digit_Code": "0400",
@@ -1507,7 +1507,7 @@
       "Definition": "Architecture and Building/Architecture and Building not further defined/Architecture and Building not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040100",
       "Description": "Architecture and Urban Environment not further defined",
       "Four_Digit_Code": "0401",
@@ -1517,7 +1517,7 @@
       "Definition": "Architecture and Building/Architecture and Urban Environment/Architecture and Urban Environment not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040101",
       "Description": "Architecture",
       "Four_Digit_Code": "0401",
@@ -1527,7 +1527,7 @@
       "Definition": "Architecture and Building/Architecture and Urban Environment/Architecture"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040103",
       "Description": "Urban Design and Regional Planning",
       "Four_Digit_Code": "0401",
@@ -1537,7 +1537,7 @@
       "Definition": "Architecture and Building/Architecture and Urban Environment/Urban Design and Regional Planning"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040105",
       "Description": "Landscape Architecture",
       "Four_Digit_Code": "0401",
@@ -1547,7 +1547,7 @@
       "Definition": "Architecture and Building/Architecture and Urban Environment/Landscape Architecture"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040107",
       "Description": "Interior and Environmental Design",
       "Four_Digit_Code": "0401",
@@ -1557,7 +1557,7 @@
       "Definition": "Architecture and Building/Architecture and Urban Environment/Interior and Environmental Design"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040199",
       "Description": "Architecture and Urban Environment not elsewhere classified",
       "Four_Digit_Code": "0401",
@@ -1567,7 +1567,7 @@
       "Definition": "Architecture and Building/Architecture and Urban Environment/Architecture and Urban Environment not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040300",
       "Description": "Building not further defined",
       "Four_Digit_Code": "0403",
@@ -1577,7 +1577,7 @@
       "Definition": "Architecture and Building/Building/Building not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040301",
       "Description": "Building Science and Technology",
       "Four_Digit_Code": "0403",
@@ -1587,7 +1587,7 @@
       "Definition": "Architecture and Building/Building/Building Science and Technology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040303",
       "Description": "Building Construction Management",
       "Four_Digit_Code": "0403",
@@ -1597,7 +1597,7 @@
       "Definition": "Architecture and Building/Building/Building Construction Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040305",
       "Description": "Building Surveying (Inspection)",
       "Four_Digit_Code": "0403",
@@ -1607,7 +1607,7 @@
       "Definition": "Architecture and Building/Building/Building Surveying (Inspection)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040307",
       "Description": "Building Construction Economics (including Quantity Surveying)",
       "Four_Digit_Code": "0403",
@@ -1617,7 +1617,7 @@
       "Definition": "Architecture and Building/Building/Building Construction Economics (including Quantity Surveying)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040309",
       "Description": "Bricklaying and Stonemasonry",
       "Four_Digit_Code": "0403",
@@ -1627,7 +1627,7 @@
       "Definition": "Architecture and Building/Building/Bricklaying and Stonemasonry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040311",
       "Description": "Carpentry and Joinery",
       "Four_Digit_Code": "0403",
@@ -1637,7 +1637,7 @@
       "Definition": "Architecture and Building/Building/Carpentry and Joinery"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040313",
       "Description": "Ceiling, Wall and Floor Fixing",
       "Four_Digit_Code": "0403",
@@ -1647,7 +1647,7 @@
       "Definition": "Architecture and Building/Building/Ceiling, Wall and Floor Fixing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040315",
       "Description": "Roof Fixing",
       "Four_Digit_Code": "0403",
@@ -1657,7 +1657,7 @@
       "Definition": "Architecture and Building/Building/Roof Fixing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040317",
       "Description": "Plastering",
       "Four_Digit_Code": "0403",
@@ -1667,7 +1667,7 @@
       "Definition": "Architecture and Building/Building/Plastering"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040319",
       "Description": "Furnishing Installation",
       "Four_Digit_Code": "0403",
@@ -1677,7 +1677,7 @@
       "Definition": "Architecture and Building/Building/Furnishing Installation"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040321",
       "Description": "Floor Coverings",
       "Four_Digit_Code": "0403",
@@ -1687,7 +1687,7 @@
       "Definition": "Architecture and Building/Building/Floor Coverings"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040323",
       "Description": "Glazing",
       "Four_Digit_Code": "0403",
@@ -1697,7 +1697,7 @@
       "Definition": "Architecture and Building/Building/Glazing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040325",
       "Description": "Painting, Decorating, Sign Writing and Other Finishes",
       "Four_Digit_Code": "0403",
@@ -1707,7 +1707,7 @@
       "Definition": "Architecture and Building/Building/Painting, Decorating, Sign Writing and Other Finishes"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040327",
       "Description": "Plumbing, Gasfitting and Drainlaying",
       "Four_Digit_Code": "0403",
@@ -1717,7 +1717,7 @@
       "Definition": "Architecture and Building/Building/Plumbing, Gasfitting and Drainlaying"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040329",
       "Description": "Scaffolding and Rigging",
       "Four_Digit_Code": "0403",
@@ -1727,7 +1727,7 @@
       "Definition": "Architecture and Building/Building/Scaffolding and Rigging"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "040399",
       "Description": "Building not elsewhere classified",
       "Four_Digit_Code": "0403",
@@ -1737,7 +1737,7 @@
       "Definition": "Architecture and Building/Building/Building not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050000",
       "Description": "Agriculture, Environmental and Related Studies not further defined",
       "Four_Digit_Code": "0500",
@@ -1747,7 +1747,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture, Environmental and Related Studies not further defined/Agriculture, Environmental and Related Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050100",
       "Description": "Agriculture not further defined",
       "Four_Digit_Code": "0501",
@@ -1757,7 +1757,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Agriculture not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050101",
       "Description": "Agricultural Science",
       "Four_Digit_Code": "0501",
@@ -1767,7 +1767,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Agricultural Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050103",
       "Description": "Wool and Fibre Science",
       "Four_Digit_Code": "0501",
@@ -1777,7 +1777,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Wool and Fibre Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050104",
       "Description": "Beekeeping",
       "Four_Digit_Code": "0501",
@@ -1787,7 +1787,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Beekeeping"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050105",
       "Description": "Animal Husbandry",
       "Four_Digit_Code": "0501",
@@ -1797,7 +1797,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Animal Husbandry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050106",
       "Description": "Crop Production",
       "Four_Digit_Code": "0501",
@@ -1807,7 +1807,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Crop Production"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050108",
       "Description": "Equine Trades",
       "Four_Digit_Code": "0501",
@@ -1817,7 +1817,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Equine Trades"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050110",
       "Description": "Wool and Fibre Harvesting",
       "Four_Digit_Code": "0501",
@@ -1827,7 +1827,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Wool and Fibre Harvesting"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050112",
       "Description": "General Land Skills",
       "Four_Digit_Code": "0501",
@@ -1837,7 +1837,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/General Land Skills"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050199",
       "Description": "Agriculture not elsewhere classified",
       "Four_Digit_Code": "0501",
@@ -1847,7 +1847,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Agriculture/Agriculture not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050300",
       "Description": "Horticulture and Viticulture not further defined",
       "Four_Digit_Code": "0503",
@@ -1857,7 +1857,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Horticulture and Viticulture not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050301",
       "Description": "Horticulture",
       "Four_Digit_Code": "0503",
@@ -1867,7 +1867,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Horticulture"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050303",
       "Description": "Viticulture",
       "Four_Digit_Code": "0503",
@@ -1877,7 +1877,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Horticulture and Viticulture/Viticulture"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050500",
       "Description": "Forestry Studies not further defined",
       "Four_Digit_Code": "0505",
@@ -1887,7 +1887,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Forestry Studies/Forestry Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050501",
       "Description": "Forestry Studies",
       "Four_Digit_Code": "0505",
@@ -1897,7 +1897,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Forestry Studies/Forestry Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050502",
       "Description": "Solid Wood Processing",
       "Four_Digit_Code": "0505",
@@ -1907,7 +1907,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Forestry Studies/Solid Wood Processing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050700",
       "Description": "Fisheries Studies not further defined",
       "Four_Digit_Code": "0507",
@@ -1917,7 +1917,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Fisheries Studies/Fisheries Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050701",
       "Description": "Aquaculture",
       "Four_Digit_Code": "0507",
@@ -1927,7 +1927,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Fisheries Studies/Aquaculture"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050702",
       "Description": "Seafood Harvesting (Fishing)",
       "Four_Digit_Code": "0507",
@@ -1937,7 +1937,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Fisheries Studies/Seafood Harvesting (Fishing)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050799",
       "Description": "Fisheries  Studies not elsewhere classified",
       "Four_Digit_Code": "0507",
@@ -1947,7 +1947,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Fisheries Studies/Fisheries  Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050900",
       "Description": "Environmental Studies not further defined",
       "Four_Digit_Code": "0509",
@@ -1957,7 +1957,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050901",
       "Description": "Land, Parks and Wildlife Management",
       "Four_Digit_Code": "0509",
@@ -1967,7 +1967,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Environmental Studies/Land, Parks and Wildlife Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050902",
       "Description": "Environmental Sustainability",
       "Four_Digit_Code": "0509",
@@ -1977,7 +1977,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Sustainability"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "050999",
       "Description": "Environmental Studies not elsewhere classified",
       "Four_Digit_Code": "0509",
@@ -1987,7 +1987,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Environmental Studies/Environmental Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "059900",
       "Description": "Other Agriculture, Environmental and Related Studies not further defined",
       "Four_Digit_Code": "0599",
@@ -1997,7 +1997,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "059901",
       "Description": "Pest and Weed Control",
       "Four_Digit_Code": "0599",
@@ -2007,7 +2007,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Pest and Weed Control"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "059999",
       "Description": "Agriculture, Environmental and Related Studies not elsewhere classified",
       "Four_Digit_Code": "0599",
@@ -2017,7 +2017,7 @@
       "Definition": "Agriculture, Environmental and Related Studies/Other Agriculture, Environmental and Related Studies/Agriculture, Environmental and Related Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060000",
       "Description": "Health not further defined",
       "Four_Digit_Code": "0600",
@@ -2027,7 +2027,7 @@
       "Definition": "Health/Health not further defined/Health not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060100",
       "Description": "Medical Studies not further defined",
       "Four_Digit_Code": "0601",
@@ -2037,7 +2037,7 @@
       "Definition": "Health/Medical Studies/Medical Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060101",
       "Description": "General Medicine",
       "Four_Digit_Code": "0601",
@@ -2047,7 +2047,7 @@
       "Definition": "Health/Medical Studies/General Medicine"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060103",
       "Description": "Surgery",
       "Four_Digit_Code": "0601",
@@ -2057,7 +2057,7 @@
       "Definition": "Health/Medical Studies/Surgery"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060105",
       "Description": "Psychiatry",
       "Four_Digit_Code": "0601",
@@ -2067,7 +2067,7 @@
       "Definition": "Health/Medical Studies/Psychiatry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060107",
       "Description": "Obstetrics and Gynaecology",
       "Four_Digit_Code": "0601",
@@ -2077,7 +2077,7 @@
       "Definition": "Health/Medical Studies/Obstetrics and Gynaecology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060109",
       "Description": "Paediatrics",
       "Four_Digit_Code": "0601",
@@ -2087,7 +2087,7 @@
       "Definition": "Health/Medical Studies/Paediatrics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060111",
       "Description": "Anaesthesiology",
       "Four_Digit_Code": "0601",
@@ -2097,7 +2097,7 @@
       "Definition": "Health/Medical Studies/Anaesthesiology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060113",
       "Description": "Pathology",
       "Four_Digit_Code": "0601",
@@ -2107,7 +2107,7 @@
       "Definition": "Health/Medical Studies/Pathology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060115",
       "Description": "Radiology",
       "Four_Digit_Code": "0601",
@@ -2117,7 +2117,7 @@
       "Definition": "Health/Medical Studies/Radiology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060117",
       "Description": "Internal Medicine",
       "Four_Digit_Code": "0601",
@@ -2127,7 +2127,7 @@
       "Definition": "Health/Medical Studies/Internal Medicine"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060119",
       "Description": "General Practice Medicine",
       "Four_Digit_Code": "0601",
@@ -2137,7 +2137,7 @@
       "Definition": "Health/Medical Studies/General Practice Medicine"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060199",
       "Description": "Medical Studies not elsewhere classified",
       "Four_Digit_Code": "0601",
@@ -2147,7 +2147,7 @@
       "Definition": "Health/Medical Studies/Medical Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060300",
       "Description": "Nursing not further defined",
       "Four_Digit_Code": "0603",
@@ -2157,7 +2157,7 @@
       "Definition": "Health/Nursing/Nursing not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060301",
       "Description": "Nursing",
       "Four_Digit_Code": "0603",
@@ -2167,7 +2167,7 @@
       "Definition": "Health/Nursing/Nursing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060303",
       "Description": "Midwifery",
       "Four_Digit_Code": "0603",
@@ -2177,7 +2177,7 @@
       "Definition": "Health/Nursing/Midwifery"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060308",
       "Description": "Health Care Assistant",
       "Four_Digit_Code": "0603",
@@ -2187,7 +2187,7 @@
       "Definition": "Health/Nursing/Health Care Assistant"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060399",
       "Description": "Nursing not elsewhere classified",
       "Four_Digit_Code": "0603",
@@ -2197,7 +2197,7 @@
       "Definition": "Health/Nursing/Nursing not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060500",
       "Description": "Pharmacy not further defined",
       "Four_Digit_Code": "0605",
@@ -2207,7 +2207,7 @@
       "Definition": "Health/Pharmacy/Pharmacy not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060501",
       "Description": "Pharmacy",
       "Four_Digit_Code": "0605",
@@ -2217,7 +2217,7 @@
       "Definition": "Health/Pharmacy/Pharmacy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060700",
       "Description": "Dental Studies not further defined",
       "Four_Digit_Code": "0607",
@@ -2227,7 +2227,7 @@
       "Definition": "Health/Dental Studies/Dental Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060701",
       "Description": "Dentistry",
       "Four_Digit_Code": "0607",
@@ -2237,7 +2237,7 @@
       "Definition": "Health/Dental Studies/Dentistry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060704",
       "Description": "Dental Hygiene and Therapy",
       "Four_Digit_Code": "0607",
@@ -2247,7 +2247,7 @@
       "Definition": "Health/Dental Studies/Dental Hygiene and Therapy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060705",
       "Description": "Dental Technology",
       "Four_Digit_Code": "0607",
@@ -2257,7 +2257,7 @@
       "Definition": "Health/Dental Studies/Dental Technology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060799",
       "Description": "Dental Studies not elsewhere classified",
       "Four_Digit_Code": "0607",
@@ -2267,7 +2267,7 @@
       "Definition": "Health/Dental Studies/Dental Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060900",
       "Description": "Optical Science not further defined",
       "Four_Digit_Code": "0609",
@@ -2277,7 +2277,7 @@
       "Definition": "Health/Optical Science/Optical Science not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060901",
       "Description": "Optometry",
       "Four_Digit_Code": "0609",
@@ -2287,7 +2287,7 @@
       "Definition": "Health/Optical Science/Optometry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060903",
       "Description": "Optical Technology",
       "Four_Digit_Code": "0609",
@@ -2297,7 +2297,7 @@
       "Definition": "Health/Optical Science/Optical Technology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "060999",
       "Description": "Optical Science not elsewhere classified",
       "Four_Digit_Code": "0609",
@@ -2307,7 +2307,7 @@
       "Definition": "Health/Optical Science/Optical Science not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061100",
       "Description": "Veterinary Studies not further defined",
       "Four_Digit_Code": "0611",
@@ -2317,7 +2317,7 @@
       "Definition": "Health/Veterinary Studies/Veterinary Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061101",
       "Description": "Veterinary Science",
       "Four_Digit_Code": "0611",
@@ -2327,7 +2327,7 @@
       "Definition": "Health/Veterinary Studies/Veterinary Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061103",
       "Description": "Veterinary Assisting",
       "Four_Digit_Code": "0611",
@@ -2337,7 +2337,7 @@
       "Definition": "Health/Veterinary Studies/Veterinary Assisting"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061199",
       "Description": "Veterinary Studies not elsewhere classified",
       "Four_Digit_Code": "0611",
@@ -2347,7 +2347,7 @@
       "Definition": "Health/Veterinary Studies/Veterinary Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061300",
       "Description": "Public Health not further defined",
       "Four_Digit_Code": "0613",
@@ -2357,7 +2357,7 @@
       "Definition": "Health/Public Health/Public Health not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061301",
       "Description": "Occupational Health and Safety",
       "Four_Digit_Code": "0613",
@@ -2367,7 +2367,7 @@
       "Definition": "Health/Public Health/Occupational Health and Safety"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061303",
       "Description": "Environmental Health",
       "Four_Digit_Code": "0613",
@@ -2377,7 +2377,7 @@
       "Definition": "Health/Public Health/Environmental Health"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061304",
       "Description": "Hauora (Māori Health)",
       "Four_Digit_Code": "0613",
@@ -2387,7 +2387,7 @@
       "Definition": "Health/Public Health/Hauora (Māori Health)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061307",
       "Description": "Health Education,  Promotion, Counselling",
       "Four_Digit_Code": "0613",
@@ -2397,7 +2397,7 @@
       "Definition": "Health/Public Health/Health Education,  Promotion, Counselling"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061309",
       "Description": "Community Health",
       "Four_Digit_Code": "0613",
@@ -2407,7 +2407,7 @@
       "Definition": "Health/Public Health/Community Health"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061311",
       "Description": "Epidemiology",
       "Four_Digit_Code": "0613",
@@ -2417,7 +2417,7 @@
       "Definition": "Health/Public Health/Epidemiology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061399",
       "Description": "Public Health not elsewhere classified",
       "Four_Digit_Code": "0613",
@@ -2427,7 +2427,7 @@
       "Definition": "Health/Public Health/Public Health not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061500",
       "Description": "Radiography  not further defined",
       "Four_Digit_Code": "0615",
@@ -2437,7 +2437,7 @@
       "Definition": "Health/Radiography/Radiography  not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061501",
       "Description": "Medical Imaging Technology (Radiography) and Radiation Therapy",
       "Four_Digit_Code": "0615",
@@ -2447,7 +2447,7 @@
       "Definition": "Health/Radiography/Medical Imaging Technology (Radiography) and Radiation Therapy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061700",
       "Description": "Rehabilitation Therapies not further defined",
       "Four_Digit_Code": "0617",
@@ -2457,7 +2457,7 @@
       "Definition": "Health/Rehabilitation Therapies/Rehabilitation Therapies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061701",
       "Description": "Physiotherapy",
       "Four_Digit_Code": "0617",
@@ -2467,7 +2467,7 @@
       "Definition": "Health/Rehabilitation Therapies/Physiotherapy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061703",
       "Description": "Occupational Therapy",
       "Four_Digit_Code": "0617",
@@ -2477,7 +2477,7 @@
       "Definition": "Health/Rehabilitation Therapies/Occupational Therapy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061705",
       "Description": "Chiropractic and Osteopathy",
       "Four_Digit_Code": "0617",
@@ -2487,7 +2487,7 @@
       "Definition": "Health/Rehabilitation Therapies/Chiropractic and Osteopathy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061707",
       "Description": "Speech Pathology",
       "Four_Digit_Code": "0617",
@@ -2497,7 +2497,7 @@
       "Definition": "Health/Rehabilitation Therapies/Speech Pathology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061709",
       "Description": "Audiology",
       "Four_Digit_Code": "0617",
@@ -2507,7 +2507,7 @@
       "Definition": "Health/Rehabilitation Therapies/Audiology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061711",
       "Description": "Massage Therapy",
       "Four_Digit_Code": "0617",
@@ -2517,7 +2517,7 @@
       "Definition": "Health/Rehabilitation Therapies/Massage Therapy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061713",
       "Description": "Podiatry",
       "Four_Digit_Code": "0617",
@@ -2527,7 +2527,7 @@
       "Definition": "Health/Rehabilitation Therapies/Podiatry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061799",
       "Description": "Rehabilitation Therapies not elsewhere classified",
       "Four_Digit_Code": "0617",
@@ -2537,7 +2537,7 @@
       "Definition": "Health/Rehabilitation Therapies/Rehabilitation Therapies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061900",
       "Description": "Complementary Therapies not further defined",
       "Four_Digit_Code": "0619",
@@ -2547,7 +2547,7 @@
       "Definition": "Health/Complementary Therapies/Complementary Therapies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061901",
       "Description": "Naturopathy and Homeopathy",
       "Four_Digit_Code": "0619",
@@ -2557,7 +2557,7 @@
       "Definition": "Health/Complementary Therapies/Naturopathy and Homeopathy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061903",
       "Description": "Acupuncture",
       "Four_Digit_Code": "0619",
@@ -2567,7 +2567,7 @@
       "Definition": "Health/Complementary Therapies/Acupuncture"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061905",
       "Description": "Traditional Chinese Medicine",
       "Four_Digit_Code": "0619",
@@ -2577,7 +2577,7 @@
       "Definition": "Health/Complementary Therapies/Traditional Chinese Medicine"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "061999",
       "Description": "Complementary Therapies not elsewhere classified",
       "Four_Digit_Code": "0619",
@@ -2587,7 +2587,7 @@
       "Definition": "Health/Complementary Therapies/Complementary Therapies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "069900",
       "Description": "Other Health not further defined",
       "Four_Digit_Code": "0699",
@@ -2597,7 +2597,7 @@
       "Definition": "Health/Other Health/Other Health not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "069901",
       "Description": "Nutrition and Dietetics",
       "Four_Digit_Code": "0699",
@@ -2607,7 +2607,7 @@
       "Definition": "Health/Other Health/Nutrition and Dietetics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "069903",
       "Description": "Human Movement and Sports Science",
       "Four_Digit_Code": "0699",
@@ -2617,7 +2617,7 @@
       "Definition": "Health/Other Health/Human Movement and Sports Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "069905",
       "Description": "Paramedical Studies",
       "Four_Digit_Code": "0699",
@@ -2627,7 +2627,7 @@
       "Definition": "Health/Other Health/Paramedical Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "069907",
       "Description": "First Aid",
       "Four_Digit_Code": "0699",
@@ -2637,7 +2637,7 @@
       "Definition": "Health/Other Health/First Aid"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "069999",
       "Description": "Health not elsewhere classified",
       "Four_Digit_Code": "0699",
@@ -2647,7 +2647,7 @@
       "Definition": "Health/Other Health/Health not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070000",
       "Description": "Education not further defined",
       "Four_Digit_Code": "0700",
@@ -2657,7 +2657,7 @@
       "Definition": "Education/Education not further defined/Education not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070100",
       "Description": "Teacher Education not further defined",
       "Four_Digit_Code": "0701",
@@ -2667,7 +2667,7 @@
       "Definition": "Education/Teacher Education/Teacher Education not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070101",
       "Description": "Teacher Education: Early Childhood (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2677,7 +2677,7 @@
       "Definition": "Education/Teacher Education/Teacher Education: Early Childhood (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070103",
       "Description": "Teacher Education: Primary (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2687,7 +2687,7 @@
       "Definition": "Education/Teacher Education/Teacher Education: Primary (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070105",
       "Description": "Teacher Education: Secondary (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2697,7 +2697,7 @@
       "Definition": "Education/Teacher Education/Teacher Education: Secondary (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070106",
       "Description": "Teacher Education:  Tertiary",
       "Four_Digit_Code": "0701",
@@ -2707,7 +2707,7 @@
       "Definition": "Education/Teacher Education/Teacher Education:  Tertiary"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070108",
       "Description": "Teacher Education: General (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2717,7 +2717,7 @@
       "Definition": "Education/Teacher Education/Teacher Education: General (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070113",
       "Description": "Teacher Education: Special Education",
       "Four_Digit_Code": "0701",
@@ -2727,7 +2727,7 @@
       "Definition": "Education/Teacher Education/Teacher Education: Special Education"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070115",
       "Description": "English Language Teaching(ESOL/EFL)",
       "Four_Digit_Code": "0701",
@@ -2737,7 +2737,7 @@
       "Definition": "Education/Teacher Education/English Language Teaching(ESOL/EFL)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070116",
       "Description": "Te Mātauranga Māori me te Whakangungu (Māori Education)",
       "Four_Digit_Code": "0701",
@@ -2747,7 +2747,7 @@
       "Definition": "Education/Teacher Education/Te Mātauranga Māori me te Whakangungu (Māori Education)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070118",
       "Description": "Bilingual Early Childhood Teacher Training (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2757,7 +2757,7 @@
       "Definition": "Education/Teacher Education/Bilingual Early Childhood Teacher Training (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070120",
       "Description": "Immersion Early Childhood Teacher Training (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2767,7 +2767,7 @@
       "Definition": "Education/Teacher Education/Immersion Early Childhood Teacher Training (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070122",
       "Description": "Bilingual Primary Teacher Training (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2777,7 +2777,7 @@
       "Definition": "Education/Teacher Education/Bilingual Primary Teacher Training (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070124",
       "Description": "Immersion Primary Teacher Training (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2787,7 +2787,7 @@
       "Definition": "Education/Teacher Education/Immersion Primary Teacher Training (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070126",
       "Description": "Bilingual Secondary Teacher Training (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2797,7 +2797,7 @@
       "Definition": "Education/Teacher Education/Bilingual Secondary Teacher Training (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070128",
       "Description": "Immersion Secondary Teacher Training (Pre-Service)",
       "Four_Digit_Code": "0701",
@@ -2807,7 +2807,7 @@
       "Definition": "Education/Teacher Education/Immersion Secondary Teacher Training (Pre-Service)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070130",
       "Description": "Teacher Professional Development",
       "Four_Digit_Code": "0701",
@@ -2817,7 +2817,7 @@
       "Definition": "Education/Teacher Education/Teacher Professional Development"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070199",
       "Description": "Teacher Education not elsewhere classified",
       "Four_Digit_Code": "0701",
@@ -2827,7 +2827,7 @@
       "Definition": "Education/Teacher Education/Teacher Education not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070300",
       "Description": "Curriculum and Education Studies not further defined",
       "Four_Digit_Code": "0703",
@@ -2837,7 +2837,7 @@
       "Definition": "Education/Curriculum and Education Studies/Curriculum and Education Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070301",
       "Description": "Curriculum Studies",
       "Four_Digit_Code": "0703",
@@ -2847,7 +2847,7 @@
       "Definition": "Education/Curriculum and Education Studies/Curriculum Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "070303",
       "Description": "Education Studies",
       "Four_Digit_Code": "0703",
@@ -2857,7 +2857,7 @@
       "Definition": "Education/Curriculum and Education Studies/Education Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "079900",
       "Description": "Other Education not further defined",
       "Four_Digit_Code": "0799",
@@ -2867,7 +2867,7 @@
       "Definition": "Education/Other Education/Other Education not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "079999",
       "Description": "Education not elsewhere classified",
       "Four_Digit_Code": "0799",
@@ -2877,7 +2877,7 @@
       "Definition": "Education/Other Education/Education not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080000",
       "Description": "Management and Commerce not further defined",
       "Four_Digit_Code": "0800",
@@ -2887,7 +2887,7 @@
       "Definition": "Management and Commerce/Management and Commerce not further defined/Management and Commerce not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080100",
       "Description": "Accountancy not further defined",
       "Four_Digit_Code": "0801",
@@ -2897,7 +2897,7 @@
       "Definition": "Management and Commerce/Accountancy/Accountancy not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080101",
       "Description": "Accounting",
       "Four_Digit_Code": "0801",
@@ -2907,7 +2907,7 @@
       "Definition": "Management and Commerce/Accountancy/Accounting"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080199",
       "Description": "Accountancy not elsewhere classified",
       "Four_Digit_Code": "0801",
@@ -2917,7 +2917,7 @@
       "Definition": "Management and Commerce/Accountancy/Accountancy not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080300",
       "Description": "Business and Management not further defined",
       "Four_Digit_Code": "0803",
@@ -2927,7 +2927,7 @@
       "Definition": "Management and Commerce/Business and Management/Business and Management not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080301",
       "Description": "Business Management",
       "Four_Digit_Code": "0803",
@@ -2937,7 +2937,7 @@
       "Definition": "Management and Commerce/Business and Management/Business Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080303",
       "Description": "Human Resource Management",
       "Four_Digit_Code": "0803",
@@ -2947,7 +2947,7 @@
       "Definition": "Management and Commerce/Business and Management/Human Resource Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080305",
       "Description": "Personal Management Training",
       "Four_Digit_Code": "0803",
@@ -2957,7 +2957,7 @@
       "Definition": "Management and Commerce/Business and Management/Personal Management Training"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080307",
       "Description": "Organisation Management",
       "Four_Digit_Code": "0803",
@@ -2967,7 +2967,7 @@
       "Definition": "Management and Commerce/Business and Management/Organisation Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080309",
       "Description": "Industrial Relations",
       "Four_Digit_Code": "0803",
@@ -2977,7 +2977,7 @@
       "Definition": "Management and Commerce/Business and Management/Industrial Relations"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080311",
       "Description": "International Business",
       "Four_Digit_Code": "0803",
@@ -2987,7 +2987,7 @@
       "Definition": "Management and Commerce/Business and Management/International Business"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080312",
       "Description": "Education Administration",
       "Four_Digit_Code": "0803",
@@ -2997,7 +2997,7 @@
       "Definition": "Management and Commerce/Business and Management/Education Administration"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080313",
       "Description": "Public and Health Care Administration",
       "Four_Digit_Code": "0803",
@@ -3007,7 +3007,7 @@
       "Definition": "Management and Commerce/Business and Management/Public and Health Care Administration"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080315",
       "Description": "Project Management",
       "Four_Digit_Code": "0803",
@@ -3017,7 +3017,7 @@
       "Definition": "Management and Commerce/Business and Management/Project Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080317",
       "Description": "Quality Management",
       "Four_Digit_Code": "0803",
@@ -3027,7 +3027,7 @@
       "Definition": "Management and Commerce/Business and Management/Quality Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080319",
       "Description": "Hospitality Management",
       "Four_Digit_Code": "0803",
@@ -3037,7 +3037,7 @@
       "Definition": "Management and Commerce/Business and Management/Hospitality Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080320",
       "Description": "Racing and Gaming Management",
       "Four_Digit_Code": "0803",
@@ -3047,7 +3047,7 @@
       "Definition": "Management and Commerce/Business and Management/Racing and Gaming Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080321",
       "Description": "Farm Management and Agribusiness",
       "Four_Digit_Code": "0803",
@@ -3057,7 +3057,7 @@
       "Definition": "Management and Commerce/Business and Management/Farm Management and Agribusiness"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080323",
       "Description": "Tourism Management",
       "Four_Digit_Code": "0803",
@@ -3067,7 +3067,7 @@
       "Definition": "Management and Commerce/Business and Management/Tourism Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080399",
       "Description": "Business and Management not elsewhere classified",
       "Four_Digit_Code": "0803",
@@ -3077,7 +3077,7 @@
       "Definition": "Management and Commerce/Business and Management/Business and Management not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080500",
       "Description": "Sales and Marketing not further defined",
       "Four_Digit_Code": "0805",
@@ -3087,7 +3087,7 @@
       "Definition": "Management and Commerce/Sales and Marketing/Sales and Marketing not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080501",
       "Description": "Sales",
       "Four_Digit_Code": "0805",
@@ -3097,7 +3097,7 @@
       "Definition": "Management and Commerce/Sales and Marketing/Sales"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080503",
       "Description": "Real Estate",
       "Four_Digit_Code": "0805",
@@ -3107,7 +3107,7 @@
       "Definition": "Management and Commerce/Sales and Marketing/Real Estate"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080505",
       "Description": "Marketing",
       "Four_Digit_Code": "0805",
@@ -3117,7 +3117,7 @@
       "Definition": "Management and Commerce/Sales and Marketing/Marketing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080507",
       "Description": "Advertising",
       "Four_Digit_Code": "0805",
@@ -3127,7 +3127,7 @@
       "Definition": "Management and Commerce/Sales and Marketing/Advertising"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080509",
       "Description": "Public Relations",
       "Four_Digit_Code": "0805",
@@ -3137,7 +3137,7 @@
       "Definition": "Management and Commerce/Sales and Marketing/Public Relations"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080599",
       "Description": "Sales and Marketing not elsewhere classified",
       "Four_Digit_Code": "0805",
@@ -3147,7 +3147,7 @@
       "Definition": "Management and Commerce/Sales and Marketing/Sales and Marketing not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080700",
       "Description": "Tourism not further defined",
       "Four_Digit_Code": "0807",
@@ -3157,7 +3157,7 @@
       "Definition": "Management and Commerce/Tourism/Tourism not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080701",
       "Description": "Tourism Studies",
       "Four_Digit_Code": "0807",
@@ -3167,7 +3167,7 @@
       "Definition": "Management and Commerce/Tourism/Tourism Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080900",
       "Description": "Office Administration not further defined",
       "Four_Digit_Code": "0809",
@@ -3177,7 +3177,7 @@
       "Definition": "Management and Commerce/Office Administration/Office Administration not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080901",
       "Description": "General Office Administration",
       "Four_Digit_Code": "0809",
@@ -3187,7 +3187,7 @@
       "Definition": "Management and Commerce/Office Administration/General Office Administration"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080904",
       "Description": "Text and Information Processing",
       "Four_Digit_Code": "0809",
@@ -3197,7 +3197,7 @@
       "Definition": "Management and Commerce/Office Administration/Text and Information Processing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "080999",
       "Description": "Office Administration not elsewhere classified",
       "Four_Digit_Code": "0809",
@@ -3207,7 +3207,7 @@
       "Definition": "Management and Commerce/Office Administration/Office Administration not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "081100",
       "Description": "Banking, Finance and Related Fields not further defined",
       "Four_Digit_Code": "0811",
@@ -3217,7 +3217,7 @@
       "Definition": "Management and Commerce/Banking, Finance and Related Fields/Banking, Finance and Related Fields not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "081101",
       "Description": "Banking and Finance",
       "Four_Digit_Code": "0811",
@@ -3227,7 +3227,7 @@
       "Definition": "Management and Commerce/Banking, Finance and Related Fields/Banking and Finance"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "081103",
       "Description": "Insurance and Actuarial Studies",
       "Four_Digit_Code": "0811",
@@ -3237,7 +3237,7 @@
       "Definition": "Management and Commerce/Banking, Finance and Related Fields/Insurance and Actuarial Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "081105",
       "Description": "Investment and Securities",
       "Four_Digit_Code": "0811",
@@ -3247,7 +3247,7 @@
       "Definition": "Management and Commerce/Banking, Finance and Related Fields/Investment and Securities"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "081199",
       "Description": "Banking, Finance and Related Fields not elsewhere classified",
       "Four_Digit_Code": "0811",
@@ -3257,7 +3257,7 @@
       "Definition": "Management and Commerce/Banking, Finance and Related Fields/Banking, Finance and Related Fields not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "089900",
       "Description": "Other Management and Commerce not further defined",
       "Four_Digit_Code": "0899",
@@ -3267,7 +3267,7 @@
       "Definition": "Management and Commerce/Other Management and Commerce/Other Management and Commerce not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "089901",
       "Description": "Purchasing, Warehousing and Distribution",
       "Four_Digit_Code": "0899",
@@ -3277,7 +3277,7 @@
       "Definition": "Management and Commerce/Other Management and Commerce/Purchasing, Warehousing and Distribution"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "089903",
       "Description": "Valuation",
       "Four_Digit_Code": "0899",
@@ -3287,7 +3287,7 @@
       "Definition": "Management and Commerce/Other Management and Commerce/Valuation"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "089905",
       "Description": "e-Commerce",
       "Four_Digit_Code": "0899",
@@ -3297,7 +3297,7 @@
       "Definition": "Management and Commerce/Other Management and Commerce/e-Commerce"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "089999",
       "Description": "Management and Commerce not elsewhere classified",
       "Four_Digit_Code": "0899",
@@ -3307,7 +3307,7 @@
       "Definition": "Management and Commerce/Other Management and Commerce/Management and Commerce not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090000",
       "Description": "Society and Culture not further defined",
       "Four_Digit_Code": "0900",
@@ -3317,7 +3317,7 @@
       "Definition": "Society and Culture/Society and Culture not further defined/Society and Culture not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090100",
       "Description": "Political Science and Policy Studies not further defined",
       "Four_Digit_Code": "0901",
@@ -3327,7 +3327,7 @@
       "Definition": "Society and Culture/Political Science and Policy Studies/Political Science and Policy Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090101",
       "Description": "Political Science",
       "Four_Digit_Code": "0901",
@@ -3337,7 +3337,7 @@
       "Definition": "Society and Culture/Political Science and Policy Studies/Political Science"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090103",
       "Description": "Policy Studies",
       "Four_Digit_Code": "0901",
@@ -3347,7 +3347,7 @@
       "Definition": "Society and Culture/Political Science and Policy Studies/Policy Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090300",
       "Description": "Studies in Human Society not further defined",
       "Four_Digit_Code": "0903",
@@ -3357,7 +3357,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Studies in Human Society not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090301",
       "Description": "Sociology",
       "Four_Digit_Code": "0903",
@@ -3367,7 +3367,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Sociology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090303",
       "Description": "Anthropology",
       "Four_Digit_Code": "0903",
@@ -3377,7 +3377,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Anthropology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090305",
       "Description": "History",
       "Four_Digit_Code": "0903",
@@ -3387,7 +3387,7 @@
       "Definition": "Society and Culture/Studies in Human Society/History"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090306",
       "Description": "Art History",
       "Four_Digit_Code": "0903",
@@ -3397,7 +3397,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Art History"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090307",
       "Description": "Archaeology",
       "Four_Digit_Code": "0903",
@@ -3407,7 +3407,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Archaeology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090308",
       "Description": "Classics",
       "Four_Digit_Code": "0903",
@@ -3417,7 +3417,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Classics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090309",
       "Description": "Human Geography",
       "Four_Digit_Code": "0903",
@@ -3427,7 +3427,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Human Geography"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090314",
       "Description": "Tikanga - Māori Customs",
       "Four_Digit_Code": "0903",
@@ -3437,7 +3437,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Tikanga - Māori Customs"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090316",
       "Description": "Women's Studies",
       "Four_Digit_Code": "0903",
@@ -3447,7 +3447,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Women's Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090399",
       "Description": "Studies in Human Society not elsewhere classified",
       "Four_Digit_Code": "0903",
@@ -3457,7 +3457,7 @@
       "Definition": "Society and Culture/Studies in Human Society/Studies in Human Society not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090500",
       "Description": "Human Welfare Studies and Services not further defined",
       "Four_Digit_Code": "0905",
@@ -3467,7 +3467,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Human Welfare Studies and Services not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090501",
       "Description": "Social Work",
       "Four_Digit_Code": "0905",
@@ -3477,7 +3477,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Social Work"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090502",
       "Description": "Children's Services",
       "Four_Digit_Code": "0905",
@@ -3487,7 +3487,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Children's Services"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090503",
       "Description": "Nannying and Early Childhood Care",
       "Four_Digit_Code": "0905",
@@ -3497,7 +3497,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Nannying and Early Childhood Care"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090505",
       "Description": "Youth Work",
       "Four_Digit_Code": "0905",
@@ -3507,7 +3507,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Youth Work"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090507",
       "Description": "Support for the Older Person",
       "Four_Digit_Code": "0905",
@@ -3517,7 +3517,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Support for the Older Person"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090509",
       "Description": "Care for People with Disabilities",
       "Four_Digit_Code": "0905",
@@ -3527,7 +3527,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Care for People with Disabilities"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090511",
       "Description": "Community Client Care",
       "Four_Digit_Code": "0905",
@@ -3537,7 +3537,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Community Client Care"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090513",
       "Description": "Counselling",
       "Four_Digit_Code": "0905",
@@ -3547,7 +3547,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Counselling"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090515",
       "Description": "Welfare Studies",
       "Four_Digit_Code": "0905",
@@ -3557,7 +3557,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Welfare Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090599",
       "Description": "Human Welfare Studies and Services not elsewhere classified",
       "Four_Digit_Code": "0905",
@@ -3567,7 +3567,7 @@
       "Definition": "Society and Culture/Human Welfare Studies and Services/Human Welfare Studies and Services not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090700",
       "Description": "Behavioural Science not further defined",
       "Four_Digit_Code": "0907",
@@ -3577,7 +3577,7 @@
       "Definition": "Society and Culture/Behavioural Science/Behavioural Science not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090701",
       "Description": "Psychology",
       "Four_Digit_Code": "0907",
@@ -3587,7 +3587,7 @@
       "Definition": "Society and Culture/Behavioural Science/Psychology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090799",
       "Description": "Behavioural Science not elsewhere classified",
       "Four_Digit_Code": "0907",
@@ -3597,7 +3597,7 @@
       "Definition": "Society and Culture/Behavioural Science/Behavioural Science not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090900",
       "Description": "Law not further defined",
       "Four_Digit_Code": "0909",
@@ -3607,7 +3607,7 @@
       "Definition": "Society and Culture/Law/Law not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090901",
       "Description": "Business and Commercial Law",
       "Four_Digit_Code": "0909",
@@ -3617,7 +3617,7 @@
       "Definition": "Society and Culture/Law/Business and Commercial Law"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090903",
       "Description": "Constitutional Law",
       "Four_Digit_Code": "0909",
@@ -3627,7 +3627,7 @@
       "Definition": "Society and Culture/Law/Constitutional Law"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090905",
       "Description": "Criminal Law",
       "Four_Digit_Code": "0909",
@@ -3637,7 +3637,7 @@
       "Definition": "Society and Culture/Law/Criminal Law"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090907",
       "Description": "Family Law",
       "Four_Digit_Code": "0909",
@@ -3647,7 +3647,7 @@
       "Definition": "Society and Culture/Law/Family Law"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090909",
       "Description": "International Law",
       "Four_Digit_Code": "0909",
@@ -3657,7 +3657,7 @@
       "Definition": "Society and Culture/Law/International Law"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090911",
       "Description": "Taxation Law",
       "Four_Digit_Code": "0909",
@@ -3667,7 +3667,7 @@
       "Definition": "Society and Culture/Law/Taxation Law"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090913",
       "Description": "Legal Practice",
       "Four_Digit_Code": "0909",
@@ -3677,7 +3677,7 @@
       "Definition": "Society and Culture/Law/Legal Practice"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "090999",
       "Description": "Law not elsewhere classified",
       "Four_Digit_Code": "0909",
@@ -3687,7 +3687,7 @@
       "Definition": "Society and Culture/Law/Law not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091100",
       "Description": "Justice and Law Enforcement not further defined",
       "Four_Digit_Code": "0911",
@@ -3697,7 +3697,7 @@
       "Definition": "Society and Culture/Justice and Law Enforcement/Justice and Law Enforcement not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091101",
       "Description": "Justice Administration",
       "Four_Digit_Code": "0911",
@@ -3707,7 +3707,7 @@
       "Definition": "Society and Culture/Justice and Law Enforcement/Justice Administration"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091103",
       "Description": "Legal Studies",
       "Four_Digit_Code": "0911",
@@ -3717,7 +3717,7 @@
       "Definition": "Society and Culture/Justice and Law Enforcement/Legal Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091105",
       "Description": "Police Studies",
       "Four_Digit_Code": "0911",
@@ -3727,7 +3727,7 @@
       "Definition": "Society and Culture/Justice and Law Enforcement/Police Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091199",
       "Description": "Justice and Law Enforcement not elsewhere classified",
       "Four_Digit_Code": "0911",
@@ -3737,7 +3737,7 @@
       "Definition": "Society and Culture/Justice and Law Enforcement/Justice and Law Enforcement not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091300",
       "Description": "Librarianship, Information Management and Curatorial Studies not further defined",
       "Four_Digit_Code": "0913",
@@ -3747,7 +3747,7 @@
       "Definition": "Society and Culture/Librarianship, Information Management and Curatorial Studies/Librarianship, Information Management and Curatorial Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091301",
       "Description": "Librarianship and Information Management",
       "Four_Digit_Code": "0913",
@@ -3757,7 +3757,7 @@
       "Definition": "Society and Culture/Librarianship, Information Management and Curatorial Studies/Librarianship and Information Management"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091303",
       "Description": "Curatorial Studies",
       "Four_Digit_Code": "0913",
@@ -3767,7 +3767,7 @@
       "Definition": "Society and Culture/Librarianship, Information Management and Curatorial Studies/Curatorial Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091500",
       "Description": "Language and Literature not further defined",
       "Four_Digit_Code": "0915",
@@ -3777,7 +3777,7 @@
       "Definition": "Society and Culture/Language and Literature/Language and Literature not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091501",
       "Description": "English Language",
       "Four_Digit_Code": "0915",
@@ -3787,7 +3787,7 @@
       "Definition": "Society and Culture/Language and Literature/English Language"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091502",
       "Description": "Te Reo Māori",
       "Four_Digit_Code": "0915",
@@ -3797,7 +3797,7 @@
       "Definition": "Society and Culture/Language and Literature/Te Reo Māori"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091504",
       "Description": "Foreign Languages",
       "Four_Digit_Code": "0915",
@@ -3807,7 +3807,7 @@
       "Definition": "Society and Culture/Language and Literature/Foreign Languages"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091506",
       "Description": "English for Speakers of Other Languages",
       "Four_Digit_Code": "0915",
@@ -3817,7 +3817,7 @@
       "Definition": "Society and Culture/Language and Literature/English for Speakers of Other Languages"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091519",
       "Description": "Translating and Interpreting",
       "Four_Digit_Code": "0915",
@@ -3827,7 +3827,7 @@
       "Definition": "Society and Culture/Language and Literature/Translating and Interpreting"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091521",
       "Description": "Linguistics",
       "Four_Digit_Code": "0915",
@@ -3837,7 +3837,7 @@
       "Definition": "Society and Culture/Language and Literature/Linguistics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091523",
       "Description": "Literature",
       "Four_Digit_Code": "0915",
@@ -3847,7 +3847,7 @@
       "Definition": "Society and Culture/Language and Literature/Literature"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091599",
       "Description": "Language and Literature not elsewhere classified",
       "Four_Digit_Code": "0915",
@@ -3857,7 +3857,7 @@
       "Definition": "Society and Culture/Language and Literature/Language and Literature not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091700",
       "Description": "Philosophy and Religious Studies not further defined",
       "Four_Digit_Code": "0917",
@@ -3867,7 +3867,7 @@
       "Definition": "Society and Culture/Philosophy and Religious Studies/Philosophy and Religious Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091701",
       "Description": "Philosophy",
       "Four_Digit_Code": "0917",
@@ -3877,7 +3877,7 @@
       "Definition": "Society and Culture/Philosophy and Religious Studies/Philosophy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091703",
       "Description": "Religious Studies",
       "Four_Digit_Code": "0917",
@@ -3887,7 +3887,7 @@
       "Definition": "Society and Culture/Philosophy and Religious Studies/Religious Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091900",
       "Description": "Economics and Econometrics not further defined",
       "Four_Digit_Code": "0919",
@@ -3897,7 +3897,7 @@
       "Definition": "Society and Culture/Economics and Econometrics/Economics and Econometrics not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091901",
       "Description": "Economics",
       "Four_Digit_Code": "0919",
@@ -3907,7 +3907,7 @@
       "Definition": "Society and Culture/Economics and Econometrics/Economics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "091903",
       "Description": "Econometrics",
       "Four_Digit_Code": "0919",
@@ -3917,7 +3917,7 @@
       "Definition": "Society and Culture/Economics and Econometrics/Econometrics"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "092100",
       "Description": "Sport and Recreation not further defined",
       "Four_Digit_Code": "0921",
@@ -3927,7 +3927,7 @@
       "Definition": "Society and Culture/Sport and Recreation/Sport and Recreation not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "092101",
       "Description": "Sport and Recreation Activities",
       "Four_Digit_Code": "0921",
@@ -3937,7 +3937,7 @@
       "Definition": "Society and Culture/Sport and Recreation/Sport and Recreation Activities"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "092103",
       "Description": "Sports Coaching, Playing, Officiating and Instructing",
       "Four_Digit_Code": "0921",
@@ -3947,7 +3947,7 @@
       "Definition": "Society and Culture/Sport and Recreation/Sports Coaching, Playing, Officiating and Instructing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "092199",
       "Description": "Sport and Recreation not elsewhere classified",
       "Four_Digit_Code": "0921",
@@ -3957,7 +3957,7 @@
       "Definition": "Society and Culture/Sport and Recreation/Sport and Recreation not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "099900",
       "Description": "Other Society and Culture not further defined",
       "Four_Digit_Code": "0999",
@@ -3967,7 +3967,7 @@
       "Definition": "Society and Culture/Other Society and Culture/Other Society and Culture not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "099901",
       "Description": "Community, Whanau, Family and Consumer Studies",
       "Four_Digit_Code": "0999",
@@ -3977,7 +3977,7 @@
       "Definition": "Society and Culture/Other Society and Culture/Community, Whanau, Family and Consumer Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "099902",
       "Description": "Cultural Studies",
       "Four_Digit_Code": "0999",
@@ -3987,7 +3987,7 @@
       "Definition": "Society and Culture/Other Society and Culture/Cultural Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "099903",
       "Description": "Criminology",
       "Four_Digit_Code": "0999",
@@ -3997,7 +3997,7 @@
       "Definition": "Society and Culture/Other Society and Culture/Criminology"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "099905",
       "Description": "Security Services",
       "Four_Digit_Code": "0999",
@@ -4007,7 +4007,7 @@
       "Definition": "Society and Culture/Other Society and Culture/Security Services"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "099999",
       "Description": "Society and Culture not elsewhere classified",
       "Four_Digit_Code": "0999",
@@ -4017,7 +4017,7 @@
       "Definition": "Society and Culture/Other Society and Culture/Society and Culture not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100000",
       "Description": "Creative Arts not further defined",
       "Four_Digit_Code": "1000",
@@ -4027,7 +4027,7 @@
       "Definition": "Creative Arts/Creative Arts not further defined/Creative Arts not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100100",
       "Description": "Performing Arts not further defined",
       "Four_Digit_Code": "1001",
@@ -4037,7 +4037,7 @@
       "Definition": "Creative Arts/Performing Arts/Performing Arts not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100101",
       "Description": "Music",
       "Four_Digit_Code": "1001",
@@ -4047,7 +4047,7 @@
       "Definition": "Creative Arts/Performing Arts/Music"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100103",
       "Description": "Drama and Theatre Studies",
       "Four_Digit_Code": "1001",
@@ -4057,7 +4057,7 @@
       "Definition": "Creative Arts/Performing Arts/Drama and Theatre Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100105",
       "Description": "Dance",
       "Four_Digit_Code": "1001",
@@ -4067,7 +4067,7 @@
       "Definition": "Creative Arts/Performing Arts/Dance"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100106",
       "Description": "Ngā Mahi a Rēhia (Māori Performing Arts)",
       "Four_Digit_Code": "1001",
@@ -4077,7 +4077,7 @@
       "Definition": "Creative Arts/Performing Arts/Ngā Mahi a Rēhia (Māori Performing Arts)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100199",
       "Description": "Performing Arts not elsewhere classified",
       "Four_Digit_Code": "1001",
@@ -4087,7 +4087,7 @@
       "Definition": "Creative Arts/Performing Arts/Performing Arts not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100300",
       "Description": "Visual Arts and Crafts not further defined",
       "Four_Digit_Code": "1003",
@@ -4097,7 +4097,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Visual Arts and Crafts not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100301",
       "Description": "Fine Arts",
       "Four_Digit_Code": "1003",
@@ -4107,7 +4107,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Fine Arts"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100303",
       "Description": "Photography",
       "Four_Digit_Code": "1003",
@@ -4117,7 +4117,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Photography"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100305",
       "Description": "Crafts",
       "Four_Digit_Code": "1003",
@@ -4127,7 +4127,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Crafts"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100306",
       "Description": "Mana Whakairo (Māori Carving)",
       "Four_Digit_Code": "1003",
@@ -4137,7 +4137,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Mana Whakairo (Māori Carving)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100307",
       "Description": "Jewellery Making",
       "Four_Digit_Code": "1003",
@@ -4147,7 +4147,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Jewellery Making"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100309",
       "Description": "Floristry",
       "Four_Digit_Code": "1003",
@@ -4157,7 +4157,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Floristry"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100399",
       "Description": "Visual Arts and Crafts not elsewhere classified",
       "Four_Digit_Code": "1003",
@@ -4167,7 +4167,7 @@
       "Definition": "Creative Arts/Visual Arts and Crafts/Visual Arts and Crafts not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100500",
       "Description": "Graphic and Design Studies not further defined",
       "Four_Digit_Code": "1005",
@@ -4177,7 +4177,7 @@
       "Definition": "Creative Arts/Graphic and Design Studies/Graphic and Design Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100501",
       "Description": "Graphic Arts and Design Studies",
       "Four_Digit_Code": "1005",
@@ -4187,7 +4187,7 @@
       "Definition": "Creative Arts/Graphic and Design Studies/Graphic Arts and Design Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100503",
       "Description": "Textile Design",
       "Four_Digit_Code": "1005",
@@ -4197,7 +4197,7 @@
       "Definition": "Creative Arts/Graphic and Design Studies/Textile Design"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100505",
       "Description": "Fashion Design",
       "Four_Digit_Code": "1005",
@@ -4207,7 +4207,7 @@
       "Definition": "Creative Arts/Graphic and Design Studies/Fashion Design"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100506",
       "Description": "Ngā Mahi a te Whare Pora (Māori Weaving)",
       "Four_Digit_Code": "1005",
@@ -4217,7 +4217,7 @@
       "Definition": "Creative Arts/Graphic and Design Studies/Ngā Mahi a te Whare Pora (Māori Weaving)"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100599",
       "Description": "Graphic and Design Studies not elsewhere classified",
       "Four_Digit_Code": "1005",
@@ -4227,7 +4227,7 @@
       "Definition": "Creative Arts/Graphic and Design Studies/Graphic and Design Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100700",
       "Description": "Communication and Media Studies not further defined",
       "Four_Digit_Code": "1007",
@@ -4237,7 +4237,7 @@
       "Definition": "Creative Arts/Communication and Media Studies/Communication and Media Studies not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100701",
       "Description": "Audio Visual Studies",
       "Four_Digit_Code": "1007",
@@ -4247,7 +4247,7 @@
       "Definition": "Creative Arts/Communication and Media Studies/Audio Visual Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100703",
       "Description": "Journalism, Communication and Media Studies",
       "Four_Digit_Code": "1007",
@@ -4257,7 +4257,7 @@
       "Definition": "Creative Arts/Communication and Media Studies/Journalism, Communication and Media Studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100705",
       "Description": "Written Communication",
       "Four_Digit_Code": "1007",
@@ -4267,7 +4267,7 @@
       "Definition": "Creative Arts/Communication and Media Studies/Written Communication"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100707",
       "Description": "Verbal Communication",
       "Four_Digit_Code": "1007",
@@ -4277,7 +4277,7 @@
       "Definition": "Creative Arts/Communication and Media Studies/Verbal Communication"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100709",
       "Description": "Multimedia studies",
       "Four_Digit_Code": "1007",
@@ -4287,7 +4287,7 @@
       "Definition": "Creative Arts/Communication and Media Studies/Multimedia studies"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "100799",
       "Description": "Communication and Media Studies not elsewhere classified",
       "Four_Digit_Code": "1007",
@@ -4297,7 +4297,7 @@
       "Definition": "Creative Arts/Communication and Media Studies/Communication and Media Studies not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "109900",
       "Description": "Other Creative Arts not further defined",
       "Four_Digit_Code": "1099",
@@ -4307,7 +4307,7 @@
       "Definition": "Creative Arts/Other Creative Arts/Other Creative Arts not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "109999",
       "Description": "Creative Arts not elsewhere classified",
       "Four_Digit_Code": "1099",
@@ -4317,7 +4317,7 @@
       "Definition": "Creative Arts/Other Creative Arts/Creative Arts not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110000",
       "Description": "Food, Hospitality and Personal Services not further defined",
       "Four_Digit_Code": "1100",
@@ -4327,7 +4327,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food, Hospitality and Personal Services not further defined/Food, Hospitality and Personal Services not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110100",
       "Description": "Food and Hospitality not further defined",
       "Four_Digit_Code": "1101",
@@ -4337,7 +4337,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Food and Hospitality not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110101",
       "Description": "Hospitality",
       "Four_Digit_Code": "1101",
@@ -4347,7 +4347,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Hospitality"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110103",
       "Description": "Food and Beverage Service",
       "Four_Digit_Code": "1101",
@@ -4357,7 +4357,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Food and Beverage Service"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110105",
       "Description": "Butchery",
       "Four_Digit_Code": "1101",
@@ -4367,7 +4367,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Butchery"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110107",
       "Description": "Baking and Pastry Making",
       "Four_Digit_Code": "1101",
@@ -4377,7 +4377,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Baking and Pastry Making"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110109",
       "Description": "Cookery",
       "Four_Digit_Code": "1101",
@@ -4387,7 +4387,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Cookery"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110111",
       "Description": "Food Hygiene",
       "Four_Digit_Code": "1101",
@@ -4397,7 +4397,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Food Hygiene"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110199",
       "Description": "Food and Hospitality not elsewhere classified",
       "Four_Digit_Code": "1101",
@@ -4407,7 +4407,7 @@
       "Definition": "Food, Hospitality and Personal Services/Food and Hospitality/Food and Hospitality not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110300",
       "Description": "Personal Services not further defined",
       "Four_Digit_Code": "1103",
@@ -4417,7 +4417,7 @@
       "Definition": "Food, Hospitality and Personal Services/Personal Services/Personal Services not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110301",
       "Description": "Beauty Therapy",
       "Four_Digit_Code": "1103",
@@ -4427,7 +4427,7 @@
       "Definition": "Food, Hospitality and Personal Services/Personal Services/Beauty Therapy"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110303",
       "Description": "Hairdressing",
       "Four_Digit_Code": "1103",
@@ -4437,7 +4437,7 @@
       "Definition": "Food, Hospitality and Personal Services/Personal Services/Hairdressing"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "110399",
       "Description": "Personal Services not elsewhere classified",
       "Four_Digit_Code": "1103",
@@ -4447,7 +4447,7 @@
       "Definition": "Food, Hospitality and Personal Services/Personal Services/Personal Services not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120000",
       "Description": "Mixed Field Programmes not further defined",
       "Four_Digit_Code": "1200",
@@ -4457,7 +4457,7 @@
       "Definition": "Mixed Field Programmes/Mixed Field Programmes not further defined/Mixed Field Programmes not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120100",
       "Description": "General Education Programmes not further defined",
       "Four_Digit_Code": "1201",
@@ -4467,7 +4467,7 @@
       "Definition": "Mixed Field Programmes/General Education Programmes/General Education Programmes not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120101",
       "Description": "General Primary and Secondary Education",
       "Four_Digit_Code": "1201",
@@ -4477,7 +4477,7 @@
       "Definition": "Mixed Field Programmes/General Education Programmes/General Primary and Secondary Education"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120103",
       "Description": "Literacy and Numeracy Programmes",
       "Four_Digit_Code": "1201",
@@ -4487,7 +4487,7 @@
       "Definition": "Mixed Field Programmes/General Education Programmes/Literacy and Numeracy Programmes"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120105",
       "Description": "Learning Skills Programmes",
       "Four_Digit_Code": "1201",
@@ -4497,7 +4497,7 @@
       "Definition": "Mixed Field Programmes/General Education Programmes/Learning Skills Programmes"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120199",
       "Description": "General Education Programmes not elsewhere classified",
       "Four_Digit_Code": "1201",
@@ -4507,7 +4507,7 @@
       "Definition": "Mixed Field Programmes/General Education Programmes/General Education Programmes not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120300",
       "Description": "Social Skills Programmes not further defined",
       "Four_Digit_Code": "1203",
@@ -4517,7 +4517,7 @@
       "Definition": "Mixed Field Programmes/Social Skills Programmes/Social Skills Programmes not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120301",
       "Description": "Social and Interpersonal Skills Programmes",
       "Four_Digit_Code": "1203",
@@ -4527,7 +4527,7 @@
       "Definition": "Mixed Field Programmes/Social Skills Programmes/Social and Interpersonal Skills Programmes"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120303",
       "Description": "Life Skills",
       "Four_Digit_Code": "1203",
@@ -4537,7 +4537,7 @@
       "Definition": "Mixed Field Programmes/Social Skills Programmes/Life Skills"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120304",
       "Description": "Family/Whānau Education",
       "Four_Digit_Code": "1203",
@@ -4547,7 +4547,7 @@
       "Definition": "Mixed Field Programmes/Social Skills Programmes/Family/Whānau Education"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120399",
       "Description": "Social Skills Programmes not elsewhere classified",
       "Four_Digit_Code": "1203",
@@ -4557,7 +4557,7 @@
       "Definition": "Mixed Field Programmes/Social Skills Programmes/Social Skills Programmes not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120500",
       "Description": "Employment Skills Programmes not further defined",
       "Four_Digit_Code": "1205",
@@ -4567,7 +4567,7 @@
       "Definition": "Mixed Field Programmes/Employment Skills Programmes/Employment Skills Programmes not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120501",
       "Description": "Career Development Programmes",
       "Four_Digit_Code": "1205",
@@ -4577,7 +4577,7 @@
       "Definition": "Mixed Field Programmes/Employment Skills Programmes/Career Development Programmes"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120503",
       "Description": "Job Search Skills Programmes",
       "Four_Digit_Code": "1205",
@@ -4587,7 +4587,7 @@
       "Definition": "Mixed Field Programmes/Employment Skills Programmes/Job Search Skills Programmes"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120505",
       "Description": "Work Practices Programmes",
       "Four_Digit_Code": "1205",
@@ -4597,7 +4597,7 @@
       "Definition": "Mixed Field Programmes/Employment Skills Programmes/Work Practices Programmes"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "120599",
       "Description": "Employment Skills Programmes not elsewhere classified",
       "Four_Digit_Code": "1205",
@@ -4607,7 +4607,7 @@
       "Definition": "Mixed Field Programmes/Employment Skills Programmes/Employment Skills Programmes not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "129900",
       "Description": "Other Mixed Field Programmes not further defined",
       "Four_Digit_Code": "1299",
@@ -4617,7 +4617,7 @@
       "Definition": "Mixed Field Programmes/Other Mixed Field Programmes/Other Mixed Field Programmes not further defined"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "129999",
       "Description": "Mixed Field Programmes not elsewhere classified",
       "Four_Digit_Code": "1299",
@@ -4627,7 +4627,7 @@
       "Definition": "Mixed Field Programmes/Other Mixed Field Programmes/Mixed Field Programmes not elsewhere classified"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "444444",
       "Description": "Don't Know",
       "Four_Digit_Code": "4444",
@@ -4637,7 +4637,7 @@
       "Definition": "Don't Know/Don't Know/Don't Know"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "555555",
       "Description": "Refused to Answer",
       "Four_Digit_Code": "5555",
@@ -4647,7 +4647,7 @@
       "Definition": "Refused to Answer/Refused to Answer/Refused to Answer"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "777777",
       "Description": "Response Unidentifiable",
       "Four_Digit_Code": "7777",
@@ -4657,7 +4657,7 @@
       "Definition": "Response Unidentifiable/Response Unidentifiable/Response Unidentifiable"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "888888",
       "Description": "Response Outside Scope",
       "Four_Digit_Code": "8888",
@@ -4667,7 +4667,7 @@
       "Definition": "Response Outside Scope/Response Outside Scope/Response Outside Scope"
     },
     {
-      "Version": "2.0.0",
+      "Version": "NZSCED 2.0.0",
       "Code": "999999",
       "Description": "Not Stated",
       "Four_Digit_Code": "9999",
