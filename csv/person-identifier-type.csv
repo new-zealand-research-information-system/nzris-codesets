@@ -1,7 +1,0 @@
-Version,Code,Description,Definition,Guide.for.Use
-1.0,01,Local,"A unique, persistent identifier used by the submitting organisation",NA
-1.0,02,ORCID ID,Open Researcher and Contributor ID,NA
-1.0,03,ISNI,International Standard Name Identifier,NA
-1.0,04,SCOPUS,SCOPUS individual identifier,NA
-1.0,05,ResearcherID,ResearcherID individual identifier,NA
-1.0,99,Other Identifier,An identifier not otherwise identified,NA
